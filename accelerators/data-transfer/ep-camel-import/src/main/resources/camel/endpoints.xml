@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:camel="http://camel.apache.org/schema/spring"
+	xsi:schemaLocation="
+          http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+	<!-- Endpoints -->
+	<bean id="fileshareEndpoint" parent="camelEndpointFactoryBean.ep-camel-import">
+		<property name="uri"
+			value="${camel.import.endpoint.uri.fileshareEndpoint:file://${camel.import.file.share.location:/home/ep/share}?include=.*.new&amp;move=.done&amp;moveFailed=.error}" />
+	</bean>
+
+	<bean id="fileshareDeadLetterEndpoint" parent="camelEndpointFactoryBean.ep-camel-import">
+		<property name="uri"
+			value="${camel.import.endpoint.uri.fileshareDeadLetterEndpoint:file://${camel.import.file.share.location.deadLetter:/home/ep/share/.error}?include=.*.new&amp;move=.done}" />
+	</bean>
+
+	<bean id="smtpHostName" parent="settingFactoryBean">
+		<property name="path" value="COMMERCE/SYSTEM/EMAIL/mailHost" />
+	</bean>
+
+	<bean id="smtpHostDeadLetterEndpoint" parent="camelEndpointFactoryBean.ep-camel-import">
+		<property name="uri"
+			value="${camel.import.endpoint.uri.smtpHost.deadLetter:file://${camel.import.file.share.location.deadLetter:/home/ep/share/.error}/.senderror}" />
+	</bean>
+</beans>

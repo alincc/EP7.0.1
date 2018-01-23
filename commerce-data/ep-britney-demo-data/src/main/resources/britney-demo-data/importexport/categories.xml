@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+<category mastercatalog="BritneyBroden">
+    <guid>50d13f50-b79f-473c-b3b0-ef00429b3ce9</guid>
+    <parentcategory></parentcategory>
+    <code>BBACCESSORIES</code>
+    <name>
+        <value language="en_US">BB Accessories</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Accessories</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:46-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>52e60a56-7304-44fa-a6b2-6d1f0ed0e8cb</guid>
+            <order>0</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>c84ab69a-30a7-49bb-8c0b-584be4649fed</guid>
+            <order>0</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+<category mastercatalog="BritneyBroden">
+    <guid>a301d2b0-ab3c-41d4-ab91-d6a389186c97</guid>
+    <parentcategory></parentcategory>
+    <code>BBAPPAREL</code>
+    <name>
+        <value language="en_US">BB Apparel</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Apparel</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>1</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:47-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>ebd41c59-28b6-4793-969e-de7f5e105f85</guid>
+            <order>1</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>eff293f2-ee2f-4f06-ad2d-ae95291d97da</guid>
+            <order>1</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+<category mastercatalog="BritneyBroden">
+    <guid>a0d04730-0fd7-4ee9-b6cc-d6edd3540e71</guid>
+    <parentcategory>BBAPPAREL</parentcategory>
+    <code>BBDRESSES</code>
+    <name>
+        <value language="en_US">BB Dresses</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Dresses</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>6</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:47-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>ec295608-7369-4652-a367-85837d730802</guid>
+            <order>6</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>3941f073-8de4-4cb0-9aae-00f9616f1d20</guid>
+            <order>6</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+
+<category mastercatalog="BritneyBroden">
+    <guid>613adee7-910d-4fbb-b4af-8b7045e72037</guid>
+    <parentcategory>BBACCESSORIES</parentcategory>
+    <code>BBBAGS</code>
+    <name>
+        <value language="en_US">BB Bags</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Bags</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>5</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:47-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>4ebad018-0775-4595-aeb4-fce5c3a383a5</guid>
+            <order>5</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>7db95f68-ba95-45d5-8882-1c8f4b5ff8e6</guid>
+            <order>5</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+
+<category mastercatalog="BritneyBroden">
+    <guid>cc0fdfde-99e4-4a2a-a8b7-3a65524d3209</guid>
+    <parentcategory></parentcategory>
+    <code>BBFOOTWEARS</code>
+    <name>
+        <value language="en_US">BB Footwear</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Footwear</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>4</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:46-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>cf09ae8b-969b-4bab-b5f0-fdeb29bd76d9</guid>
+            <order>4</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>ebc637d6-61c4-46e3-9987-09e5288f5866</guid>
+            <order>4</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+
+<category mastercatalog="BritneyBroden">
+    <guid>20666e0d-d70b-4dc3-b9b7-c9d6b201aeb5</guid>
+    <parentcategory>BBAPPAREL</parentcategory>
+    <code>BBSHIRTS</code>
+    <name>
+        <value language="en_US">BB Shirts</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Shirts</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>3</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:47-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>3886467d-836b-4a4c-aa15-aa1f8ab96237</guid>
+            <order>3</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>c5223944-6ab4-40c4-a821-c55e45bd7de7</guid>
+            <order>3</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+
+<category mastercatalog="BritneyBroden">
+    <guid>9fad8170-f76c-4dc0-a39c-868c2cec5978</guid>
+    <parentcategory>BBACCESSORIES</parentcategory>
+    <code>BBBELTS</code>
+    <name>
+        <value language="en_US">BB Belts</value>
+        <value language="es_ES"></value>
+        <value language="en">BB Belts</value>
+        <value language="es"></value>
+    </name>
+    <type>BBAccessories</type>
+    <order>1</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2014-09-10T23:36:47-07:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </url>
+        <title>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </title>
+        <keywords>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </keywords>
+        <description>
+            <value language="en_US"></value>
+            <value language="es_ES"></value>
+            <value language="en"></value>
+            <value language="es"></value>
+        </description>
+    </seo>
+    <linkedcategories>
+        <linkedcategory virtualcatalog="BritneytBrodenUS">
+            <guid>aa6b9204-17b0-4271-b2cf-45a95f566204</guid>
+            <order>2</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+        <linkedcategory virtualcatalog="BritneyBrodenSpain">
+            <guid>749ef6b1-bebc-459c-bb5e-2ffb91903b07</guid>
+            <order>1</order>
+            <excluded>false</excluded>
+        </linkedcategory>
+    </linkedcategories>
+</category>
+</categories>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/util
+		http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+	<!-- NOTE:  The following bean helps retrieve settings from the database by wiring it with a path value.
+				Use this pattern only for setting values that are not expected to be modified during the
+				application run time. The Spring initialized setting values are only useful for scenarios
+				where the setting value is expected to be read once per application start.
+
+				An alternative is to inject and use settingsReader -->
+
+	<!--
+	 	<bean id="exampleSourceEndpointUri" parent="settingFactoryBean">
+			<property name="path" value="EXAMPLE/SETTING/PATH/sourceEndpointUri" />
+		</bean>
+	-->
+	
+ 	<bean id="smtpHostName" parent="settingFactoryBean">
+		<property name="path" value="COMMERCE/SYSTEM/EMAIL/mailHost" />
+	</bean>
+	
+ 	<bean id="changeSetQueueUri" parent="settingFactoryBean">
+		<property name="path" value="COMMERCE/SYSTEM/MESSAGING/CHANGESETS/channelUri" />
+	</bean>
+	
+	<bean id="deadLetterQueueEndpoint" parent="camelEndpointFactoryBean.ep-camel-datasync">
+		<property name="uri" value="${camel.datasync.endpoint.uri.deadLetterQueueEndpointUri}" />
+	</bean>
+	
+	<bean id="smtpHostDeadLetterEndpoint" parent="camelEndpointFactoryBean.ep-camel-datasync">
+		<property name="uri" value="${camel.datasync.endpoint.uri.deadLetterQueueEndpointUri}" />
+	</bean>
+
+	<bean id="epChangeSetEndpoint" parent="camelEndpointFactoryBean.ep-camel-datasync">
+		<property name="uri" ref="changeSetQueueUri" />
+	</bean>
+		
+	<bean id="emailChangeSetResultEndpoint" parent="camelEndpointFactoryBean.ep-camel-datasync">
+		<property name="uri" value="direct:emailChangeSetResult" />
+	</bean>
+	
+	<bean id="publishChangeSetDirectEndpoint" parent="camelEndpointFactoryBean.ep-camel-datasync">
+		<property name="uri" value="direct:publishChangeSet" />
+	</bean>
+	
+</beans>

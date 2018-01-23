@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/util
+		http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+	
+	<bean id="defaultRedeliveryPolicy" class="org.apache.camel.processor.RedeliveryPolicy">
+		<property name="redeliveryDelay" value="1000"/>
+		<property name="maximumRedeliveries" value="5"/>
+		<property name="retryAttemptedLogLevel" value="WARN"/>
+	</bean>
+	
+	<bean id="abstractErrorHandlingRoute" abstract="true">
+		<property name="deadLetterQueueEndpoint" ref="deadLetterQueueEndpoint" />
+		<property name="transactionPolicyBeanId" value="JMS_PROPAGATION_REQUIRED" />
+		<property name="redeliveryPolicyBeanId" value="defaultRedeliveryPolicy" />
+	</bean>
+	
+	<bean id="changeSetEventSplitterRoute" class="com.elasticpath.repo.datasync.routes.EventTypeSplitterRoute"
+		parent="abstractErrorHandlingRoute">
+		<property name="sourceEndpoint" ref="epChangeSetEndpoint" />
+		<property name="eventMessageDataFormat" ref="eventMessageDataFormat" />
+		<property name="destinationEndPoints">
+			<map>
+				<entry key="PUBLISH" value-ref="publishChangeSetDirectEndpoint" />
+			</map>
+		</property>
+	</bean>
+
+	<bean id="changeSetPublishEventRoute" class="com.elasticpath.repo.datasync.routes.ChangeSetPublishEventRoute"
+		parent="abstractErrorHandlingRoute">
+		<property name="sourceEndpoint" ref="publishChangeSetDirectEndpoint" />
+		<property name="retrieveChangeSetGuidProcessor" ref="retrieveChangeSetGuidProcessor" />
+		<property name="publishChangeSetProcessor" ref="publishChangeSetProcessor" />
+		<property name="updateChangeSetStateProcessor" ref="finalizeChangeSetStateProcessor" />
+		<property name="openChangeSetStateProcessor" ref="openChangeSetStateProcessor" />
+		<property name="eventMessageDataFormat" ref="eventMessageDataFormat" />
+		<property name="emailChangeSetResultEndpoint" ref="emailChangeSetResultEndpoint" />
+	</bean>
+		
+	<bean id="changeSetPublishSendEmailRoute" class="com.elasticpath.repo.datasync.routes.ChangeSetPublishSendEmailRoute">
+		<property name="sourceEndpoint" ref="emailChangeSetResultEndpoint" />
+		<property name="deadLetterEndpoint" ref="smtpHostDeadLetterEndpoint" />
+		<property name="smtpHostName" ref="smtpHostName" />
+		<property name="maximumRedeliveries" value="${camel.datasync.deadLetter.maximumRedeliveries}" />
+		<property name="maximumRedeliveryDelay" value="${camel.datasync.deadLetter.maximumRedeliveryDelay}" />
+		<property name="changeSetPublishEmailProcessor" ref="changeSetPublishEmailProcessor" />
+	</bean>
+
+</beans>

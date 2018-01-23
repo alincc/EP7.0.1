@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name="set-parent-version" default="set-parent-version">
+
+	<target name="set-parent-version">
+		<xslt style="${basedir}/src/release/set-parent-version.xslt" in="${basedir}/pom.xml" out="${basedir}/target/pom.out.xml" force="true">
+			<param name="parent.version" expression="${parent.version}" />
+		</xslt>
+		<copy file="${basedir}/target/pom.out.xml" tofile="${basedir}/pom.xml" />
+	</target>
+</project>

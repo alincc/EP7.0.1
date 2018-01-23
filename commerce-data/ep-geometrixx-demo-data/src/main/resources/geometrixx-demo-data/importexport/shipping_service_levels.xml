@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shipping_service_levels>
+<shipping_service_level guid="14f3b7d7-02a9-4a7f-91fd-35dbfdafb5b3">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>10.0</value>
+                <display_text>10.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">Canada Post - $10.00</value>
+    </localized_names>
+    <code>Canada_post</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="aa7bf7c1-967f-4e08-91be-1bb457b3ce1f">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>18.0</value>
+                <display_text>18.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">1 Business Days (Canada Post - Xpresspost) - $18.00</value>
+    </localized_names>
+    <code>Canada_post_1Day</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="04650b09-ee67-4bd6-83b3-425b6e723a60">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>15.0</value>
+                <display_text>15.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">2 Business Days (Canada Post - Regular Parcel) - $15.00</value>
+    </localized_names>
+    <code>Canada_post_2Day</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="dc76893c-5958-40d6-b295-1b3656f17929">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>25.0</value>
+                <display_text>25.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">Next Business Days (Canada Post - Priority Courier) - $25.00</value>
+    </localized_names>
+    <code>Canada_post_NextDay</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="8902bf17-9767-4b91-9781-69987b81d5bb">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>10.0</value>
+                <display_text>10.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Fed Ex</carrier>
+    <localized_names>
+        <value language="en">Standard Letter Post - $10.00</value>
+    </localized_names>
+    <code>USAFEDEX01</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="1af99747-5a77-43ab-a8ac-e3c092591d60">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>25.0</value>
+                <display_text>25.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Fed Ex</carrier>
+    <localized_names>
+        <value language="en">Flat Rate 2-day US Shipping - $25.00</value>
+    </localized_names>
+    <code>USAFEDEX2DAY</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="997e60d1-2a55-42d1-8569-c8295989e25b">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>20.0</value>
+                <display_text>20.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Fed Ex</carrier>
+    <localized_names>
+        <value language="en">Flat Rate 3-day US Shipping - $20.00</value>
+    </localized_names>
+    <code>USAFEDEX3DAY</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="be65ee4a-3d96-4bbd-96df-ce97262d53a4">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>40.0</value>
+                <display_text>40.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>geometrixx</storecode>
+    <carrier>Fed Ex</carrier>
+    <localized_names>
+        <value language="en">Flat Rate Overnight US Shipping - $40.00</value>
+    </localized_names>
+    <code>USAFEDEXOVERNIGHT</code>
+    <active>true</active>
+</shipping_service_level>
+</shipping_service_levels>

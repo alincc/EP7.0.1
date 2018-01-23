@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="storeRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.store.StoreRepository"/>
+
+	<reference id="storeProductRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.product.StoreProductRepository"/>
+
+	<reference id="orderRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.order.OrderRepository"/>
+
+	<reference id="productSkuRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.sku.ProductSkuRepository"/>
+
+	<reference id="itemRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.item.ItemRepository"/>
+
+	<reference id="cartOrderRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.CartOrderRepository"/>
+
+	<reference id="customerSessionRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.customer.CustomerSessionRepository"/>
+
+	<reference id="shoppingCartRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.ShoppingCartRepository"/>
+
+	<reference id="pricingSnapshotRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.PricingSnapshotRepository"/>
+
+	<reference id="purchaseRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.purchase.PurchaseRepository"/>
+
+	<reference id="cartItemModifiersRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.CartItemModifiersRepository"/>
+
+	<reference id="addressTransformer"
+			interface="com.elasticpath.rest.resource.integration.commons.addresses.transform.AddressTransformer"/>
+
+	<reference id="moneyTransformer"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.transform.MoneyTransformer"/>
+
+	<reference id="dateTransformer"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.transform.DateTransformer"/>
+
+	<!-- export services -->
+	<service ref="purchaseLookupStrategy"
+			interface="com.elasticpath.rest.resource.purchases.integration.PurchaseLookupStrategy"/>
+
+	<service ref="purchaseWriterStrategy"
+			interface="com.elasticpath.rest.resource.purchases.integration.PurchaseWriterStrategy"/>
+
+	<service ref="paymentMeansLookupStrategy"
+			interface="com.elasticpath.rest.resource.purchases.paymentmeans.integration.PaymentMeansLookupStrategy"/>
+
+	<service ref="purchaseLineItemLookupStrategy"
+			interface="com.elasticpath.rest.resource.purchases.lineitems.integration.PurchaseLineItemLookupStrategy"/>
+
+	<service ref="purchaseLineItemOptionsLookupStrategy"
+			interface="com.elasticpath.rest.resource.purchases.lineitems.integration.PurchaseLineItemOptionsLookupStrategy"/>
+
+	<service ref="billingAddressLookupStrategy"
+			interface="com.elasticpath.rest.resource.purchases.addresses.integration.BillingAddressLookupStrategy"/>
+</blueprint>

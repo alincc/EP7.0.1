@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productassociations>
+<productassociation catalog="BritneytBrodenUS">
+    <type>CrossSell</type>
+    <enabledate>2015-05-15T14:41:14.388-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP131</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>1</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>CrossSell</type>
+    <enabledate>2015-05-15T14:39:45.538-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP133</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>4</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>UpSell</type>
+    <enabledate>2015-05-15T14:39:01.661-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP108</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>3</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>CrossSell</type>
+    <enabledate>2015-05-15T14:42:06.442-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP116</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>5</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>UpSell</type>
+    <enabledate>2015-05-15T14:39:19.045-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP101</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>5</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>UpSell</type>
+    <enabledate>2015-05-15T14:38:54.539-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP102</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>2</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>UpSell</type>
+    <enabledate>2015-05-15T14:38:48.271-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP104</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>1</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>UpSell</type>
+    <enabledate>2015-05-15T14:39:11.801-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP107</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>4</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>Accessory</type>
+    <enabledate>2015-05-15T14:44:39.713-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP126</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>4</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>Accessory</type>
+    <enabledate>2015-05-15T14:44:48.042-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP124</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>5</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>Accessory</type>
+    <enabledate>2015-05-15T14:44:15.342-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP121</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>1</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>Accessory</type>
+    <enabledate>2015-05-15T14:44:30.066-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP119</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>3</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>Accessory</type>
+    <enabledate>2015-05-15T14:44:21.644-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP125</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>2</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>CrossSell</type>
+    <enabledate>2015-05-15T14:40:54.800-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP129</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>2</ordering>
+</productassociation>
+
+<productassociation catalog="BritneytBrodenUS">
+    <type>CrossSell</type>
+    <enabledate>2015-05-15T14:42:19.785-07:00</enabledate>
+    <sourceproductcode>BBEP105</sourceproductcode>
+    <targetproductcode>BBEP115</targetproductcode>
+    <defaultquantity>1</defaultquantity>
+    <sourceproductdependent>false</sourceproductdependent>
+    <ordering>3</ordering>
+</productassociation>
+</productassociations>

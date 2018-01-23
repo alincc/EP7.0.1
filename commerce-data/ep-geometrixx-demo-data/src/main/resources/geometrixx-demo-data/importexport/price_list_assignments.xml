@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<price_list_assignments>
+<price_list_assignment>
+    <guid>15d0cb4f-4c30-4b20-bf8d-65337c1b196b</guid>
+    <name>Geometrixx MSRP</name>
+    <priority>10</priority>
+    <catalog_guid>geometrixx</catalog_guid>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+    <selling_context>
+        <guid>eaf54706-e4ce-4e31-ab23-d6e845803753</guid>
+        <name>SELLING_CONTEXT_NAME_null</name>
+        <description>SELLING_CONTEXT_DESCR_null</description>
+        <priority>0</priority>
+    </selling_context>
+</price_list_assignment>
+</price_list_assignments>

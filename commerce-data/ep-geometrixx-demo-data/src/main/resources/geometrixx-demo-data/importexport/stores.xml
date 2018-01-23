@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stores>
+<store code="geometrixx" enabled="true">
+    <globalization timeZone="Europe/London" country="US" sub_country="CA" content_encoding="UTF-8" default_locale="en" default_currency="USD"/>
+     <url>${geometrixx.store.url}</url>
+    <name>Geometrixx Outdoors</name>
+    <state>200</state>
+    <type>B2B</type>
+    <description></description>
+    <catalog>geometrixx</catalog>
+    <display_out_of_stock>true</display_out_of_stock>
+    <email_sender_name>admin@geometrixx.com</email_sender_name>
+    <email_sender_address>admin@geometrixx.com</email_sender_address>
+    <store_admin_email>admin@geometrixx.com</store_admin_email>
+    <credit_card_cvv2_enabled>true</credit_card_cvv2_enabled>
+    <store_full_credit_cards>false</store_full_credit_cards>
+    <locales>
+        <locale>en</locale>
+    </locales>
+    <currencies>
+        <currency>USD</currency>
+    </currencies>
+    <warehouses>
+        <warehouse>Geometrixx_US</warehouse>
+    </warehouses>
+    <tax_codes>
+        <guid>501</guid>
+        <guid>502</guid>
+        <guid>500</guid>
+    </tax_codes>
+    <tax_jurisdictions>
+        <jurisdiction>CATaxJurisdiction</jurisdiction>
+        <jurisdiction>USTaxJurisdiction</jurisdiction>
+    </tax_jurisdictions>
+    <payment_gateways>
+        <gateway>DemoTokenPaymentProcessor</gateway>
+    </payment_gateways>
+    <credit_card_types>
+        <type>American Express</type>
+        <type>Visa</type>
+        <type>MasterCard</type>
+    </credit_card_types>
+</store>
+</stores>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productcategoryassociations>
+<product code="eqwnbc">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmlg">
+    <catalog code="geometrixx">
+        <category code="surfing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnfr">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snwnms">
+    <catalog code="geometrixx">
+        <category code="hatsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapfn">
+    <catalog code="geometrixx">
+        <category code="pantsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmsm">
+    <catalog code="geometrixx">
+        <category code="sunglasses">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapaw">
+    <catalog code="geometrixx">
+        <category code="swimming">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapbz">
+    <catalog code="geometrixx">
+        <category code="swimming">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmappl">
+    <catalog code="geometrixx">
+        <category code="shirtsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapfs">
+    <catalog code="geometrixx">
+        <category code="shortsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmmr">
+    <catalog code="geometrixx">
+        <category code="running">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmnr">
+    <catalog code="geometrixx">
+        <category code="running">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmaptf">
+    <catalog code="geometrixx">
+        <category code="pantsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnaptg">
+    <catalog code="geometrixx">
+        <category code="shortsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapmm">
+    <catalog code="geometrixx">
+        <category code="shirtsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snwncw">
+    <catalog code="geometrixx">
+        <category code="coatsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapbb">
+    <catalog code="geometrixx">
+        <category code="shirtsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapms">
+    <catalog code="geometrixx">
+        <category code="shortsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapjs">
+    <catalog code="geometrixx">
+        <category code="shortsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapsp">
+    <catalog code="geometrixx">
+        <category code="coatsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snsmmv">
+    <catalog code="geometrixx">
+        <category code="hatss">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snwnsw">
+    <catalog code="geometrixx">
+        <category code="scarves">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snwnhw">
+    <catalog code="geometrixx">
+        <category code="scarves">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmsp">
+    <catalog code="geometrixx">
+        <category code="biking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmra">
+    <catalog code="geometrixx">
+        <category code="sunglasses">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmti">
+    <catalog code="geometrixx">
+        <category code="sunglasses">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmcj">
+    <catalog code="geometrixx">
+        <category code="biking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmdv">
+    <catalog code="geometrixx">
+        <category code="hiking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="snwnbs">
+    <catalog code="geometrixx">
+        <category code="hatsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnkl">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmij">
+    <catalog code="geometrixx">
+        <category code="sunglasses">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmnn">
+    <catalog code="geometrixx">
+        <category code="hiking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapbc">
+    <catalog code="geometrixx">
+        <category code="shirtsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnwh">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapth">
+    <catalog code="geometrixx">
+        <category code="shortsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapan">
+    <catalog code="geometrixx">
+        <category code="shirtsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmtc">
+    <catalog code="geometrixx">
+        <category code="biking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwntb">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmaptp">
+    <catalog code="geometrixx">
+        <category code="shirtsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="wmapnh">
+    <catalog code="geometrixx">
+        <category code="shirtsw">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnmt">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="mnapew">
+    <catalog code="geometrixx">
+        <category code="coatsm">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnkm">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnbf">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmit">
+    <catalog code="geometrixx">
+        <category code="hiking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmcz">
+    <catalog code="geometrixx">
+        <category code="hiking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqsmlt">
+    <catalog code="geometrixx">
+        <category code="hiking">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+
+<product code="eqwnkw">
+    <catalog code="geometrixx">
+        <category code="skiing">
+            <default>true</default>
+            <featuredorder>0</featuredorder>
+        </category>
+    </catalog>
+</product>
+</productcategoryassociations>

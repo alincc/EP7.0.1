@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.elasticpath.cmclient</groupId>
+		<artifactId>cmclient-parent</artifactId>
+		<version>700.1.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>cm-invoker</artifactId>
+	<packaging>pom</packaging>
+	<name>CM Invoker</name>
+
+	<description>Wrapper for integrating Tycho's Manifest-first reactor with Maven's POM-first reactor.</description>
+
+	<properties>
+		<maven.invoker.plugin.version>2.0.0</maven.invoker.plugin.version>
+		<parameter-property-converter-plugin.version>1</parameter-property-converter-plugin.version>
+	</properties>
+
+	<modules>
+		<module>../cm-libs</module>
+	</modules>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.elasticpath.tools</groupId>
+				<artifactId>parameter-property-converter-plugin</artifactId>
+				<version>${parameter-property-converter-plugin.version}</version>
+				<executions>
+					<execution>
+						<id>convert-maven-arguments</id>
+						<goals>
+							<goal>convert-arguments</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-invoker-plugin</artifactId>
+				<version>${maven.invoker.plugin.version}</version>
+				<executions>
+					<execution>
+						<id>build-cm-tycho-projects</id>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<pom>../pom.xml</pom>
+							<goals>${session.goals}</goals>
+							<profiles>${session.profiles}</profiles>
+							<invokerPropertiesFile>cm-invoker/invoker.properties</invokerPropertiesFile>
+							<showErrors>true</showErrors>
+							<streamLogs>true</streamLogs>
+							<noLog>true</noLog>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

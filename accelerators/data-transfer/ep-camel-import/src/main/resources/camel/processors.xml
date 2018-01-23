@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:camel="http://camel.apache.org/schema/spring"
+	xsi:schemaLocation="
+          http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+	<!-- Processors -->
+	<bean id="extractCatalogFeedDataLocationProcessor"
+		class="com.elasticpath.repo.camelimport.processors.ExtractCatalogFeedDataLocationProcessor" />
+
+	<bean id="createChangeSetProcessor"
+		class="com.elasticpath.repo.camelimport.processors.CreateChangesetProcessor">
+		<property name="beanFactory" ref="coreBeanFactory" />
+	</bean>
+
+	<bean id="createManifestProcessor"
+		class="com.elasticpath.repo.camelimport.processors.CreateManifestProcessor">
+		<property name="beanFactory" ref="coreBeanFactory" />
+	</bean>
+
+	<bean id="executeImportExportProcessor"
+		class="com.elasticpath.repo.camelimport.processors.ExecuteImportExportProcessor">
+		<property name="importerService" ref="importerService" />
+	</bean>
+
+	<bean id="lockChangeSetStateProcessor"
+		class="com.elasticpath.repo.camelimport.processors.LockChangeSetStateProcessor">
+		<property name="changeSetManagementService" ref="changeSetManagementService" />
+		<property name="beanFactory" ref="coreBeanFactory" />
+	</bean>
+
+	<bean id="perExecutionLoggingProcessor"
+		class="com.elasticpath.repo.camelimport.processors.PerExecutionLoggingProcessor">
+		<property name="logFilter" ref="loggerNameFilter" />
+	</bean>
+
+	<bean id="loggerNameFilter" class="com.elasticpath.repo.camelimport.LoggerNameFilter">
+		<property name="prefixes">
+			<list>
+				<value>com.elasticpath.importexport</value>
+				<value>com.elasticpath.repo.camelimport</value>
+				<value>org.apache.camel.processor.DefaultErrorHandler</value>
+			</list>
+		</property>
+	</bean>
+
+	<bean id="fileAttachmentProcessor"
+		class="com.elasticpath.repo.camelimport.processors.FileAttachmentProcessor">
+	</bean>
+</beans>

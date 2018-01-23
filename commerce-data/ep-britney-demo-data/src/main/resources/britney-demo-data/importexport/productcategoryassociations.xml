@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productcategoryassociations>
+<product code="BBEP133">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP134">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP135">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP136">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP121">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP105">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP123">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP111">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP104">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP107">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP109">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP115">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP125">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP101">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP110">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP120">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP118">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP119">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP126">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP127">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP112">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP116">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP117">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP102">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP106">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP103">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP108">
+  <catalog code="BritneyBroden">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBFOOTWEARS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP128">
+  <catalog code="BritneyBroden">
+    <category code="BBSHIRTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBSHIRTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBSHIRTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP129">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP130">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP131">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP132">
+  <catalog code="BritneyBroden">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBDRESSES">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP113">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP114">
+  <catalog code="BritneyBroden">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBAGS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP122">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+<product code="BBEP124">
+  <catalog code="BritneyBroden">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneyBrodenSpain">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+  <catalog code="BritneytBrodenUS">
+    <category code="BBBELTS">
+      <default>true</default>
+      <featuredorder>0</featuredorder>
+    </category>
+  </catalog>
+</product>
+</productcategoryassociations>

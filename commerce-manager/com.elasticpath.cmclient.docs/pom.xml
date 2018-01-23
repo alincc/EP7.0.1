@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.elasticpath.cmclient</groupId>
+		<artifactId>cmclient-parent</artifactId>
+		<version>700.1.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>com.elasticpath.cmclient.docs</artifactId>
+	<packaging>jar</packaging>
+	<name>CM Docs Project</name>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>com.ruleoftech</groupId>
+			<artifactId>markdown-page-generator-plugin</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.ruleoftech</groupId>
+				<artifactId>markdown-page-generator-plugin</artifactId>
+				<version>1.0.0</version>
+				<executions>
+					<execution>
+						<phase>process-sources</phase>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<outputDirectory>${basedir}/target/classes/html</outputDirectory>
+					<inputDirectory>${basedir}/markdown/</inputDirectory>
+					<headerHtmlFile>${basedir}/markdown/html/header.html</headerHtmlFile>
+					<footerHtmlFile>${basedir}/markdown/html/footer.html</footerHtmlFile>
+					<copyDirectories>images,css</copyDirectories>
+					<transformRelativeMarkdownLinks>true</transformRelativeMarkdownLinks>
+					<pegdownExtensions>TABLES,EXTANCHORLINKS</pegdownExtensions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

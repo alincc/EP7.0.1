@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inventory>
+<sku code="eqsmnr.g-11"/>
+
+<sku code="eqsmnr.b-12"/>
+
+<sku code="eqsmnr.g-9.5"/>
+
+<sku code="eqsmnr.p-5.5"/>
+
+<sku code="eqsmnr.b-7"/>
+
+<sku code="eqsmnr.b-8"/>
+
+<sku code="eqsmnr.b-9"/>
+
+<sku code="eqsmnr.b-10"/>
+
+<sku code="eqsmnr.g-9"/>
+
+<sku code="eqsmnr.p-6.5"/>
+
+<sku code="eqsmnr.g-8"/>
+
+<sku code="eqsmnr.g-8.5"/>
+
+<sku code="eqsmnr.g-10"/>
+
+<sku code="eqsmnr.p-10.5"/>
+
+<sku code="eqsmnr.g-12"/>
+
+<sku code="eqsmnr.b-13"/>
+
+<sku code="eqsmmr.2-8.5"/>
+
+<sku code="eqsmmr.1-8.5"/>
+
+<sku code="eqsmmr.2-6"/>
+
+<sku code="eqsmmr.1-5.5"/>
+
+<sku code="eqsmmr.2-6.5"/>
+
+<sku code="eqsmmr.2-7"/>
+
+<sku code="eqsmmr.2-9"/>
+
+<sku code="eqsmmr.2-8"/>
+
+<sku code="eqsmnr.b-11"/>
+
+<sku code="eqsmnr.b-7.5"/>
+
+<sku code="eqsmmr.1-11"/>
+
+<sku code="eqsmmr.1-10"/>
+
+<sku code="eqsmmr.2-9.5"/>
+
+<sku code="eqsmmr.2-5"/>
+
+<sku code="eqsmmr.2-5.5"/>
+
+<sku code="eqsmmr.1-9.5"/>
+
+<sku code="eqsmmr.2-7.5"/>
+
+<sku code="eqsmmr.2-10.5"/>
+
+<sku code="eqsmmr.1-5"/>
+
+<sku code="eqsmmr.1-6.5"/>
+
+<sku code="wmapfs.b-L"/>
+
+<sku code="wmapfs.b-XS"/>
+
+<sku code="wmapfs.r-S"/>
+
+<sku code="wmapfs.b-M"/>
+
+<sku code="eqsmmr.1-8"/>
+
+<sku code="eqsmmr.1-7"/>
+
+<sku code="eqsmmr.1-7.5"/>
+
+<sku code="eqsmmr.1-9"/>
+
+<sku code="eqsmmr.1-10.5"/>
+
+<sku code="eqsmmr.1-6"/>
+
+<sku code="eqsmmr.2-10"/>
+
+<sku code="eqsmmr.2-11"/>
+
+<sku code="wmappl.1-XL"/>
+
+<sku code="wmappl.2-XL"/>
+
+<sku code="wmappl.2-S"/>
+
+<sku code="wmappl.2-L"/>
+
+<sku code="wmapbz.c-L"/>
+
+<sku code="wmapbz.c-M"/>
+
+<sku code="wmappl.1-S"/>
+
+<sku code="wmappl.2-XS"/>
+
+<sku code="wmapfs.b-XL"/>
+
+<sku code="wmapfs.r-M"/>
+
+<sku code="wmapfs.b-S"/>
+
+<sku code="wmapfs.r-L"/>
+
+<sku code="wmappl.2-M"/>
+
+<sku code="wmappl.1-L"/>
+
+<sku code="wmappl.1-XS"/>
+
+<sku code="wmappl.1-M"/>
+
+<sku code="snwnms.1"/>
+
+<sku code="snwnms.2"/>
+
+<sku code="snwnms.3"/>
+
+<sku code="eqwnfr-S"/>
+
+<sku code="wmapaw.r-L"/>
+
+<sku code="wmapaw.r-M"/>
+
+<sku code="eqsmsm"/>
+
+<sku code="mnapfn"/>
+
+<sku code="wmapaw.b-M"/>
+
+<sku code="wmapaw.r-S"/>
+
+<sku code="wmapaw.b-L"/>
+
+<sku code="wmapaw.b-S"/>
+
+<sku code="wmapbz.w-S"/>
+
+<sku code="wmapbz.c-S"/>
+
+<sku code="wmapbz.w-M"/>
+
+<sku code="wmapbz.w-L"/>
+
+<sku code="wmaptp-XL"/>
+
+<sku code="wmaptp-M"/>
+
+<sku code="wmaptp-XS"/>
+
+<sku code="wmaptp-L"/>
+
+<sku code="eqwnbc-S"/>
+
+<sku code="eqwnbc-L"/>
+
+<sku code="wmapnh-L"/>
+
+<sku code="wmapnh-S"/>
+
+<sku code="eqsmlg-9_8"/>
+
+<sku code="eqsmlg-9_2"/>
+
+<sku code="eqwnbc-M"/>
+
+<sku code="eqsmlg-9_6"/>
+
+<sku code="eqsmlg-10_3"/>
+
+<sku code="eqwnfr-M"/>
+
+<sku code="eqsmlg-10_"/>
+
+<sku code="eqsmlg-9_4"/>
+
+<sku code="eqsmtc-L"/>
+
+<sku code="mnapan-XL"/>
+
+<sku code="eqwntb-11.5"/>
+
+<sku code="eqsmtc-M"/>
+
+<sku code="eqwntb-10.5"/>
+
+<sku code="eqwntb-9.5"/>
+
+<sku code="eqwntb-9"/>
+
+<sku code="eqwntb-8.5"/>
+
+<sku code="eqwntb-10"/>
+
+<sku code="eqwntb-8"/>
+
+<sku code="eqwntb-11"/>
+
+<sku code="eqwntb-7"/>
+
+<sku code="eqwntb-7.5"/>
+
+<sku code="eqwntb-12"/>
+
+<sku code="wmaptp-S"/>
+
+<sku code="eqwntb-13"/>
+
+<sku code="mnapbc-S"/>
+
+<sku code="mnapbc-M"/>
+
+<sku code="mnapbc-XXL"/>
+
+<sku code="mnapbc-L"/>
+
+<sku code="eqwnwh-140cm"/>
+
+<sku code="eqwnwh-150cm"/>
+
+<sku code="eqwnwh-130cm"/>
+
+<sku code="eqwnwh-160cm"/>
+
+<sku code="wmapth-M"/>
+
+<sku code="wmapth-L"/>
+
+<sku code="wmapth-S"/>
+
+<sku code="wmapth-XL"/>
+
+<sku code="wmapth-XS"/>
+
+<sku code="mnapan-L"/>
+
+<sku code="mnapan-M"/>
+
+<sku code="mnapan-S"/>
+
+<sku code="mnapbc-XS"/>
+
+<sku code="mnapbc-XL"/>
+
+<sku code="eqsmnn.b-M"/>
+
+<sku code="eqsmnn.b-L"/>
+
+<sku code="eqsmnn.o-M"/>
+
+<sku code="eqsmnn.o-L"/>
+
+<sku code="eqsmnn.o-XL"/>
+
+<sku code="eqsmnn.b-S"/>
+
+<sku code="eqsmnn.o-S"/>
+
+<sku code="eqsmnn.b-XL"/>
+
+<sku code="eqwnkl"/>
+
+<sku code="eqsmij"/>
+
+<sku code="eqsmdv"/>
+
+<sku code="snwnbs"/>
+
+<sku code="eqsmti"/>
+
+<sku code="eqsmcj"/>
+
+<sku code="eqsmra"/>
+
+<sku code="eqsmsp"/>
+
+<sku code="snwnhw"/>
+
+<sku code="snwnsw"/>
+
+<sku code="snsmmv"/>
+
+<sku code="eqwnkw"/>
+
+<sku code="eqsmlt"/>
+
+<sku code="eqsmcz.2"/>
+
+<sku code="eqsmcz.1"/>
+
+<sku code="eqsmit-9"/>
+
+<sku code="eqsmit-7.5"/>
+
+<sku code="eqsmit-9.5"/>
+
+<sku code="eqsmit-8"/>
+
+<sku code="eqsmit-7"/>
+
+<sku code="eqsmit-10.5"/>
+
+<sku code="eqsmit-10"/>
+
+<sku code="eqsmit-12"/>
+
+<sku code="eqsmit-13"/>
+
+<sku code="eqsmit-8.5"/>
+
+<sku code="eqsmit-11.5"/>
+
+<sku code="eqwnbf-9"/>
+
+<sku code="eqwnbf-10.5"/>
+
+<sku code="eqwnbf-7"/>
+
+<sku code="eqsmit-11"/>
+
+<sku code="eqwnbf-12"/>
+
+<sku code="eqwnbf-11.5"/>
+
+<sku code="eqwnbf-8"/>
+
+<sku code="eqwnbf-8.5"/>
+
+<sku code="eqwnbf-13"/>
+
+<sku code="eqwnbf-9.5"/>
+
+<sku code="eqwnbf-10"/>
+
+<sku code="eqwnbf-11"/>
+
+<sku code="eqwnkm-11"/>
+
+<sku code="eqwnkm-12"/>
+
+<sku code="eqwnbf-7.5"/>
+
+<sku code="eqwnkm-7"/>
+
+<sku code="eqwnkm-10"/>
+
+<sku code="eqwnkm-9"/>
+
+<sku code="eqwnkm-13"/>
+
+<sku code="eqwnkm-8"/>
+
+<sku code="mnapew-XL"/>
+
+<sku code="mnapew-M"/>
+
+<sku code="mnapew-2XL"/>
+
+<sku code="mnapew-S"/>
+
+<sku code="eqwnmt-M"/>
+
+<sku code="eqwnmt-S"/>
+
+<sku code="mnapew-L"/>
+
+<sku code="eqwnmt-L"/>
+
+<sku code="eqsmnr.b-11.5"/>
+
+<sku code="eqsmnr.p-11"/>
+
+<sku code="eqsmnr.p-10"/>
+
+<sku code="eqsmnr.p-8"/>
+
+<sku code="eqsmnr.p-7"/>
+
+<sku code="eqsmnr.p-6"/>
+
+<sku code="eqsmnr.p-5"/>
+
+<sku code="eqsmnr.g-11.5"/>
+
+<sku code="eqsmnr.g-10.5"/>
+
+<sku code="eqsmnr.p-8.5"/>
+
+<sku code="eqsmnr.b-9.5"/>
+
+<sku code="eqsmnr.p-7.5"/>
+
+<sku code="eqsmnr.p-9"/>
+
+<sku code="eqsmnr.g-7"/>
+
+<sku code="eqsmnr.g-13"/>
+
+<sku code="eqsmnr.b-8.5"/>
+
+<sku code="mnaptg-XL">
+	<warehouse code="Geometrixx_US">
+        <onhand>100</onhand>
+        <available>100</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="wmapmm-XS"/>
+
+<sku code="mnaptg-M">
+	<warehouse code="Geometrixx_US">
+        <onhand>0</onhand>
+        <available>0</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="mnaptg-L">
+	<warehouse code="Geometrixx_US">
+        <onhand>100</onhand>
+        <available>100</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="wmaptf-5"/>
+
+<sku code="mnaptg-S">
+	<warehouse code="Geometrixx_US">
+        <onhand>3</onhand>
+        <available>3</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="wmaptf-4"/>
+
+<sku code="wmaptf-10"/>
+
+<sku code="wmaptf-6"/>
+
+<sku code="wmaptf-3"/>
+
+<sku code="wmaptf-8"/>
+
+<sku code="wmaptf-7"/>
+
+<sku code="eqsmnr.g-7.5"/>
+
+<sku code="wmaptf-9"/>
+
+<sku code="eqsmnr.p-9.5"/>
+
+<sku code="eqsmnr.b-10.5"/>
+
+<sku code="mnapms.r-S"/>
+
+<sku code="mnapms.b-S"/>
+
+<sku code="mnapms.r-M"/>
+
+<sku code="mnapms.b-L"/>
+
+<sku code="wmapbb-L"/>
+
+<sku code="wmapbb-M"/>
+
+<sku code="wmapbb-S"/>
+
+<sku code="wmapbb-XL"/>
+
+<sku code="snwncw-L"/>
+
+<sku code="snwncw-S"/>
+
+<sku code="wmapbb-XS"/>
+
+<sku code="snwncw-M"/>
+
+<sku code="wmapmm-XL"/>
+
+<sku code="wmapmm-S"/>
+
+<sku code="wmapmm-M"/>
+
+<sku code="wmapmm-L"/>
+
+<sku code="wmapsp.p-M"/>
+
+<sku code="wmapsp.p-S"/>
+
+<sku code="wmapsp.p-XS"/>
+
+<sku code="mnapjs.2-M"/>
+
+<sku code="wmapsp.p-L"/>
+
+<sku code="wmapsp.p-XL"/>
+
+<sku code="wmapsp.b-M"/>
+
+<sku code="mnapjs.2-XL"/>
+
+<sku code="mnapjs.1-M"/>
+
+<sku code="mnapjs.2-L"/>
+
+<sku code="mnapjs.1-L"/>
+
+<sku code="mnapms.b-M"/>
+
+<sku code="mnapms.r-L"/>
+
+<sku code="mnapjs.2-S"/>
+
+<sku code="mnapjs.1-S"/>
+</inventory>

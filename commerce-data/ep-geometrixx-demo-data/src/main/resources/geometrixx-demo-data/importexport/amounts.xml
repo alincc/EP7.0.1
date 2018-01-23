@@ -1,0 +1,2297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<amounts>
+<base_amount>
+    <guid>3fd75065-8fce-43c8-898c-3dc5392deda0</guid>
+    <object_guid>mnapbc-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0c837cae-3260-423d-9173-7aa60a363fd8</guid>
+    <object_guid>eqwnkl</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>85f55d89-4fae-4b3b-a37c-7ea9008e43f1</guid>
+    <object_guid>eqsmnr.g-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>30e5770a-2fca-454c-a3e0-5c3d84a9c3fa</guid>
+    <object_guid>wmapbb-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b6ccc399-ebd9-4a30-97de-48b090c168d0</guid>
+    <object_guid>eqwntb-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>c548ca86-f120-4d68-8b33-8bfa4a6a5c1f</guid>
+    <object_guid>wmapbb-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a661c016-a91c-4aff-bd43-f185857ab382</guid>
+    <object_guid>eqsmnr.g-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ecebe7ad-2781-4653-b61e-725b2f18fbbb</guid>
+    <object_guid>mnapfn</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>59.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cf177595-a026-44dd-9897-2ac4825a6cb7</guid>
+    <object_guid>wmaptp-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>33.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>fdd51755-23de-4bc7-afda-c0cc69073b38</guid>
+    <object_guid>eqsmnr.g-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>df1a24f4-ca03-4e02-b7c0-e318ca9ffe9c</guid>
+    <object_guid>eqsmnn.o-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>08a586da-5f04-48e2-b864-17ff5f3170ab</guid>
+    <object_guid>eqwnbf-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6d38adcb-352f-487b-a9ab-4ad3a050390c</guid>
+    <object_guid>eqsmnn.b-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2B3C98BD-D890-8CBC-514F-1257EC50351A</guid>
+    <object_guid>eqsmlg-9ft8in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>83dd7e1f-d304-49ad-a1ed-33dea9955fae</guid>
+    <object_guid>eqsmtc-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>64.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7925ebeb-cb45-43b0-b376-aaaf75a92b04</guid>
+    <object_guid>wmapth-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>49.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f3144ee1-4945-4224-8a66-a90dd8ae47a2</guid>
+    <object_guid>eqsmmr.2-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>5667d3eb-c37f-40b3-938b-39d8b4b09750</guid>
+    <object_guid>wmappl.1-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>55.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>76d59431-6ab1-4713-8e77-0ba84cee760e</guid>
+    <object_guid>wmappl.2-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>65.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>22dbc2ff-5841-4c47-b4cc-e27b34de7b19</guid>
+    <object_guid>wmapbb-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2d0f038a-bd32-4d5d-a22c-1e439f7acf18</guid>
+    <object_guid>eqsmnn.b-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8fd5b55f-1b2c-4c54-b06a-07abd19f4cea</guid>
+    <object_guid>eqsmnr.g-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>76386986-f0d4-4bc2-a8fb-a7394f9cd80c</guid>
+    <object_guid>eqwnbf-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2759f840-0459-48f0-8b14-92fa308bf645</guid>
+    <object_guid>mnapbc-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4c426d7a-ee65-4c51-af6b-4e845170de8e</guid>
+    <object_guid>wmaptp-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>33.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>40DC3248-332D-FF90-820A-D55BE71486C6</guid>
+    <object_guid>eqsmlg-10ft0in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bcb10ea7-2043-4040-871d-51267b2e5fb1</guid>
+    <object_guid>eqwnwh-150cm</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>354.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1899e020-5dc8-4fab-8bf4-2ffe19799ce2</guid>
+    <object_guid>mnapjs.1-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>47.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>db7bf9ff-13c0-4d22-9ea1-60db21dac509</guid>
+    <object_guid>mnapan-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2e8be537-cf69-4004-82d3-5184f031e940</guid>
+    <object_guid>wmappl.2-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>65.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>545c0c0c-36ff-41a3-b43f-1026f45eb81c</guid>
+    <object_guid>mnapew-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bbb2a8e7-6047-4d6e-a745-577b9af645fd</guid>
+    <object_guid>eqsmmr.1-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>5ea5c740-9035-4385-bc19-eec41dc13115</guid>
+    <object_guid>eqsmnr.b-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>586af777-16f8-4faa-bb5d-7a24c10f53cd</guid>
+    <object_guid>eqsmmr.2-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6f2f761f-b2d7-418b-9dda-95202abe895d</guid>
+    <object_guid>wmapbz.c-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e9e310dd-f6ec-42e8-bfe5-b05817ae2dea</guid>
+    <object_guid>wmapbz.w-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bf5f1df2-e08c-4add-b750-b5a9954a6af7</guid>
+    <object_guid>eqsmmr.2-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>be2ed799-c48b-4c1c-853f-a7d3c9feeec5</guid>
+    <object_guid>eqsmnr.p-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d0842235-19aa-42f2-9e00-137d2f7c9c9f</guid>
+    <object_guid>wmappl.1-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>55.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>79e34f13-aafa-45a4-a8d2-3a1a1b0b4529</guid>
+    <object_guid>eqsmmr.2-5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f37d559b-6b1c-4cc1-ac88-dba539424f9b</guid>
+    <object_guid>eqsmmr.1-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>21d8bafb-7665-4802-ba54-7176bbb300d1</guid>
+    <object_guid>wmappl.1-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>55.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>39eaab6c-cf3e-4b73-8735-0be1725560e3</guid>
+    <object_guid>eqsmmr.2-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6456859e-9797-403d-8d44-a923b82bf420</guid>
+    <object_guid>wmapmm-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>3dc07046-1904-4dad-9b0b-ac94e4ec07f6</guid>
+    <object_guid>wmapaw.b-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e26c4bda-b3d9-4922-b16c-83047ad9835e</guid>
+    <object_guid>eqwntb-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d5d754c7-ce4c-4ae6-94f4-e6d56d0d30b5</guid>
+    <object_guid>wmapth-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>49.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f0ccba2f-621f-4f4a-813a-2958f07b2742</guid>
+    <object_guid>eqsmnr.p-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>53433c4a-9452-4ec2-b30b-9fe0cd749be8</guid>
+    <object_guid>eqsmmr.1-6.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ba4fa87c-feaf-4654-a22e-e315e670af5d</guid>
+    <object_guid>wmapsp.p-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1f54d495-e201-4393-8240-ebccf8e5df7f</guid>
+    <object_guid>wmapmm-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e3559f14-65d1-4b8a-8f39-c9b5cd06a34b</guid>
+    <object_guid>eqsmsp</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1250.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>20cb6e47-8bec-44ef-a7e5-3e349d97bfb5</guid>
+    <object_guid>eqsmnr.b-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>22d9ad9f-9fd4-4cee-8444-0e5943d48944</guid>
+    <object_guid>wmaptf-5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8b054c3f-d958-4507-8929-ace0731ce449</guid>
+    <object_guid>wmappl.1-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>55.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>df2ed51a-7bb7-4a04-b272-0e5795e323c7</guid>
+    <object_guid>mnapjs.2-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>47.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>50e259c6-6e6e-4057-9e91-511fa98d0c29</guid>
+    <object_guid>snwncw-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>280.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8392dd89-5b3f-4e0a-8bb1-695dc8d00ce4</guid>
+    <object_guid>eqsmit-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b69f2ffe-37ee-43c1-a967-9b363df3db3f</guid>
+    <object_guid>eqsmnr.b-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>64154c56-4c5d-4d96-990e-494e35d4b5fd</guid>
+    <object_guid>snwnbs</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f99e17d6-cf7c-4a0f-99d0-8c09151b4d52</guid>
+    <object_guid>mnapjs.1-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>47.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>CE8EE6D5-EDE9-B7D3-CAED-EFB89EC9EBCE</guid>
+    <object_guid>eqsmlg-9ft2in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2a0fb022-f587-44ef-9966-b5e39dce19c0</guid>
+    <object_guid>wmapsp.b-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>09c5f947-3bbc-413f-8d80-ceaf7d91c93f</guid>
+    <object_guid>mnapms.r-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>473acfd1-ead8-465a-9fcd-4b4687c7000a</guid>
+    <object_guid>wmapnh-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>85.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0f0b0a96-dbfd-4814-ab3a-5673809f7722</guid>
+    <object_guid>wmapsp.p-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>97bf0d40-975d-4485-a234-9d20a7154ba4</guid>
+    <object_guid>snwncw-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>280.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7f799f32-6b87-4f21-a728-d6a9882eb6a6</guid>
+    <object_guid>eqwnkm-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d18c7bc1-3009-47c0-82ee-3cee77441f54</guid>
+    <object_guid>wmapsp.p-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e894f466-dc28-41de-94f4-880dcccc9035</guid>
+    <object_guid>eqsmnr.b-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>95e125bd-de36-4a3b-a36e-0371c41f36ba</guid>
+    <object_guid>mnapjs.2-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f842a99a-7517-4753-9813-97a96d43fb9c</guid>
+    <object_guid>eqsmmr.2-6.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>70c00f0a-8a6a-45d7-8268-81b1d2d7fe48</guid>
+    <object_guid>eqsmnn.b-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>fc69a917-4a29-4bea-a2bb-afe63a1602eb</guid>
+    <object_guid>wmapfs.b-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a42f49c2-47fa-415a-9752-a65aaa67f0d4</guid>
+    <object_guid>eqwntb-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>13b7fac6-aa35-41d6-b4e9-7344f7c42bb1</guid>
+    <object_guid>wmaptf-3</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9972b644-7f60-41ac-8e0f-2ef49a9c5804</guid>
+    <object_guid>eqsmnr.p-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>428cfed3-fec6-4c38-b774-1b778bd43e24</guid>
+    <object_guid>eqsmmr.1-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>536921e5-eb34-4dab-82d2-724661b29801</guid>
+    <object_guid>eqsmit-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b97d3d7c-2ffb-4d2a-853f-1fecaeea07ac</guid>
+    <object_guid>eqsmnr.g-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ed26112f-91a7-47ef-9e68-4e73535df598</guid>
+    <object_guid>eqsmit-11.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>650127d9-4698-478f-be60-13f4587fb169</guid>
+    <object_guid>mnapan-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>69346b67-c2b3-431f-9cd9-b0f03908b7ac</guid>
+    <object_guid>eqsmmr.1-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f52d3e13-3d9b-439b-a242-51c7ed130bcb</guid>
+    <object_guid>eqwnkm-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>88774467-149f-4390-a14a-67d5a1949819</guid>
+    <object_guid>eqwntb-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>395fa9a7-da43-4dd4-857f-d40b87514fc9</guid>
+    <object_guid>eqwnmt-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>67.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>65739b14-9cf4-415b-86db-c39c62327b7f</guid>
+    <object_guid>wmappl.2-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>65.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8f0f43d0-376b-4fdb-8122-abca8987bf97</guid>
+    <object_guid>eqsmnr.p-6</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cabc8e1c-1336-4556-9495-14ccb261300b</guid>
+    <object_guid>eqsmit-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f94c208c-c407-4567-aba8-386c82dc0b5e</guid>
+    <object_guid>eqwnbf-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bd35c8a3-708c-48f8-a427-e63f81505b32</guid>
+    <object_guid>eqsmnr.b-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6769556a-8bbc-41d7-80ae-56ab20b56288</guid>
+    <object_guid>eqwnfr-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6c35c8bc-990d-4fcd-ac51-d58f69e84902</guid>
+    <object_guid>eqwnbf-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4a4df01b-6839-45ee-b182-43d7459c32e3</guid>
+    <object_guid>wmaptf-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f28baa0b-7fc5-4cb0-9a30-20788f54613e</guid>
+    <object_guid>eqsmmr.1-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e5f76462-aa3a-469f-95ef-ff94a7003286</guid>
+    <object_guid>snsmmv</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>21.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>12155cb6-e1e7-4ce1-8750-594227dc921a</guid>
+    <object_guid>eqwnkm-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0b36965c-f3f7-443e-9ae3-8828349904bc</guid>
+    <object_guid>eqsmnr.p-5.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9e0b3a17-6ed1-42f5-ba9f-80db2d330023</guid>
+    <object_guid>wmapaw.b-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>fcc1a511-42c7-435a-8fa9-b7b643b5a1f5</guid>
+    <object_guid>eqsmit-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4b850e53-7569-4a36-a93d-3cc0f88306ce</guid>
+    <object_guid>eqsmnr.g-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a85ddff8-16a6-4c78-b5d5-027e69e4e648</guid>
+    <object_guid>eqwnbf-11.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>c1692dd4-3357-41c8-a918-802c44e1895d</guid>
+    <object_guid>eqwntb-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>696d521a-a2d9-45fc-b6d1-075e6e556f0f</guid>
+    <object_guid>eqsmit-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>794fe993-014d-42d7-8b91-bb7c3b257804</guid>
+    <object_guid>eqwnmt-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>67.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>fb718b8e-9ebd-4a9d-b7b1-a497b08226ad</guid>
+    <object_guid>eqsmnr.g-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>c6bd23c4-6624-4092-9e7c-0b0d32f7a429</guid>
+    <object_guid>mnapms.r-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e6e7c412-aee5-4ba8-b659-e6994dc37825</guid>
+    <object_guid>eqwntb-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ffc7ec93-1cad-495e-bc88-d4289e41f85b</guid>
+    <object_guid>mnaptg-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>39.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>524365b5-d993-48b5-902a-10e3abe6c02d</guid>
+    <object_guid>eqsmmr.1-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>920629b9-3feb-4aec-8456-02bec97c1e9d</guid>
+    <object_guid>wmapth-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>49.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f9fecf2a-241f-4654-bd06-6a5874fd11eb</guid>
+    <object_guid>eqsmnr.p-5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ebce2a30-ff77-4c24-a99c-54a6d9ffadd6</guid>
+    <object_guid>eqsmmr.2-6</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1f443152-6144-44f7-8213-97ca9aece8cc</guid>
+    <object_guid>eqwnbf-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8f0d9310-2fb9-4e36-beff-cc08f07de09a</guid>
+    <object_guid>wmapmm-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e2ffbb05-f318-4229-b240-ee1c4c86bb63</guid>
+    <object_guid>eqsmnr.b-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e3b5d8bf-7d6b-4731-90dd-60723adc6036</guid>
+    <object_guid>snwnsw</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>18.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7df5a413-7cc6-41d2-b4ab-4aaefe273af7</guid>
+    <object_guid>wmapfs.b-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b2f88666-15a4-4640-98db-f61ca4bdf7de</guid>
+    <object_guid>eqsmnn.b-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6f52794d-4d3c-40cb-bcea-20dbfc860779</guid>
+    <object_guid>eqwntb-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0583c9bd-c640-435f-85eb-e640cdd44c19</guid>
+    <object_guid>snwnms.3</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2d67e80b-b772-4147-9bf6-af7dfa91d474</guid>
+    <object_guid>eqsmnr.p-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d2e4c583-9a60-482e-945f-afec8cd89bfd</guid>
+    <object_guid>mnaptg-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>39.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d30c4ce1-76cc-441d-9e06-5989ea1f4394</guid>
+    <object_guid>eqsmmr.2-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>18a9a1a0-1ef8-49d6-9bc1-1794c54a5673</guid>
+    <object_guid>eqsmcz.1</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>210.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ade4d3d1-84fe-402a-9a89-ea06734e5945</guid>
+    <object_guid>eqwnbf-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a36959e8-4bb7-4d7b-9b8b-9c030a965f40</guid>
+    <object_guid>eqsmmr.2-5.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>95421ccf-965f-4751-8813-75fb8fed8145</guid>
+    <object_guid>snwnhw</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>22.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0df37524-c465-467b-a594-baa370adeaa4</guid>
+    <object_guid>mnapms.b-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e58e4240-c9cb-49bf-ad2d-2bdf2adf0eb0</guid>
+    <object_guid>wmapnh-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>85.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f96ca688-3049-4d4c-ab9e-1d8aee3a9d0d</guid>
+    <object_guid>wmaptf-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2bdffb58-611b-45f9-a534-cd0f4d5bc306</guid>
+    <object_guid>mnapan-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>205f3835-d2bc-4736-8fb6-d057c0eb2cd6</guid>
+    <object_guid>eqsmij</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>37.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>67025a67-769f-4e7f-82b2-4abb6f345cf1</guid>
+    <object_guid>eqwnkm-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bc175ebe-02ba-4c4d-82c3-f8f6e7c8eafc</guid>
+    <object_guid>mnapms.b-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4caf3a8f-90f1-4f05-a70c-88559a3f0a10</guid>
+    <object_guid>wmapth-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>49.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b965466d-a01f-4f36-b6a0-e392dae006fa</guid>
+    <object_guid>eqsmnr.b-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>3d5f84d6-3a29-468e-b75e-685dbae2d987</guid>
+    <object_guid>eqwnbf-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cc818d09-a9df-4e75-af71-0e3c743738cf</guid>
+    <object_guid>eqsmmr.2-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>89899718-08ca-442e-82f8-cc63334a7bda</guid>
+    <object_guid>eqsmit-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d9a086bf-c738-4528-8c4a-2c3193fce705</guid>
+    <object_guid>wmapfs.r-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6a674cbe-ecbe-470e-a131-833f6147dd91</guid>
+    <object_guid>eqsmnr.p-6.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a7d6ab1d-d87a-4b11-9f95-ebc94cda4104</guid>
+    <object_guid>wmapmm-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7fbc25df-b48e-41ee-8871-0cb645f16cfb</guid>
+    <object_guid>wmappl.2-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>65.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>48da1ee3-c723-4f9e-95c9-cec79e451126</guid>
+    <object_guid>eqsmnr.p-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d476281b-e094-402c-aa0a-6d8da229586d</guid>
+    <object_guid>wmaptf-6</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>588302d1-fcf8-4b1f-9304-a82bbbdb8a32</guid>
+    <object_guid>wmapfs.b-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>20f9f20d-c32b-44de-b406-975d5926b547</guid>
+    <object_guid>eqsmdv</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>15.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1a1dd6b4-690f-40c3-a9b2-478c837d1742</guid>
+    <object_guid>eqsmmr.1-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bc4b9cc0-4cd9-41e8-aec6-7a9247cc268b</guid>
+    <object_guid>wmaptp-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>33.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>01e97cb2-a1c1-44eb-944e-1ba55961dcd3</guid>
+    <object_guid>mnapew-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>85507ed7-43e2-45af-a619-5a92560da617</guid>
+    <object_guid>mnapjs.2-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f2358db2-9bf3-4c1e-bd3d-a3304867a3aa</guid>
+    <object_guid>wmapbz.w-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6588c776-9f3c-45e4-90b0-cf1e31e48f08</guid>
+    <object_guid>mnapms.r-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6be7e94d-5f95-4efe-845d-32905b7f6609</guid>
+    <object_guid>wmappl.2-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>65.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cabfdb53-cab7-47f9-afd6-a46d099113df</guid>
+    <object_guid>wmapbb-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>fd6d782e-7844-48dc-b65f-267971f7053a</guid>
+    <object_guid>eqwnmt-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>67.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e1ff653b-f52d-4f53-adcb-6171dbdeeea6</guid>
+    <object_guid>wmapbb-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8514af6e-a723-4aee-9141-60d11be060f1</guid>
+    <object_guid>eqwnkm-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>bcc338f1-9aa6-4685-b47b-03752275a24c</guid>
+    <object_guid>eqsmmr.1-5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>15272ada-5bd4-4d59-aed2-95b43167d00c</guid>
+    <object_guid>eqsmit-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>aec2e839-c8c9-4553-9c42-194286b4fe4a</guid>
+    <object_guid>mnapbc-XXL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4f636a3d-2afc-444e-ae8d-28ec17dba931</guid>
+    <object_guid>eqsmnr.g-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>be98d57f-cf74-4835-bd79-450952525abc</guid>
+    <object_guid>eqwnwh-160cm</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>356.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>42fcb507-df61-459f-9ac8-780641ea8429</guid>
+    <object_guid>eqwnbc-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>12318ee4-46df-465f-97a1-2dcf725db41c</guid>
+    <object_guid>eqsmit-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ca05244c-177c-473c-9964-9a2d40643f42</guid>
+    <object_guid>mnapms.b-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>61e60bd6-da6d-4431-a1d3-b8345c104441</guid>
+    <object_guid>wmaptf-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>eeb92951-6e15-41de-87ea-40047aa2f025</guid>
+    <object_guid>mnapew-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b9451f8e-4f60-4897-871a-1cf25f909616</guid>
+    <object_guid>wmapfs.r-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>777980de-bcfa-49a0-a33c-0e49eab35415</guid>
+    <object_guid>eqsmit-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>47b8b45c-d385-4452-bf25-15ed338817dc</guid>
+    <object_guid>eqwnfr-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cacdee81-54cc-4a50-9585-bbd3ea5bc347</guid>
+    <object_guid>mnapbc-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0892814f-e15d-46c8-9b8c-b61ea5c1f62a</guid>
+    <object_guid>wmaptf-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>a3a80942-6c7a-4c35-9771-62d1cf123d4c</guid>
+    <object_guid>wmaptp-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>33.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>15222d0a-82a7-4895-927a-5da47101a541</guid>
+    <object_guid>eqwnbc-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>49f38035-eb15-4566-9f83-e337a2e70107</guid>
+    <object_guid>eqsmmr.1-5.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>72a8c123-5333-4d97-8883-aa795dc01746</guid>
+    <object_guid>eqsmmr.1-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>73c3a635-45dd-4678-a41f-0b05b9e7e168</guid>
+    <object_guid>wmapsp.p-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7391cbcf-7c16-4ef2-a91e-890e2564ec36</guid>
+    <object_guid>mnapbc-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>af23d4fb-8c30-47b7-9cd4-082b7705b1ed</guid>
+    <object_guid>eqsmnr.p-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>34c4fda3-6056-4850-9bb9-3c40ff62d791</guid>
+    <object_guid>wmapsp.p-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>299.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2a35e151-3e9b-4a16-afb8-e35b2ab17995</guid>
+    <object_guid>eqsmmr.2-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8667227c-8724-44e5-94a7-78fa64ce2c8c</guid>
+    <object_guid>eqsmnn.o-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f6b566ec-43d7-42c8-a4ea-ac0a4df5f598</guid>
+    <object_guid>eqsmmr.2-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>c8a6c7e6-3f2b-41ec-b668-d671e96a778b</guid>
+    <object_guid>eqwntb-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1fa1446e-79f2-4109-8e0e-2ee697751fff</guid>
+    <object_guid>eqwnbf-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e7668c03-95ec-4d8f-ad95-fbd99606e49b</guid>
+    <object_guid>wmaptf-4</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>45.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f6e20cf4-4808-44d5-bda1-fef052ff6e79</guid>
+    <object_guid>eqsmnn.o-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>150.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>60627D50-EF95-6815-DFE7-67E202F779EB</guid>
+    <object_guid>eqsmlg-9ft4in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b05e31c8-b9aa-47c4-9d37-50d83678de63</guid>
+    <object_guid>wmaptp-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>33.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>61fc332a-0975-4307-a345-efce8fa3918e</guid>
+    <object_guid>eqwnwh-130cm</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>340.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>B7E8E4EB-5830-B05B-6A9F-398A13B94EFC</guid>
+    <object_guid>eqsmlg-9ft6in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>29de0dfb-f8f9-48cc-8802-83419cc309f6</guid>
+    <object_guid>eqsmnr.b-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>550381da-f58c-4535-a16a-6dcc6bdcdda4</guid>
+    <object_guid>eqsmnr.b-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>f6588681-6936-4c40-a119-cac8266fcc15</guid>
+    <object_guid>wmappl.1-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>55.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cfece18a-2c67-497b-aa79-86b3cba2df75</guid>
+    <object_guid>wmapbz.c-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4c76b483-1588-48c6-936e-78714c9f0847</guid>
+    <object_guid>eqsmtc-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>62.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e4ee5974-972f-46e3-86e6-82e9b5d3d19b</guid>
+    <object_guid>eqwnbf-12</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9f862bda-2f6c-45b1-bd9f-a21f6cccd349</guid>
+    <object_guid>wmapbz.c-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e1ba5320-892b-405c-bb00-0a91528ad7da</guid>
+    <object_guid>eqsmcz.2</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>210.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>487c542d-f779-4946-a137-d87e894440ea</guid>
+    <object_guid>mnapew-2XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7799dab6-4df0-443f-aa7d-91a6599d9fef</guid>
+    <object_guid>snwnms.1</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4dc2fdfa-a4ba-4c33-bafd-5b9a00702d81</guid>
+    <object_guid>mnapan-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ed889a47-d0b7-4982-8b58-a3c454a33c29</guid>
+    <object_guid>eqwnwh-140cm</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>348.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9a05b105-7de2-4ec9-af27-38db1ffb9ca7</guid>
+    <object_guid>eqsmnr.p-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>cac85e9e-c937-4486-bd04-6187ec644e38</guid>
+    <object_guid>eqsmit-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ff56b952-3e6a-4d83-a165-c732e593ab98</guid>
+    <object_guid>eqsmnr.g-11.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>0c293c45-51d2-44bf-8899-30daf9f25f26</guid>
+    <object_guid>eqwntb-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ce0ca62f-f627-486b-88e8-9112542a27ea</guid>
+    <object_guid>wmapfs.b-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ab6bce11-5d0e-4324-93af-845ab4172514</guid>
+    <object_guid>eqwnbc-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>50961510-f4fb-458c-b03b-6eceebee2d09</guid>
+    <object_guid>mnapew-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>559e41ad-d590-4167-9dca-3f3f06491116</guid>
+    <object_guid>mnapjs.2-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>47.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ae162f2b-0d25-47e2-a106-425a4b9ffe98</guid>
+    <object_guid>eqsmnr.b-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>91e82428-ab67-4948-80d6-f9bd614d1907</guid>
+    <object_guid>eqwnbf-11</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>A63E122F-193B-31B5-5735-C2DDF24C8C1E</guid>
+    <object_guid>eqsmlg-10ft3in</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>319.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>4f803036-7395-4daa-ac3f-52f7af44859f</guid>
+    <object_guid>eqsmcj</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>610.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ffa8c2a3-ddae-493c-b3db-9e57c650d1a4</guid>
+    <object_guid>wmapaw.b-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>701c3249-59ce-4fd8-8235-b6bfde7d7114</guid>
+    <object_guid>snwncw-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>280.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>78809029-df54-4c2c-afc9-6a4db4b85aa4</guid>
+    <object_guid>eqwntb-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>3d29ad3d-b994-4057-8f2d-4d3bca6b9ca7</guid>
+    <object_guid>eqwntb-11.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>37cfb4f0-c608-4053-a5fb-70c5be649d19</guid>
+    <object_guid>wmapaw.r-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b00cf860-68b9-47bf-b958-8b047da67370</guid>
+    <object_guid>wmapaw.r-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>97f59f21-7f7e-4803-8db5-e5b6185e4c6a</guid>
+    <object_guid>eqwnkm-10</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e70b2806-4484-456d-8d57-e3d945aea92f</guid>
+    <object_guid>eqsmnr.p-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e111612f-08be-4a3b-8625-352d0ef81f09</guid>
+    <object_guid>eqsmnr.g-7</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>03f294ca-fdc9-4d8c-a932-f6c708b80832</guid>
+    <object_guid>eqsmnn.o-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>160.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b976c2f1-07ce-4073-824f-5e225bad34e0</guid>
+    <object_guid>eqsmnr.g-10.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6eb8d031-47d5-409e-baf9-3c1f069a7a5b</guid>
+    <object_guid>eqsmra</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>36.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ba6b8e6f-ea31-4f48-8552-298610ad167d</guid>
+    <object_guid>wmapth-XS</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>49.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>3640ddd0-2771-4140-ae99-65d92160d74c</guid>
+    <object_guid>eqwnbf-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>220.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d7ac03f8-c8e0-47f9-b56c-5a25d02bde77</guid>
+    <object_guid>eqsmmr.1-9.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9ae9cdb6-971e-4700-919e-950afe98f95e</guid>
+    <object_guid>wmapfs.r-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>5ab2f84f-e957-4383-9a11-783a0dd8d91a</guid>
+    <object_guid>eqsmmr.1-6</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ce5b4a87-a046-413c-b4dc-cef5d3c50f6e</guid>
+    <object_guid>eqsmti</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>24.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>51611e8e-560c-4d5f-b99c-02fdea2b0d41</guid>
+    <object_guid>eqwnkm-13</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>190.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>179244be-cfee-4013-8264-25be0821886f</guid>
+    <object_guid>eqsmnr.b-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7a551b3e-1ed5-4bbf-a0ea-d071e128ab4f</guid>
+    <object_guid>mnapjs.1-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>51.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d804a2b1-a5b6-4034-b88f-d0d2723784c1</guid>
+    <object_guid>mnaptg-XL</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>43.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>d0e89233-98b3-4fd0-bfe4-9cfd76802b3f</guid>
+    <object_guid>mnapbc-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>12.50</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7381fd35-e284-47af-8eaf-3a9987de74a2</guid>
+    <object_guid>eqwnkw</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>82.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>acf1a75e-dd78-4806-86a1-3715157061f2</guid>
+    <object_guid>eqsmnr.g-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1a11806a-8068-4940-9a41-877b4d72c786</guid>
+    <object_guid>wmapaw.r-M</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>38.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>e83a2315-bf6e-412a-a470-963382aa484c</guid>
+    <object_guid>eqsmlt</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>89.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>8f2d238c-e21d-4069-83af-2841bad0fafc</guid>
+    <object_guid>mnaptg-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>39.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>97bd75f6-af07-4c12-b50e-5f25df4e3c25</guid>
+    <object_guid>eqsmmr.2-7.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>120.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>5e0d41a8-6eab-4f3a-8a28-54c7cf96ca42</guid>
+    <object_guid>eqwntb-8.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>248.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>febadae1-169c-4209-976a-e63fe69a6efa</guid>
+    <object_guid>eqsmit-9</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>189.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>da21d693-2aac-481a-8e31-e9337ece376c</guid>
+    <object_guid>wmapmm-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1de89b05-9250-4f0f-b32a-26738c261a88</guid>
+    <object_guid>snwnms.2</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>29.90</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b8098862-795e-4ad4-a1b5-f4a6ab3c48a4</guid>
+    <object_guid>eqsmsm</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>39.99</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6ea35d6e-c583-47d9-8f40-36b2c2c55832</guid>
+    <object_guid>wmapfs.b-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>32.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>eec60691-e411-4dc5-9ca8-6281b432a978</guid>
+    <object_guid>wmapbz.w-S</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>52.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>b92071d1-c40d-4d0e-84c5-8d072fddbe2b</guid>
+    <object_guid>eqsmnr.p-8</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7e482acc-cb26-42a8-bdb1-a85dccdc95c9</guid>
+    <object_guid>eqsmnr.b-11.5</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>75.00</list_price>
+    <price_list_guid>713763d6-13ac-402d-9d1a-13213086896f</price_list_guid>
+</base_amount>
+</amounts>

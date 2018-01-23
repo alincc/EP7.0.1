@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coupon_sets>
+<coupon_set>
+    <coupon_config>
+        <rule_code>12c3e98d-f073-4919-9a0b-0fba2fce4bc0</rule_code>
+        <coupon_config_code>2d5184c8-58de-44f9-910a-da7d414ed8f5</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>2147483647</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>VIPFASHIONISTA</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+</coupon_sets>

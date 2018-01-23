@@ -1,0 +1,12 @@
+/*
+ * Copyright © 2014 Elastic Path Software Inc. All rights reserved.
+ */
+package com.elasticpath.rest.schema.uri;
+
+import javax.inject.Provider;
+
+/**
+ * A factory for creating CouponsUriBuilder objects.
+ */
+public interface CouponsUriBuilderFactory extends Provider<CouponsUriBuilder> {
+}

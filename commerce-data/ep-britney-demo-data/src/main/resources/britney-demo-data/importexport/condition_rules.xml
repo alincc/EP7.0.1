@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<condition_rules>
+<rule>
+    <code>814e57b3-ce4b-4a78-ab29-c50e10b9ffa0</code>
+    <conditions>
+        <and>
+            <and>
+                <condition>
+                    <kind>Condition</kind>
+                    <type>productInCartCondition</type>
+                    <parameters>
+                        <parameter>
+                            <key>productCode</key>
+                            <value>BBEP132</value>
+                        </parameter>
+                        <parameter>
+                            <key>numItems</key>
+                            <value>1</value>
+                        </parameter>
+                        <parameter>
+                            <key>numItemsQuantifier</key>
+                            <value>AT_LEAST</value>
+                        </parameter>
+                    </parameters>
+                    <exceptions/>
+                </condition>
+                <condition>
+                    <kind>Condition</kind>
+                    <type>productInCartCondition</type>
+                    <parameters>
+                        <parameter>
+                            <key>numItemsQuantifier</key>
+                            <value>AT_LEAST</value>
+                        </parameter>
+                        <parameter>
+                            <key>numItems</key>
+                            <value>1</value>
+                        </parameter>
+                        <parameter>
+                            <key>productCode</key>
+                            <value>BBEP111</value>
+                        </parameter>
+                    </parameters>
+                    <exceptions/>
+                </condition>
+            </and>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>814e57b3-ce4b-4a78-ab29-c50e10b9ffa0</code>
+        </action>
+    </actions>
+</rule>
+
+<rule>
+    <code>1009299c-b964-48a6-9c40-09e4dc070884</code>
+    <conditions>
+        <and>
+            <condition>
+                <kind>Condition</kind>
+                <type>anySkuInCartCondition</type>
+                <parameters>
+                    <parameter>
+                        <key>numItems</key>
+                        <value>1</value>
+                    </parameter>
+                    <parameter>
+                        <key>numItemsQuantifier</key>
+                        <value>AT_LEAST</value>
+                    </parameter>
+                </parameters>
+                <exceptions/>
+            </condition>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>1009299c-b964-48a6-9c40-09e4dc070884</code>
+        </action>
+    </actions>
+</rule>
+
+<rule>
+    <code>6df38fc0-a682-43e8-afa3-76f1dc3d0c30</code>
+    <conditions>
+        <and>
+            <condition>
+                <kind>Condition</kind>
+                <type>cartSubtotalCondition</type>
+                <parameters>
+                    <parameter>
+                        <key>subtotalAmount</key>
+                        <value>1000</value>
+                    </parameter>
+                </parameters>
+                <exceptions/>
+            </condition>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>6df38fc0-a682-43e8-afa3-76f1dc3d0c30</code>
+        </action>
+    </actions>
+</rule>
+<rule>
+    <code>12c3e98d-f073-4919-9a0b-0fba2fce4bc0</code>
+    <conditions>
+        <and>
+            <condition>
+                <kind>Condition</kind>
+                <type>limitedUseCouponCodeCondition</type>
+                <parameters/>
+                <exceptions/>
+            </condition>
+            <and>
+                <or>
+                    <condition>
+                        <kind>Condition</kind>
+                        <type>cartContainsItemsOfCategoryCondition</type>
+                        <parameters>
+                            <parameter>
+<key>numItems</key>
+<value>1</value>
+                            </parameter>
+                            <parameter>
+<key>numItemsQuantifier</key>
+<value>AT_LEAST</value>
+                            </parameter>
+                            <parameter>
+<key>categoryCode</key>
+<value>BBDRESSES|BritneytBrodenUS</value>
+                            </parameter>
+                        </parameters>
+                        <exceptions/>
+                    </condition>
+                    <condition>
+                        <kind>Condition</kind>
+                        <type>cartContainsItemsOfCategoryCondition</type>
+                        <parameters>
+                            <parameter>
+<key>numItems</key>
+<value>1</value>
+                            </parameter>
+                            <parameter>
+<key>numItemsQuantifier</key>
+<value>AT_LEAST</value>
+                            </parameter>
+                            <parameter>
+<key>categoryCode</key>
+<value>BBSHIRTS|BritneytBrodenUS</value>
+                            </parameter>
+                        </parameters>
+                        <exceptions/>
+                    </condition>
+                </or>
+            </and>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>12c3e98d-f073-4919-9a0b-0fba2fce4bc0</code>
+        </action>
+    </actions>
+</rule>
+<rule>
+    <code>2f25c96d-8e6e-4cec-8323-fc0ea2c24e6a</code>
+    <conditions>
+        <and>
+            <condition>
+                <kind>Condition</kind>
+                <type>cartContainsItemsOfCategoryCondition</type>
+                <parameters>
+                    <parameter>
+                        <key>categoryCode</key>
+                        <value>BBSHIRTS|BritneytBrodenUS</value>
+                    </parameter>
+                    <parameter>
+                        <key>numItemsQuantifier</key>
+                        <value>AT_LEAST</value>
+                    </parameter>
+                    <parameter>
+                        <key>numItems</key>
+                        <value>1</value>
+                    </parameter>
+                </parameters>
+                <exceptions/>
+            </condition>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>2f25c96d-8e6e-4cec-8323-fc0ea2c24e6a</code>
+        </action>
+    </actions>
+</rule>
+
+<rule>
+    <code>5125a45f-9d7d-4097-a209-e1898deb4dfe</code>
+    <conditions>
+        <and>
+            <condition>
+                <kind>Condition</kind>
+                <type>anySkuInCartCondition</type>
+                <parameters>
+                    <parameter>
+                        <key>numItems</key>
+                        <value>1</value>
+                    </parameter>
+                    <parameter>
+                        <key>numItemsQuantifier</key>
+                        <value>AT_LEAST</value>
+                    </parameter>
+                </parameters>
+                <exceptions/>
+            </condition>
+        </and>
+    </conditions>
+    <actions>
+        <action>
+            <type>ShoppingCartPromotion</type>
+            <code>5125a45f-9d7d-4097-a209-e1898deb4dfe</code>
+        </action>
+    </actions>
+</rule>
+
+</condition_rules>

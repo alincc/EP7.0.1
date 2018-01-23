@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer_groups>
+<!-- See ep-shared-demo-data for additional definitions -->
+
+<customer_group guid="b0890053-8050-4c49-b62d-82b670cf925d" name="EMPLOYEES" description="Britney Broden Employees">
+    <enabled>true</enabled>
+    <customer_roles>
+        <customer_role authority="ROLE_CUSTOMER"/>
+    </customer_roles>
+</customer_group>
+
+<customer_group guid="2b448e78-3744-4508-ba98-5bc521709d6c" name="VIP" description="Britney Broden VIP Customers">
+    <enabled>true</enabled>
+    <customer_roles>
+        <customer_role authority="ROLE_CUSTOMER"/>
+    </customer_roles>
+</customer_group>
+</customer_groups>

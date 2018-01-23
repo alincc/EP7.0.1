@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation=
+			   "http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		">
+
+	<!--
+	<bean id="catalogImportExternalEndpoint" class="com.elasticpath.messaging.camel.SettingValueBackedCamelEndpointFactoryBean">
+		<property name="path" value="COMMERCE/SYSTEM/MESSAGING/CATALOG/EXTERNAL/channelUri"/>
+		<property name="settingsReader" ref="settingsReader"/>
+		<property name="camelContextId" value="ext-message-handler"/>
+	</bean>
+	-->
+
+</beans>

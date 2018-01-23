@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<price_list_assignments>
+<price_list_assignment>
+    <guid>b7b38983-465b-4be6-bf64-3ea2a90eddb9</guid>
+    <name>Britney Broden US Default PLA</name>
+    <priority>5</priority>
+    <catalog_guid>BritneytBrodenUS</catalog_guid>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+    <selling_context>
+        <guid>ebaeb243-5506-41ca-835d-e04522005bf9</guid>
+        <name>SELLING_CONTEXT_NAME_null</name>
+        <description>SELLING_CONTEXT_DESCR_null</description>
+        <priority>0</priority>
+    </selling_context>
+</price_list_assignment>
+<price_list_assignment>
+    <guid>852d00bb-ccd7-4e66-a5d4-ff048c35061f</guid>
+    <name>Britney Broden Spain Default PLA</name>
+    <priority>5</priority>
+    <catalog_guid>BritneyBrodenSpain</catalog_guid>
+    <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+    <selling_context>
+        <guid>64cce931-037f-4a6f-a220-9e73a5f17e0e</guid>
+        <name>SELLING_CONTEXT_NAME_null</name>
+        <description>SELLING_CONTEXT_DESCR_null</description>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>09789146-598b-442b-bc3f-b43d3e8993bb</guid>
+                <name>1429899638276482000</name>
+                <condition_string> { OR { SELLING_CHANNEL.equalTo 'britney-espanol' }  } </condition_string>
+                <dictionary_guid>STORES</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</price_list_assignment>
+<price_list_assignment>
+    <guid>589a27ba-b719-4e8f-a907-39eb805eedab</guid>
+    <name>Britney Broden US Employee Pricing PLA</name>
+    <priority>3</priority>
+    <catalog_guid>BritneytBrodenUS</catalog_guid>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+    <selling_context>
+        <guid>02aad17f-d316-4fa4-bc96-beda8a5048cc</guid>
+        <name>SELLING_CONTEXT_NAME_null</name>
+        <description>SELLING_CONTEXT_DESCR_null</description>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>d6de65c0-e40d-4562-aacd-e7fb798d647d</guid>
+                <name>1430518015860830000</name>
+                <condition_string> { AND { AND { CUSTOMER_SEGMENT.includes 'EMPLOYEE' }  }  } </condition_string>
+                <dictionary_guid>PLA_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</price_list_assignment>
+</price_list_assignments>

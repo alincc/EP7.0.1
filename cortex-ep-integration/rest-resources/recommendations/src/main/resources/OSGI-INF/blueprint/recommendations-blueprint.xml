@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="resourceKernel"
+			interface="com.elasticpath.rest.resource.ResourceServerKernel"/>
+
+	<reference id="resourceIdentifierRegistry"
+			interface="com.elasticpath.rest.id.registry.ResourceIdentifierRegistry"/>
+
+	<reference id="storeRecommendationsLookupStrategy"
+			interface="com.elasticpath.rest.resource.recommendations.integration.StoreRecommendationsLookupStrategy"/>
+
+	<reference id="navigationRecommendationsLookupStrategy"
+			interface="com.elasticpath.rest.resource.recommendations.integration.NavigationRecommendationsLookupStrategy"/>
+
+	<reference id="itemRecommendationsLookupStrategy"
+			interface="com.elasticpath.rest.resource.recommendations.integration.ItemRecommendationsLookupStrategy"/>
+
+	<reference id="mediaTypeRepository"
+			interface="com.elasticpath.rest.resource.mediatype.MediaTypeRepository"/>
+
+	<reference id="paginatedLinksTransformer"
+			interface="com.elasticpath.rest.resource.pagination.transform.PaginatedLinksTransformer"/>
+
+	<!-- export services -->
+
+	<service
+			ref="plainStringIdentifierTransformer"
+			interface="com.elasticpath.rest.id.transform.IdentifierTransformer">
+		<service-properties>
+			<entry key="uri-part" value="recommendations.group-id"/>
+		</service-properties>
+	</service>
+
+	<service ref="permissionLookup" interface="com.elasticpath.rest.authorization.PermissionLookup">
+		<service-properties>
+			<entry key="resourceServerNames">
+				<array>
+					<ref component-id="resourceServerName"/>
+				</array>
+			</entry>
+		</service-properties>
+	</service>
+
+	<service ref="recommendationsUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.RecommendationsUriBuilderFactory"/>
+
+	<service auto-export="interfaces">
+		<bean class="com.elasticpath.rest.resource.dispatch.family.FamilyImpl">
+			<argument ref="resourceServerName"/>
+		</bean>
+	</service>
+</blueprint>

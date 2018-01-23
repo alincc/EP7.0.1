@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<amounts>
+<base_amount>
+    <guid>79217AFB-1AFF-3E9E-4D1D-8F1A606D6526</guid>
+    <object_guid>BBEP128</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1450.00</list_price>
+    <sale_price>1450.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>D28E89CD-F8B5-A96B-7722-FBB71AC4E68C</guid>
+    <object_guid>BBEP121</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>295.00</list_price>
+    <sale_price>295.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>12A5B665-655D-73BF-E40F-45809C7DC161</guid>
+    <object_guid>BBEP120</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>395.00</list_price>
+    <sale_price>395.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>70CCC65D-8963-C0EB-B975-8F784472B5B4</guid>
+    <object_guid>BBEP130</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1395.00</list_price>
+    <sale_price>1395.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>EC2787D6-5F7F-83C2-C81D-70478A344BC3</guid>
+    <object_guid>BBEP113</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1971.00</list_price>
+    <sale_price>1971.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>677F35B6-C622-9834-B209-18065BF7D9D3</guid>
+    <object_guid>BBEP108</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>495.00</list_price>
+    <sale_price>495.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>45817CE8-02F7-4C61-8DA1-FA983C93DE8A</guid>
+    <object_guid>BBEP109</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1395.00</list_price>
+    <sale_price>1395.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>49451785-3797-CF54-C568-5BFF025DFA2C</guid>
+    <object_guid>BBEP124</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>295.00</list_price>
+    <sale_price>295.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>02C08004-9731-D1F2-E62C-1047BE0CB7D1</guid>
+    <object_guid>BBEP104</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>195.00</list_price>
+    <sale_price>195.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>5317C77A-C795-E9A3-FF1C-BF4AF09E68E7</guid>
+    <object_guid>BBEP103</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1295.00</list_price>
+    <sale_price>1295.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>E01B027A-44EC-6999-5C67-7ADBA9943744</guid>
+    <object_guid>BBEP111</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>9899.00</list_price>
+    <sale_price>9899.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7D23E7E9-2AED-52E6-9FA8-9E7F9858EE55</guid>
+    <object_guid>BBEP105</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>195.00</list_price>
+    <sale_price>195.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>24853C68-DDFE-86D9-23CF-D644F2F8101A</guid>
+    <object_guid>BBEP107</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>495.00</list_price>
+    <sale_price>495.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>F2143453-591E-A183-1722-A1496894758F</guid>
+    <object_guid>BBEP135</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>3950.00</list_price>
+    <sale_price>3950.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1E8F8845-3C34-00B2-FBAA-C9F226E4913E</guid>
+    <object_guid>BBEP134</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>3990.00</list_price>
+    <sale_price>3990.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>96FAF78A-B8C9-E522-4765-6F5E5189FD26</guid>
+    <object_guid>BBEP101.Red-6</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>235.00</list_price>
+    <sale_price>235.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>45C1C9C0-B4BA-51AC-C05E-6D6B75C48A00</guid>
+    <object_guid>BBEP126</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>495.00</list_price>
+    <sale_price>495.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>BA2F46F7-CB97-3088-F20B-E116963B20E4</guid>
+    <object_guid>BBEP123</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>998.00</list_price>
+    <sale_price>998.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9A9C1EB7-C191-B820-A6AD-5D9B64F611BE</guid>
+    <object_guid>BBEP118</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>2900.00</list_price>
+    <sale_price>2900.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>C64112F1-A711-43C1-675F-B02A8BC7D1ED</guid>
+    <object_guid>BBEP117</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>750.00</list_price>
+    <sale_price>750.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>3A1BC709-6AF3-791E-DE27-5134561CC654</guid>
+    <object_guid>BBEP131</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1450.00</list_price>
+    <sale_price>1450.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>7BAEC61C-0C51-A544-AD9D-92F75F11C85E</guid>
+    <object_guid>BBEP114</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1971.00</list_price>
+    <sale_price>1971.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>F5BF3AA1-D587-87A5-C2AD-4FEBBEDC5391</guid>
+    <object_guid>BBEP129</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1850.00</list_price>
+    <sale_price>1850.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>E29620C1-4C52-96CD-1A70-D9B976B6BA0D</guid>
+    <object_guid>BBEP102</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>395.00</list_price>
+    <sale_price>395.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>D4BB56B8-DE47-FC6E-284A-36C83DD6C1F6</guid>
+    <object_guid>BBEP119</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>395.00</list_price>
+    <sale_price>395.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>19C5CDB8-1003-2F3E-56AB-773B191A93A1</guid>
+    <object_guid>BBEP136</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1990.00</list_price>
+    <sale_price>1990.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>B032912B-EB48-7835-58B8-94C1A38782D9</guid>
+    <object_guid>BBEP116</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1285.00</list_price>
+    <sale_price>1285.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>55B602ED-4853-F14F-33C4-FC12FE72FAAD</guid>
+    <object_guid>BBEP115</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>490.00</list_price>
+    <sale_price>490.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>ADDE909D-4D07-41D2-31F5-A389C8FF214C</guid>
+    <object_guid>BBEP125</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>495.00</list_price>
+    <sale_price>495.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>A36837B5-3805-20E3-D32B-E3FD0E2A14CA</guid>
+    <object_guid>BBEP112</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>8995.00</list_price>
+    <sale_price>8995.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>6AF13AF7-2FED-A676-0328-FAA604E3704F</guid>
+    <object_guid>BBEP112.ArticWhite-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>9995.00</list_price>
+    <sale_price>9995.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>2AE13D1A-6ACE-A2FF-557A-70A61F06E489</guid>
+    <object_guid>BBEP112.Red-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>9995.00</list_price>
+    <sale_price>9995.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>FB7CF890-B125-2465-2A8F-C9359F7AA57C</guid>
+    <object_guid>BBEP133</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>2990.00</list_price>
+    <sale_price>2990.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>504E05FC-897B-3A2B-4F6D-76B2A441056D</guid>
+    <object_guid>BBEP106</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>295.00</list_price>
+    <sale_price>295.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>00409039-7E17-8701-7C9E-FF7426CA181E</guid>
+    <object_guid>BBEP110</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1899.00</list_price>
+    <sale_price>1899.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>385CB469-FE22-DB11-7903-CF73911BE57D</guid>
+    <object_guid>BBEP110.Biege-L</object_guid>
+    <object_type>SKU</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1899.00</list_price>
+    <sale_price>1899.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>1AC2CB75-01E8-57DC-5088-F9AF1C43C822</guid>
+    <object_guid>BBEP132</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1950.00</list_price>
+    <sale_price>1950.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>CA86FD8D-5252-D050-3AEA-00E18CC93794</guid>
+    <object_guid>BBEP101</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>235.00</list_price>
+    <sale_price>235.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>40581527-BC5B-65D4-BA76-33B070E056CC</guid>
+    <object_guid>BBEP122</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>320.00</list_price>
+    <sale_price>320.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9618965F-46E6-F011-D945-C9119A14A36F</guid>
+    <object_guid>BBEP127</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>595.00</list_price>
+    <sale_price>595.00</sale_price>
+    <price_list_guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>316983F8-F410-6071-F4DB-54FA64DE79BB</guid>
+    <object_guid>BBEP116</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1156.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>F16ED16E-58EB-BFE0-97C8-EEAC278A5DA1</guid>
+    <object_guid>BBEP101</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>211.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>1BAE664E-B8A2-0158-E554-DA270DA113B0</guid>
+    <object_guid>BBEP119</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>355.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>57DF4062-B1EB-C2A9-37C6-DD3FC0118F1A</guid>
+    <object_guid>BBEP108</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>445.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>D15FD5B9-CCFC-4780-FB1F-A3A31205370B</guid>
+    <object_guid>BBEP135</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>3555.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>D8C92A9C-A105-64B7-B5C7-560767D30DD7</guid>
+    <object_guid>BBEP102</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>355.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>950F5FC8-927C-D7E1-E16F-6A93D557A958</guid>
+    <object_guid>BBEP131</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1305.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>8E8B903D-46AD-177F-6A9B-D5D08A2DF405</guid>
+    <object_guid>BBEP117</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>675.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>1DFD70BF-E38C-4D66-5EB2-B6897ABA0865</guid>
+    <object_guid>BBEP121</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>265.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>8141CEDA-95A1-191F-5E3A-4DD03FFD431B</guid>
+    <object_guid>BBEP133</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>2691.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>02BA7E46-FD82-1D9E-4BD6-90ADFA24CD36</guid>
+    <object_guid>BBEP118</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>2610.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>ED95074C-B49F-C97F-60E0-87D4F390D468</guid>
+    <object_guid>BBEP111</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>8909.10</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>F2AA78C8-251D-6139-E9A9-07C737F400E9</guid>
+    <object_guid>BBEP127</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>535.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>700EF2A1-1C14-E42C-252C-921B23C975AC</guid>
+    <object_guid>BBEP128</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1305.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>F3FDE738-917F-1B1F-6808-C83E1AEB6A29</guid>
+    <object_guid>BBEP106</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>265.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>BE250B95-E906-F469-5F98-27F483DC8BEF</guid>
+    <object_guid>BBEP120</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>355.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>EDC57529-AF1D-4F3F-5133-02A9D938DA61</guid>
+    <object_guid>BBEP136</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1791.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>CA2B4747-FAE1-AB61-A9F1-C45C16671F29</guid>
+    <object_guid>BBEP130</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1255.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>67F284B0-AAB2-7328-3504-BD07C03257BC</guid>
+    <object_guid>BBEP112</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>8995.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>A1ABB3C2-7107-6E80-737B-63CB8B258CD3</guid>
+    <object_guid>BBEP109</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1255.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>7EEE4FF3-C006-1546-EA50-F2E14F32DDBF</guid>
+    <object_guid>BBEP124</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>265.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>CADF35B2-0A44-B4F9-FF37-2982A8962FCE</guid>
+    <object_guid>BBEP125</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>445.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>9D48EC8E-54C6-17CF-6491-DAAE386260C8</guid>
+    <object_guid>BBEP123</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>898.20</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>C54269F2-1E26-B1C7-AD3A-BEC1BD6773F7</guid>
+    <object_guid>BBEP110</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1709.10</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>1705DE49-A4B6-12CA-37EA-E7573F4480D4</guid>
+    <object_guid>BBEP126</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>445.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>461BDEDC-56E5-6212-F461-E3CC98A2AB22</guid>
+    <object_guid>BBEP113</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1773.90</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>3AAB5871-4CB3-D4CC-C73A-DC6288E86B85</guid>
+    <object_guid>BBEP129</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1665.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>567CFD61-BBE0-291F-F254-38F0B6DB013E</guid>
+    <object_guid>BBEP122</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>288.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+
+<base_amount>
+    <guid>65E4909E-2C16-023A-0E5A-DEE21426E15A</guid>
+    <object_guid>BBEP114</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1773.90</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>8771716F-9E47-DC72-2CC8-DF7743781588</guid>
+    <object_guid>BBEP105</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>175.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>C26E0627-9556-2392-B15C-8527E522CEC3</guid>
+    <object_guid>BBEP134</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>3591.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>3FD8D2F1-DF4E-E0A2-777A-CAC8FC9E26E1</guid>
+    <object_guid>BBEP103</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1165.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>DF2806C4-81F8-5DA4-5E68-7298D6A2599D</guid>
+    <object_guid>BBEP104</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>175.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>3656AEC0-699E-4476-CDA1-D450BFD5974A</guid>
+    <object_guid>BBEP107</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>445.50</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>014510C0-44A3-8D51-68A3-FBCCA9A6CEB2</guid>
+    <object_guid>BBEP115</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>441.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+    <guid>DA36C48B-B74A-2428-0D46-576083BE0E47</guid>
+    <object_guid>BBEP132</object_guid>
+    <object_type>PRODUCT</object_type>
+    <quantity>1.00</quantity>
+    <list_price>1755.00</list_price>
+    <price_list_guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>DCD26384-A336-D694-5659-EB92F514D8F0</guid>
+  <object_guid>BBEP109</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1295.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>6AA93827-F3F5-1906-DB01-BF62C198A5C2</guid>
+  <object_guid>BBEP135</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>2950.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>85C7EC6F-5063-62A8-A067-93EC893AF4F4</guid>
+  <object_guid>BBEP128</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1350.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>89355640-5207-1320-2B7E-CE1773FCF128</guid>
+  <object_guid>BBEP126</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>395.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>F8F32165-0EBA-D64F-F5AC-FA5891B311EE</guid>
+  <object_guid>BBEP129</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1750.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>2D34F0CA-E5AD-7FA9-2496-F758B0CDFE83</guid>
+  <object_guid>BBEP114</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1891.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>E84FB530-FE5E-FE3A-5A21-F161CCD38F26</guid>
+  <object_guid>BBEP108</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>395.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>600D5B94-D6B5-622F-7568-3B00B2B8F04B</guid>
+  <object_guid>BBEP117</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>650.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>6998D76A-B79D-19CD-F439-AC31A30C527D</guid>
+  <object_guid>BBEP111</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>8899.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>CC2FFB38-D097-7F12-B47C-82D8143B767E</guid>
+  <object_guid>BBEP127</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>495.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>0E387CCD-CFEB-FDFE-1F26-BCF6E97ADF1F</guid>
+  <object_guid>BBEP125</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>395.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>18D40406-B51F-1FFB-92D6-0F016F5CBD4F</guid>
+  <object_guid>BBEP103</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1195.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>6AA8BA48-2A3A-AA6D-BFF7-6939197FA376</guid>
+  <object_guid>BBEP122</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>220.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>6CD884BA-41D5-1C5C-0704-971264F7348C</guid>
+  <object_guid>BBEP131</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1350.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>A41F87F8-7465-3621-CF8D-E41D19C53F86</guid>
+  <object_guid>BBEP118</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1900.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>BF5E9E89-D20E-D046-EEEB-F8DE86B47B6B</guid>
+  <object_guid>BBEP116</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1185.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>319FFA0B-F98B-5915-8471-D9DD69421532</guid>
+  <object_guid>BBEP119</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>295.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>F145E537-A76F-6544-E989-476078A2B6E5</guid>
+  <object_guid>BBEP124</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>195.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>3AE62801-64AA-A1CC-03F5-654023473227</guid>
+  <object_guid>BBEP123</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>888.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>828596D7-1A90-3F99-C145-B485DDF3634D</guid>
+  <object_guid>BBEP102</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>295.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>3FB98C0E-9140-FB6D-F2C8-C84D8359660B</guid>
+  <object_guid>BBEP107</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>395.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>5C73A8C8-4AAB-C6D7-67CE-F81265D69B01</guid>
+  <object_guid>BBEP101</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>135.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>0BF9C537-A8A4-B1AA-9FC2-EBD84F6D6B9A</guid>
+  <object_guid>BBEP136</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1890.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>B8624330-5EE7-3EB8-DC14-C9E0C289EE59</guid>
+  <object_guid>BBEP105</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>95.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>D6CED7A0-7A33-0DC2-1269-145B4A2CD96B</guid>
+  <object_guid>BBEP110</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1799.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>306D715A-5AEB-15BE-92B0-8E2BC7D784C1</guid>
+  <object_guid>BBEP112</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>7995.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>92FE032B-5160-8661-2FF3-C8D65E7E52DE</guid>
+  <object_guid>BBEP133</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1990.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>BC4AAFBE-B818-3950-DCF7-1D327134457B</guid>
+  <object_guid>BBEP113</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1871.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>A1F5AD5B-081A-7524-1D7E-E42A8DEF9EC9</guid>
+  <object_guid>BBEP120</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>295.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>671B18EF-478A-8868-C737-48E596F45A7D</guid>
+  <object_guid>BBEP121</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>195.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>E7DFE3AD-F642-0985-3EBB-DC24733BB467</guid>
+  <object_guid>BBEP132</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1750.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>8F8D3C7F-EEDF-426C-7027-F8FDC4A4363B</guid>
+  <object_guid>BBEP130</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>1295.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>F2101DDE-1896-D071-A089-79987E4DEE16</guid>
+  <object_guid>BBEP104</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>95.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>8F804349-72F5-DEF7-9882-CA0238B54F86</guid>
+  <object_guid>BBEP134</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>2990.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>8B9CAA95-5B37-A28E-F84F-4A7DC8173913</guid>
+  <object_guid>BBEP115</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>390.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+<base_amount>
+  <guid>7061ACAF-1EE0-B5F7-59D6-A61564AE8E83</guid>
+  <object_guid>BBEP106</object_guid>
+  <object_type>PRODUCT</object_type>
+  <quantity>1.00</quantity>
+  <list_price>195.00</list_price>
+  <price_list_guid>b6517f85-a027-498a-a6c6-bda5475ddc97</price_list_guid>
+</base_amount>
+</amounts>

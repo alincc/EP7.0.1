@@ -1,0 +1,29 @@
+###################################################################################
+#                                                                                 #
+# This file is not used.                                                          #
+#                                                                                 #
+# Instead it serves as documentation as to which properties are used in this      #
+# project that that could be overridden in your "ep.integration.properties" file. #
+#                                                                                 #
+###################################################################################
+
+# Enable tracing on a per-context basis; flag is 'camel.import.context.trace.enabled', camel context id is 'ep-camel-import'
+camel.import.context.trace.enabled=true
+
+# File share location for Camel Import
+camel.import.file.share.location=/home/ep/share
+camel.import.file.share.location.deadLetter=/home/ep/share/.error
+
+camel.import.endpoint.uri.fileshareEndpoint=file://${camel.import.file.share.location}?include=.*.new&move=.done&moveFailed=.error
+camel.import.endpoint.uri.fileshareDeadLetterEndpoint=file://${camel.import.file.share.location.deadLetter}?include=.*.new&move=.done
+camel.import.endpoint.uri.smtpHost.deadLetter=file://${camel.import.file.share.location.deadLetter}/.senderror
+
+# Email settings
+camel.import.emailFrom=no-reply@elasticpath.com
+camel.import.catalogfeed.error.emailTo=no-reply@elasticpath.com
+camel.import.catalogfeed.error.emailSubject=Camel Import Exception
+camel.import.catalogfeed.error.emailBody=The Camel Import failed while processing file: %s
+# 24 hours (1000L * 60 * 60 * 24 = 1000 milisecond * 60 second * 60 minutes * 24 hours => 86400000 miliseconds)
+camel.import.deadLetter.maximumRedeliveryDelay=86400000
+# always redeliver (unlimited)
+camel.import.deadLetter.maximumRedeliveries=-1

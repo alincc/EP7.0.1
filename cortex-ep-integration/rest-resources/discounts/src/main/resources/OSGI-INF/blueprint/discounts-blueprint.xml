@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		   xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		   xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceKernel"
+		interface="com.elasticpath.rest.resource.ResourceServerKernel"/>
+
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="resourceIdentifierRegistry"
+			interface="com.elasticpath.rest.id.registry.ResourceIdentifierRegistry"/>
+
+	<reference id="cartDiscountsLookupStrategy"
+		interface="com.elasticpath.rest.resource.discounts.integration.CartDiscountsLookupStrategy"/>
+
+	<reference id="purchaseDiscountsLookupStrategy"
+		interface="com.elasticpath.rest.resource.discounts.integration.PurchaseDiscountsLookupStrategy"/>
+
+	<reference id="mediaTypeRepository"
+			interface="com.elasticpath.rest.resource.mediatype.MediaTypeRepository"/>
+
+	<reference id="cartsUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.CartsUriBuilderFactory"/>
+
+	<reference id="purchaseUriBuilderFactory"
+			   interface="com.elasticpath.rest.schema.uri.PurchaseUriBuilderFactory"/>
+
+	<service ref="permissionLookup"
+		interface="com.elasticpath.rest.authorization.PermissionLookup">
+		<service-properties>
+			<entry key="resourceServerNames">
+				<array>
+					<ref component-id="resourceServerName"/>
+				</array>
+			</entry>
+		</service-properties>
+	</service>
+
+	<service auto-export="interfaces">
+		<bean class="com.elasticpath.rest.resource.dispatch.family.FamilyImpl">
+			<argument ref="resourceServerName"/>
+		</bean>
+	</service>
+</blueprint>

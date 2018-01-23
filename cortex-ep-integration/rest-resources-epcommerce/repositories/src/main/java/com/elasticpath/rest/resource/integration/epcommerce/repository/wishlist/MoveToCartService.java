@@ -1,0 +1,25 @@
+/*
+ * Copyright © 2016 Elastic Path Software Inc. All rights reserved.
+ */
+package com.elasticpath.rest.resource.integration.epcommerce.repository.wishlist;
+
+import rx.Single;
+
+import com.elasticpath.rest.definition.carts.LineItemEntity;
+import com.elasticpath.rest.definition.carts.LineItemIdentifier;
+import com.elasticpath.rest.definition.wishlists.WishlistLineItemIdentifier;
+
+/**
+ * Service interface for moving an item from wishlist to cart.
+ */
+public interface MoveToCartService {
+
+	/**
+	 * Move an item from wishlist to cart.
+	 *
+	 * @param wishlistLineItemIdentifier the wishlist line item identifier
+	 * @param lineItemEntity the line item entity
+	 * @return the line item identifier
+	 */
+	Single<LineItemIdentifier> move(WishlistLineItemIdentifier wishlistLineItemIdentifier, LineItemEntity lineItemEntity);
+}

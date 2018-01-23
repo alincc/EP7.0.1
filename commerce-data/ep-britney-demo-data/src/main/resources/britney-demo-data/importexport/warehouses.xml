@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<warehouses>
+<warehouse code="BritneyBrodenWarehouse">
+    <name>Britney Broden Warehouse</name>
+    <pick_delay>1</pick_delay>
+    <street1>168 Commercial Street</street1>
+    <street2></street2>
+    <city>Sunnyvalle</city>
+    <sub_country>CA</sub_country>
+    <zip_postal_code>94086</zip_postal_code>
+    <country>US</country>
+</warehouse>
+</warehouses>

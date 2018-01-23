@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:camel="http://camel.apache.org/schema/spring"
+	xsi:schemaLocation="
+          http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+	<!-- Routes -->
+	<bean id="camelImportRoute"
+		class="com.elasticpath.repo.camelimport.routes.CamelImportRoute">
+		<property name="sourceEndpoint" ref="fileshareEndpoint" />
+		<property name="extractCatalogFeedDataLocationProcessor" ref="extractCatalogFeedDataLocationProcessor" />
+		<property name="createManifestProcessor" ref="createManifestProcessor" />
+		<property name="createChangeSetProcessor" ref="createChangeSetProcessor" />
+		<property name="executeImportExportProcessor" ref="executeImportExportProcessor" />
+		<property name="lockChangeSetStateProcessor" ref="lockChangeSetStateProcessor" />
+		<property name="perExecutionLoggingProcessor" ref="perExecutionLoggingProcessor" />
+		<property name="useChangesets" value="false">
+			<!-- <bean parent="settingFactoryBean">
+				<property name="path" value="COMMERCE/SYSTEM/CHANGESETS/enable" />
+			</bean> -->
+		</property>
+		<property name="messageRenderer" ref="ieMessageRenderer" />
+	</bean>
+
+	<bean id="notifyCamelImportErrorRoute"
+		class="com.elasticpath.repo.camelimport.routes.NotifyCamelImportErrorRoute">
+		<property name="sourceEndpoint" ref="fileshareDeadLetterEndpoint" />
+		<property name="deadLetterEndpoint" ref="smtpHostDeadLetterEndpoint" />
+		<property name="smtpHostName" ref="smtpHostName" />
+		<property name="mailFrom" value="${camel.import.emailFrom:no-reply@elasticpath.com}" />
+		<property name="mailTo"
+			value="${camel.import.catalogfeed.error.emailTo:no-reply@elasticpath.com}" />
+		<property name="mailSubject"
+			value="${camel.import.catalogfeed.error.emailSubject:Camel Import Exception}" />
+		<property name="mailBody"
+			value="${camel.import.catalogfeed.error.emailBody:The Camel Import failed while processing file: %s}" />
+		<property name="maximumRedeliveries" value="${camel.import.deadLetter.maximumRedeliveries:-1}" />
+		<property name="maximumRedeliveryDelay"
+			value="${camel.import.deadLetter.maximumRedeliveryDelay:86400000}" />
+		<property name="fileAttachmentProcessor" ref="fileAttachmentProcessor" />
+	</bean>
+</beans>

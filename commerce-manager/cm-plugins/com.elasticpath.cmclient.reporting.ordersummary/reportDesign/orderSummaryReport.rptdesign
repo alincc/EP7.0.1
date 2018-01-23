@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.14" id="1">
+    <property name="createdBy">Eclipse BIRT Designer Version 2.2.0.v20070620 Build &lt;2.2.0.v20070625-0630></property>
+    <property name="units">in</property>
+    <property name="comments">Copyright (c) 2008 &lt;&lt;Elastic Path Software Inc.>></property>
+    <html-property name="description">Creates an OrderSummary Report.</html-property>
+    <text-property name="displayName">Order Summary Report</text-property>
+    <property name="iconFile">/templates/blank_report.gif</property>
+    <parameters>
+        <scalar-parameter name="isShowExchangeOnly" id="98">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">isShowExchangeOnly</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="store" id="99">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">store</text-property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="startDate" id="100">
+            <property name="valueType">static</property>
+            <property name="dataType">dateTime</property>
+            <text-property name="promptText">startDate</text-property>
+            <property name="isRequired">true</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Medium Date</property>
+                <property name="pattern">Medium Date</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="endDate" id="101">
+            <property name="valueType">static</property>
+            <property name="dataType">dateTime</property>
+            <text-property name="promptText">endDate</text-property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Medium Date</property>
+                <property name="pattern">Medium Date</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="currency" id="102">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">currency</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="orderSource" id="103">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">orderSource</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="waitExchangeCompletion" id="104">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">waitExchangeCompletion</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="cancelled" id="105">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">cancelled</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="complete" id="106">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">complete</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="inProgress" id="107">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">inProgress</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="onHold" id="108">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">onHold</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="partialShip" id="109">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">partialShip</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+        <scalar-parameter name="pendingReview" id="110">
+            <property name="valueType">static</property>
+            <property name="dataType">string</property>
+            <text-property name="promptText">pendingReview</text-property>
+            <property name="isRequired">false</property>
+            <property name="controlType">text-box</property>
+            <structure name="format">
+                <property name="category">Unformatted</property>
+            </structure>
+        </scalar-parameter>
+    </parameters>
+    <data-sources>
+        <script-data-source name="EpScriptedDatasource" id="66"/>
+    </data-sources>
+    <data-sets>
+        <script-data-set name="OrderSummary dataset" id="134">
+            <list-property name="resultSetHints">
+                <structure>
+                    <property name="position">1</property>
+                    <property name="name">Order Date</property>
+                    <property name="dataType">any</property>
+                </structure>
+                <structure>
+                    <property name="position">2</property>
+                    <property name="name">Number of Orders</property>
+                    <property name="dataType">any</property>
+                </structure>
+                <structure>
+                    <property name="position">3</property>
+                    <property name="name">Number of Items</property>
+                    <property name="dataType">any</property>
+                </structure>
+                <structure>
+                    <property name="position">4</property>
+                    <property name="name">Order Total</property>
+                    <property name="dataType">any</property>
+                </structure>
+                <structure>
+                    <property name="position">5</property>
+                    <property name="name">yearMonth</property>
+                    <property name="dataType">any</property>
+                </structure>
+            </list-property>
+            <list-property name="columnHints">
+                <structure>
+                    <property name="columnName">Order Date</property>
+                    <property name="displayName">Order Date</property>
+                </structure>
+                <structure>
+                    <property name="columnName">Number of Orders</property>
+                    <property name="displayName">Number of Orders</property>
+                </structure>
+                <structure>
+                    <property name="columnName">Number of Items</property>
+                    <property name="displayName">Number of Items</property>
+                </structure>
+                <structure>
+                    <property name="columnName">Order Total</property>
+                    <property name="displayName">Order Total</property>
+                </structure>
+                <structure>
+                    <property name="columnName">yearMonth</property>
+                    <property name="displayName">yearMonth</property>
+                </structure>
+            </list-property>
+            <structure name="cachedMetaData">
+                <list-property name="resultSet">
+                    <structure>
+                        <property name="position">1</property>
+                        <property name="name">Order Date</property>
+                        <property name="dataType">any</property>
+                    </structure>
+                    <structure>
+                        <property name="position">2</property>
+                        <property name="name">Number of Orders</property>
+                        <property name="dataType">any</property>
+                    </structure>
+                    <structure>
+                        <property name="position">3</property>
+                        <property name="name">Number of Items</property>
+                        <property name="dataType">any</property>
+                    </structure>
+                    <structure>
+                        <property name="position">4</property>
+                        <property name="name">Order Total</property>
+                        <property name="dataType">any</property>
+                    </structure>
+                    <structure>
+                        <property name="position">5</property>
+                        <property name="name">yearMonth</property>
+                        <property name="dataType">any</property>
+                    </structure>
+                </list-property>
+            </structure>
+            <property name="dataSource">EpScriptedDatasource</property>
+            <method name="open"><![CDATA[orderSummaryReportService = new Packages.com.elasticpath.cmclient.reporting.ordersummary.services.impl.OrderSummaryReportServiceImpl;
+java.lang.System.out.println(orderSummaryReportService);
+
+orders = orderSummaryReportService.orderSummaryReport();
+java.lang.System.out.println(orders);
+totalRows = orders.size();
+
+currentRow = 0;]]></method>
+            <method name="fetch"><![CDATA[if (currentRow >= totalRows) {
+    return false;
+}
+
+var order = orders.get(currentRow);
+
+currentRow++;
+
+row["Order Date"] = order[0];
+row["Number of Orders"] = order[1];
+row["Number of Items"] = order[2];
+row["Order Total"] = order[3];
+row["yearMonth"] = order[4];
+
+return true;]]></method>
+        </script-data-set>
+    </data-sets>
+    <styles>
+        <style name="crosstab-cell" id="4">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab" id="5">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="border" id="36">
+            <property name="borderBottomColor">#4F81BD</property>
+            <property name="borderLeftColor">#4F81BD</property>
+            <property name="borderRightColor">#4F81BD</property>
+            <property name="borderTopColor">#4F81BD</property>
+        </style>
+        <style name="ReportTitle" id="37">
+            <property name="backgroundColor">#4F81BD</property>
+            <property name="fontFamily">"Arial"</property>
+            <property name="fontSize">medium</property>
+            <property name="fontWeight">bold</property>
+            <property name="color">#FFFFFF</property>
+        </style>
+        <style name="AlterShade" id="112">
+            <property name="backgroundColor">#DBE5F1</property>
+            <property name="fontFamily">"Arial"</property>
+            <property name="fontSize">small</property>
+            <property name="fontWeight">bold</property>
+        </style>
+        <style name="Boldfont" id="113">
+            <property name="fontFamily">"Arial"</property>
+            <property name="fontSize">small</property>
+            <property name="fontWeight">bold</property>
+        </style>
+        <style name="AlterShadNoBold" id="114">
+            <property name="backgroundColor">#DBE5F1</property>
+            <property name="fontFamily">"Arial"</property>
+            <property name="fontSize">small</property>
+        </style>
+        <style name="aerialfont" id="121">
+            <property name="fontFamily">"Arial"</property>
+            <property name="fontSize">small</property>
+            <property name="fontWeight">normal</property>
+        </style>
+    </styles>
+    <page-setup>
+        <simple-master-page name="Simple MasterPage" id="2">
+            <property name="showHeaderOnFirst">true</property>
+            <property name="showFooterOnLast">true</property>
+        </simple-master-page>
+    </page-setup>
+    <body>
+        <grid id="6">
+            <property name="width">100%</property>
+            <column id="7"/>
+            <row id="8">
+                <property name="style">ReportTitle</property>
+                <cell id="9">
+                    <text id="65">
+                        <property name="style">ReportTitle</property>
+                        <property name="contentType">html</property>
+                        <text-property name="content"><![CDATA[Order Summary Report for <VALUE-OF>params["store"]</VALUE-OF>
+<BR>
+(<VALUE-OF>params["startDate"]</VALUE-OF> - <VALUE-OF>params["endDate"]</VALUE-OF>; 
+ Currency: <VALUE-OF>params["currency"]</VALUE-OF>; <VALUE-OF>params["orderSource"]</VALUE-OF>;
+<VALUE-OF>params["isShowExchangeOnly"]</VALUE-OF>
+Status: <VALUE-OF>params["internationalizedStatuses"]</VALUE-OF>)]]></text-property>
+                    </text>
+                </cell>
+            </row>
+            <row id="10">
+                <cell id="11">
+                    <table id="12">
+                        <property name="marginTop">0pt</property>
+                        <property name="width">100%</property>
+                        <property name="dataSet">OrderSummary dataset</property>
+                        <list-property name="boundDataColumns">
+                            <structure>
+                                <property name="name">Order Date</property>
+                                <expression name="expression">dataSetRow["Order Date"]</expression>
+                                <property name="dataType">any</property>
+                            </structure>
+                            <structure>
+                                <property name="name">Number of Orders</property>
+                                <expression name="expression">dataSetRow["Number of Orders"]</expression>
+                                <property name="dataType">any</property>
+                            </structure>
+                            <structure>
+                                <property name="name">Number of Items</property>
+                                <expression name="expression">dataSetRow["Number of Items"]</expression>
+                                <property name="dataType">any</property>
+                            </structure>
+                            <structure>
+                                <property name="name">Order Total</property>
+                                <expression name="expression">dataSetRow["Order Total"]</expression>
+                                <property name="dataType">any</property>
+                            </structure>
+                            <structure>
+                                <property name="name">yearMonth</property>
+                                <expression name="expression">dataSetRow["yearMonth"]</expression>
+                                <property name="dataType">any</property>
+                            </structure>
+                        </list-property>
+                        <column id="31"/>
+                        <column id="32"/>
+                        <column id="33"/>
+                        <column id="35"/>
+                        <group id="78">
+                            <property name="groupName">monthYear</property>
+                            <property name="interval">none</property>
+                            <property name="sortDirection">asc</property>
+                            <expression name="keyExpr">row["yearMonth"]</expression>
+                            <structure name="toc">
+                                <expression name="expressionValue">row["yearMonth"]</expression>
+                            </structure>
+                            <property name="repeatHeader">true</property>
+                            <property name="hideDetail">false</property>
+                            <property name="pageBreakAfter">auto</property>
+                            <property name="pageBreakBefore">auto</property>
+                            <property name="pageBreakInside">auto</property>
+                            <header>
+                                <row id="79">
+                                    <property name="style">AlterShade</property>
+                                    <property name="backgroundColor">#FFFFFF</property>
+                                    <list-property name="highlightRules">
+                                        <structure>
+                                            <property name="operator">eq</property>
+                                            <property name="backgroundColor">#DBE5F1</property>
+                                            <expression name="testExpr">row["__rownum"] % 2</expression>
+                                            <expression name="value1">0</expression>
+                                        </structure>
+                                    </list-property>
+                                    <cell id="80">
+                                        <property name="colSpan">4</property>
+                                        <property name="rowSpan">1</property>
+                                        <data id="141">
+                                            <property name="resultSetColumn">yearMonth</property>
+                                        </data>
+                                    </cell>
+                                </row>
+                                <row id="122">
+                                    <cell id="123"/>
+                                    <cell id="124"/>
+                                    <cell id="125"/>
+                                    <cell id="127"/>
+                                </row>
+                                <row id="128">
+                                    <property name="style">AlterShade</property>
+                                    <property name="backgroundColor">#FFFFFF</property>
+                                    <list-property name="highlightRules">
+                                        <structure>
+                                            <property name="operator">ne</property>
+                                            <property name="backgroundColor">#DBE5F1</property>
+                                            <expression name="testExpr">row["__rownum"] % 2</expression>
+                                            <expression name="value1">0</expression>
+                                        </structure>
+                                    </list-property>
+                                    <cell id="129">
+                                        <label id="68">
+                                            <text-property name="text">Order Date</text-property>
+                                        </label>
+                                    </cell>
+                                    <cell id="130">
+                                        <label id="70">
+                                            <text-property name="text">Number of Orders</text-property>
+                                        </label>
+                                    </cell>
+                                    <cell id="131">
+                                        <label id="116">
+                                            <text-property name="text">Number of Items</text-property>
+                                        </label>
+                                    </cell>
+                                    <cell id="133">
+                                        <label id="76">
+                                            <text-property name="text">Order Total</text-property>
+                                        </label>
+                                    </cell>
+                                </row>
+                            </header>
+                            <footer>
+                                <row id="85">
+                                    <cell id="86"/>
+                                    <cell id="87"/>
+                                    <cell id="88"/>
+                                    <cell id="90"/>
+                                </row>
+                            </footer>
+                        </group>
+                        <detail>
+                            <row id="19">
+                                <property name="style">aerialfont</property>
+                                <list-property name="highlightRules">
+                                    <structure>
+                                        <property name="operator">eq</property>
+                                        <property name="backgroundColor">#DBE5F1</property>
+                                        <expression name="testExpr">row["__rownum"] % 2</expression>
+                                        <expression name="value1">0</expression>
+                                    </structure>
+                                </list-property>
+                                <cell id="20">
+                                    <data id="136">
+                                        <property name="resultSetColumn">Order Date</property>
+                                    </data>
+                                </cell>
+                                <cell id="21">
+                                    <data id="137">
+                                        <property name="resultSetColumn">Number of Orders</property>
+                                    </data>
+                                </cell>
+                                <cell id="22">
+                                    <data id="138">
+                                        <property name="resultSetColumn">Number of Items</property>
+                                    </data>
+                                </cell>
+                                <cell id="24">
+                                    <data id="140">
+                                        <property name="resultSetColumn">Order Total</property>
+                                    </data>
+                                </cell>
+                            </row>
+                        </detail>
+                        <footer>
+                            <row id="25">
+                                <cell id="26"/>
+                                <cell id="27"/>
+                                <cell id="28"/>
+                                <cell id="30"/>
+                            </row>
+                        </footer>
+                    </table>
+                </cell>
+            </row>
+        </grid>
+    </body>
+</report>

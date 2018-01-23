@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogs>
+<catalog>
+    <code>BritneyBroden</code>
+    <type>master</type>
+    <name>Britney Broden</name>
+    <languages>
+        <language>en_US</language>
+        <language>es_ES</language>
+        <language>en</language>
+        <language>es</language>
+    </languages>
+    <defaultlanguage>en</defaultlanguage>
+    <attributes>
+        <attribute>
+            <key>features</key>
+            <name>Features</name>
+            <usage>Product</usage>
+            <type>LongText</type>
+            <multilanguage>true</multilanguage>
+            <required>false</required>
+            <multivalue>false</multivalue>
+            <global>true</global>
+        </attribute>
+        <attribute>
+            <key>summary</key>
+            <name>BBSummary</name>
+            <usage>Product</usage>
+            <type>LongText</type>
+            <multilanguage>false</multilanguage>
+            <required>false</required>
+            <multivalue>false</multivalue>
+            <global>true</global>
+        </attribute>
+        <attribute>
+            <key>tag</key>
+            <name>Tag</name>
+            <usage>Product</usage>
+            <type>ShortText</type>
+            <multilanguage>false</multilanguage>
+            <required>false</required>
+            <multivalue>true</multivalue>
+            <global>true</global>
+        </attribute>
+        <attribute>
+            <key>SourceURL</key>
+            <name>SourceURL</name>
+            <usage>Product</usage>
+            <type>LongText</type>
+            <multilanguage>false</multilanguage>
+            <required>false</required>
+            <multivalue>false</multivalue>
+            <global>false</global>
+        </attribute>
+        <attribute>
+            <key>ShortDescription</key>
+            <name>ShortDescription</name>
+            <usage>Product</usage>
+            <type>LongText</type>
+            <multilanguage>false</multilanguage>
+            <required>false</required>
+            <multivalue>false</multivalue>
+            <global>false</global>
+        </attribute>
+        <attribute>
+            <key>Dimensions</key>
+            <name>Dimensions</name>
+            <usage>Product</usage>
+            <type>ShortText</type>
+            <multilanguage>false</multilanguage>
+            <required>true</required>
+            <multivalue>true</multivalue>
+            <global>false</global>
+        </attribute>
+        <attribute>
+            <key>Country</key>
+            <name>Country</name>
+            <usage>Product</usage>
+            <type>ShortText</type>
+            <multilanguage>false</multilanguage>
+            <required>true</required>
+            <multivalue>false</multivalue>
+            <global>false</global>
+        </attribute>
+        <attribute>
+            <key>Material</key>
+            <name>Material</name>
+            <usage>Product</usage>
+            <type>ShortText</type>
+            <multilanguage>false</multilanguage>
+            <required>true</required>
+            <multivalue>false</multivalue>
+            <global>false</global>
+        </attribute>
+    </attributes>
+    <categorytypes>
+        <categorytype>
+            <guid>952b8a42-9d66-4c61-8b4e-16238926339c</guid>
+            <name>BBAccessories</name>
+            <assignedattributes/>
+        </categorytype>
+        <categorytype>
+            <guid>3477be45-c334-4973-bdf2-a00f7062392b</guid>
+            <name>BBApparel</name>
+            <assignedattributes/>
+        </categorytype>
+        <categorytype>
+            <guid>478ce3ff-e14f-4837-845a-c1b331b4905f</guid>
+            <name>BBFootwear</name>
+            <assignedattributes/>
+        </categorytype>
+    </categorytypes>
+    <producttypes>
+        <producttype>
+            <guid>b7171683-c5c8-4c47-8d49-6d6b47c23b73</guid>
+            <name>WARDROBE</name>
+            <assignedattributes>
+                <attributekey>summary</attributekey>
+                <attributekey>Material</attributekey>
+                <attributekey>features</attributekey>
+                <attributekey>ShortDescription</attributekey>
+                <attributekey>SourceURL</attributekey>
+                <attributekey>Country</attributekey>
+                <attributekey>Dimensions</attributekey>
+                <attributekey>tag</attributekey>
+            </assignedattributes>
+            <defaulttaxcode>NONE</defaulttaxcode>
+            <multisku>
+                <assignedskuoptions>
+                    <skuoption>bb-size</skuoption>
+                    <skuoption>bb-color</skuoption>
+                </assignedskuoptions>
+                <assignedattributes/>
+            </multisku>
+            <nodiscount>false</nodiscount>
+        </producttype>
+    </producttypes>
+    <skuoptions>
+        <skuoption>
+            <code>bb-color</code>
+            <name>
+                <value language="en_US">Color</value>
+                <value language="es_ES"/>
+                <value language="en">Color</value>
+                <value language="es"/>
+            </name>
+            <skuoptionvalues>
+                <skuoptionvalue>
+                    <code>bbdove</code>
+                    <name>
+                        <value language="en_US">Dove</value>
+                        <value language="es_ES"/>
+                        <value language="en">Dove</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>180</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbgold</code>
+                    <name>
+                        <value language="en_US">Gold</value>
+                        <value language="es_ES"/>
+                        <value language="en">Gold</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>340</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbmidnight</code>
+                    <name>
+                        <value language="en_US">Midnight</value>
+                        <value language="es_ES"/>
+                        <value language="en">Midnight</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>50</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbyellow</code>
+                    <name>
+                        <value language="en_US">Yellow</value>
+                        <value language="es_ES"/>
+                        <value language="en">Yellow</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>410</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbloodorange</code>
+                    <name>
+                        <value language="en_US">Blood Orange</value>
+                        <value language="es_ES"/>
+                        <value language="en">Blood Orange</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>120</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bblagoon</code>
+                    <name>
+                        <value language="en_US">Lagoon</value>
+                        <value language="es_ES"/>
+                        <value language="en">Lagoon</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>320</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbluebeige</code>
+                    <name>
+                        <value language="en_US">Beige/Blue with BB embossing</value>
+                        <value language="es_ES"/>
+                        <value language="en">Beige/Blue with BB embossing</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>280</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbblack</code>
+                    <name>
+                        <value language="en_US">Black</value>
+                        <value language="es_ES"/>
+                        <value language="en">Black</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>190</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbarcticwhite</code>
+                    <name>
+                        <value language="en_US">Artic White</value>
+                        <value language="es_ES"/>
+                        <value language="en">Artic White</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>100</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bblipstick</code>
+                    <name>
+                        <value language="en_US">Lipstick</value>
+                        <value language="es_ES"/>
+                        <value language="en">Lipstick</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>30</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbred</code>
+                    <name>
+                        <value language="en_US">Red</value>
+                        <value language="es_ES"/>
+                        <value language="en">Red</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>420</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbluewhiteleather</code>
+                    <name>
+                        <value language="en_US">Blue parasol canvas with off-white leather</value>
+                        <value language="es_ES"/>
+                        <value language="en">Blue parasol canvas with off-white leather</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>200</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbrown</code>
+                    <name>
+                        <value language="en_US">Brown</value>
+                        <value language="es_ES"/>
+                        <value language="en">Brown</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>170</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbeige</code>
+                    <name>
+                        <value language="en_US">Beige</value>
+                        <value language="es_ES"/>
+                        <value language="en">Beige</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>310</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bblightblue</code>
+                    <name>
+                        <value language="en_US">Light blue</value>
+                        <value language="es_ES"/>
+                        <value language="en">Light blue</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>240</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbsilver</code>
+                    <name>
+                        <value language="en_US">Silver</value>
+                        <value language="es_ES"/>
+                        <value language="en">Silver</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>350</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbmulti</code>
+                    <name>
+                        <value language="en_US">Multi-color</value>
+                        <value language="es_ES"/>
+                        <value language="en">Multi-color</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>220</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbfuchsia</code>
+                    <name>
+                        <value language="en_US">Fuchsia</value>
+                        <value language="es_ES"/>
+                        <value language="en">Fuchsia</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>160</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbflamingo</code>
+                    <name>
+                        <value language="en_US">Flamingo</value>
+                        <value language="es_ES"/>
+                        <value language="en">Flamingo</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>90</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbcandle</code>
+                    <name>
+                        <value language="en_US">Candle</value>
+                        <value language="es_ES"/>
+                        <value language="en">Candle</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>130</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbwhite</code>
+                    <name>
+                        <value language="en_US">White</value>
+                        <value language="es_ES"/>
+                        <value language="en">White</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>290</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbblackweb</code>
+                    <name>
+                        <value language="en_US">Black with signature web pattern</value>
+                        <value language="es_ES"/>
+                        <value language="en">Black with signature web pattern</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>10</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbgreen</code>
+                    <name>
+                        <value language="en_US">Green</value>
+                        <value language="es_ES"/>
+                        <value language="en">Green</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>60</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bblily</code>
+                    <name>
+                        <value language="en_US">Lily</value>
+                        <value language="es_ES"/>
+                        <value language="en">Lily</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>270</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbforestgreen</code>
+                    <name>
+                        <value language="en_US">Forest Green</value>
+                        <value language="es_ES"/>
+                        <value language="en">Forest Green</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>390</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbblue</code>
+                    <name>
+                        <value language="en_US">Blue</value>
+                        <value language="es_ES"/>
+                        <value language="en">Blue</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>70</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbviolet</code>
+                    <name>
+                        <value language="en_US">Violet</value>
+                        <value language="es_ES"/>
+                        <value language="en">Violet</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>300</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbebony</code>
+                    <name>
+                        <value language="en_US">Ebony</value>
+                        <value language="es_ES"/>
+                        <value language="en">Ebony</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>40</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbpetunia</code>
+                    <name>
+                        <value language="en_US">Petunia</value>
+                        <value language="es_ES"/>
+                        <value language="en">Petunia</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>80</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbcornyellow</code>
+                    <name>
+                        <value language="en_US">Corn Yellow</value>
+                        <value language="es_ES"/>
+                        <value language="en">Corn Yellow</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>230</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbgraphite</code>
+                    <name>
+                        <value language="en_US">Graphite</value>
+                        <value language="es_ES"/>
+                        <value language="en">Graphite</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>20</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbsapphire</code>
+                    <name>
+                        <value language="en_US">Sapphire</value>
+                        <value language="es_ES"/>
+                        <value language="en">Sapphire</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>260</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbchestnut</code>
+                    <name>
+                        <value language="en_US">Chestnut</value>
+                        <value language="es_ES"/>
+                        <value language="en">Chestnut</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>110</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbbeigebb</code>
+                    <name>
+                        <value language="en_US">Beige with BB embossing</value>
+                        <value language="es_ES"/>
+                        <value language="en">Beige with BB embossing</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>380</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbforest</code>
+                    <name>
+                        <value language="en_US">Forest</value>
+                        <value language="es_ES"/>
+                        <value language="en">Forest</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>330</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbjade</code>
+                    <name>
+                        <value language="en_US">Jade</value>
+                        <value language="es_ES"/>
+                        <value language="en">Jade</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>370</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbberry</code>
+                    <name>
+                        <value language="en_US">Berry</value>
+                        <value language="es_ES"/>
+                        <value language="en">Berry</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>210</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbgrey</code>
+                    <name>
+                        <value language="en_US">Grey</value>
+                        <value language="es_ES"/>
+                        <value language="en">Grey</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>400</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbblackgoldtrim</code>
+                    <name>
+                        <value language="en_US">Black with light gold trim</value>
+                        <value language="es_ES"/>
+                        <value language="en">Black with light gold trim</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>140</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbmauve</code>
+                    <name>
+                        <value language="en_US">Mauve</value>
+                        <value language="es_ES"/>
+                        <value language="en">Mauve</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>150</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbstripes</code>
+                    <name>
+                        <value language="en_US">Stripes</value>
+                        <value language="es_ES"/>
+                        <value language="en">Stripes</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>430</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbclementine</code>
+                    <name>
+                        <value language="en_US">Clementine</value>
+                        <value language="es_ES"/>
+                        <value language="en">Clementine</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>360</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>bbblush</code>
+                    <name>
+                        <value language="en_US">Blush</value>
+                        <value language="es_ES"/>
+                        <value language="en">Blush</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>250</ordering>
+                </skuoptionvalue>
+            </skuoptionvalues>
+        </skuoption>
+        <skuoption>
+            <code>bb-size</code>
+            <name>
+                <value language="en_US">Size</value>
+                <value language="es_ES"/>
+                <value language="en">Size</value>
+                <value language="es"/>
+            </name>
+            <skuoptionvalues>
+                <skuoptionvalue>
+                    <code>X-Small</code>
+                    <name>
+                        <value language="en_US">XS</value>
+                        <value language="es_ES"/>
+                        <value language="en">XS</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>100</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Medium</code>
+                    <name>
+                        <value language="en_US">M</value>
+                        <value language="es_ES"/>
+                        <value language="en">M</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>30</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Large</code>
+                    <name>
+                        <value language="en_US">L</value>
+                        <value language="es_ES"/>
+                        <value language="en">L</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>40</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Size-7</code>
+                    <name>
+                        <value language="en_US">7</value>
+                        <value language="es_ES"/>
+                        <value language="en">7</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>90</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Size-6</code>
+                    <name>
+                        <value language="en_US">6</value>
+                        <value language="es_ES"/>
+                        <value language="en">6</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>120</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Small</code>
+                    <name>
+                        <value language="en_US">S</value>
+                        <value language="es_ES"/>
+                        <value language="en">S</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>60</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>28-35</code>
+                    <name>
+                        <value language="en_US">28 to 35</value>
+                        <value language="es_ES"/>
+                        <value language="en">28 to 35</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>70</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Size-9</code>
+                    <name>
+                        <value language="en_US">9</value>
+                        <value language="es_ES"/>
+                        <value language="en">9</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>20</ordering>
+                </skuoptionvalue>
+                <skuoptionvalue>
+                    <code>Size-8</code>
+                    <name>
+                        <value language="en_US">8</value>
+                        <value language="es_ES"/>
+                        <value language="en">8</value>
+                        <value language="es"/>
+                    </name>
+                    <ordering>110</ordering>
+                </skuoptionvalue>
+            </skuoptionvalues>
+        </skuoption>
+    </skuoptions>
+    <brands>
+        <brand>
+            <code>BritneyBroden</code>
+            <name>
+                <value language="en_US">BritneyBroden</value>
+                <value language="es_ES"/>
+                <value language="en">BritneyBroden</value>
+                <value language="es"/>
+            </name>
+        </brand>
+    </brands>
+</catalog>
+
+<catalog>
+    <code>BritneytBrodenUS</code>
+    <type>virtual</type>
+    <name>Britney Broden US</name>
+    <defaultlanguage>en</defaultlanguage>
+</catalog>
+
+<catalog>
+    <code>BritneyBrodenSpain</code>
+    <type>virtual</type>
+    <name>Britney Broden Spain</name>
+    <defaultlanguage>es_ES</defaultlanguage>
+</catalog>
+</catalogs>

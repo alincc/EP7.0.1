@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<warehouses>
+<warehouse code="Geometrixx_US">
+    <name>Geometrixx_US</name>
+    <pick_delay>0</pick_delay>
+    <street1>5055 Lima Street</street1>
+    <street2></street2>
+    <city>Denver</city>
+    <sub_country>CO</sub_country>
+    <zip_postal_code>80239</zip_postal_code>
+    <country>US</country>
+</warehouse>
+</warehouses>

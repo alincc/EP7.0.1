@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<price_lists>
+<price_list>
+    <guid>7427af70-0694-4e58-8fc8-0ba0483bcb04</guid>
+    <description>Default pricing for Britney Broden US</description>
+    <currency_code>USD</currency_code>
+    <name>Britney Broden US Default Price List</name>
+    <hidden>false</hidden>
+</price_list>
+<price_list>
+    <guid>faff1b0a-9a35-48e3-82f9-47c9e9931a31</guid>
+    <description>Employee pricing for Britney Broden US</description>
+    <currency_code>USD</currency_code>
+    <name>Britney Broden US Employee Price List</name>
+    <hidden>false</hidden>
+</price_list>
+<price_list>
+    <guid>b6517f85-a027-498a-a6c6-bda5475ddc97</guid>
+    <description>Default pricing for Britney Broden Spain</description>
+    <currency_code>EUR</currency_code>
+    <name>Britney Broden Spain Default Price List</name>
+    <hidden>false</hidden>
+</price_list>
+</price_lists>

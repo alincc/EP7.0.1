@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shipping_service_levels>
+<shipping_service_level guid="e6d1e6f5-6683-4a12-b8d8-c1594f672994">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>30.0</value>
+                <display_text>30.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>britney</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">Expedited (1-2 days)</value>
+    </localized_names>
+    <code>CanadaPost_Expedited</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="9c3f67c4-e2d3-46f2-bd21-fbc3dc378e9b">
+    <shipping_region>Canada</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>15.0</value>
+                <display_text>15.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>britney</storecode>
+    <carrier>Canada Post</carrier>
+    <localized_names>
+        <value language="en">Standard (5-7 days)</value>
+    </localized_names>
+    <code>CanadaPost_Standard</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="9a96203e-338c-4d73-aa31-b34debd32d04">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>30.0</value>
+                <display_text>30.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>britney</storecode>
+    <carrier>UPS</carrier>
+    <localized_names>
+        <value language="en">Expedited (1-2 days)</value>
+    </localized_names>
+    <code>UPS_Expedited</code>
+    <active>true</active>
+</shipping_service_level>
+
+<shipping_service_level guid="0b7d0feb-95a1-4bc2-b155-e4386b945f28">
+    <shipping_region>USA</shipping_region>
+    <shipping_cost_calculation_method type="fixedPriceMethod">
+        <displayText>FixedPriceMethod_method_text</displayText>
+        <shipping_cost_calculation_params>
+            <shipping_cost_calculation_param>
+                <param_key>CalculationParameter_FixedPrice</param_key>
+                <value>15.0</value>
+                <display_text>15.0</display_text>
+                <currency>USD</currency>
+            </shipping_cost_calculation_param>
+        </shipping_cost_calculation_params>
+    </shipping_cost_calculation_method>
+    <storecode>britney</storecode>
+    <carrier>UPS</carrier>
+    <localized_names>
+        <value language="en">Standard (5-7 days)</value>
+    </localized_names>
+    <code>UPS_Standard</code>
+    <active>true</active>
+</shipping_service_level>
+</shipping_service_levels>

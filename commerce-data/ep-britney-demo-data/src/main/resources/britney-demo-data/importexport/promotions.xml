@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<promotions><promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>Free Standard Shipping</name>
+    <displayName>
+        <value language="en">Free Standard Shipping</value>
+    </displayName>
+    <code>6df38fc0-a682-43e8-afa3-76f1dc3d0c30</code>
+    <description>Your order qualifies for free standard shipping!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>UPS_Standard</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>CanadaPost_Standard</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>3ddc988e-7e93-4b75-998e-45dca1256a25</guid>
+        <name>Free Standard Shipping</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>16c4a60b-5919-475c-b3f4-888abadf08a7</guid>
+                <name>12144477099614</name>
+                <condition_string> { AND { AND { REGISTERED_CUSTOMER.equalTo false }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+<promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>VIP Fashionista Discount</name>
+    <displayName>
+        <value language="en">5% fashionista discount</value>
+    </displayName>
+    <code>12c3e98d-f073-4919-9a0b-0fba2fce4bc0</code>
+    <description>You've received a 5% fashionista discount!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartSubtotalPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>5</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>e3209245-a711-4848-a9fb-6373af854ab7</guid>
+        <name>5% fashionista discount</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>56188223-372b-4c9e-a439-5379f78747f1</guid>
+                <name>1430522145866063000</name>
+                <condition_string> { AND { AND { CUSTOMER_SEGMENT.includes 'VIP' }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+<promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>Free Fabric Belt Promotion</name>
+    <displayName>
+        <value language="en">Free Fabric Belt Promotion</value>
+    </displayName>
+    <code>2f25c96d-8e6e-4cec-8323-fc0ea2c24e6a</code>
+    <description>You've received a free Britney Broden Fabric Belt!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartNFreeSkusAction">
+            <parameters>
+                <parameter>
+                    <key>numItems</key>
+                    <value>1</value>
+                </parameter>
+                <parameter>
+                    <key>skuCode</key>
+                    <value>BBEP124.Black-28</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>Free Expedited Shipping</name>
+    <displayName>
+        <value language="en">Free Expedited Shipping</value>
+    </displayName>
+    <code>1009299c-b964-48a6-9c40-09e4dc070884</code>
+    <description>As a VIP customer, you are entitled for free expedited shipping!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>UPS_Expedited</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>CanadaPost_Expedited</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>d568069a-4aa1-4e7d-a52f-4b93a313c765</guid>
+        <name>Free Expedited Shipping</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>e9ce73d7-c9e5-4629-943f-82e79014d1a6</guid>
+                <name>11877702073667</name>
+                <condition_string> { AND { AND { CUSTOMER_SEGMENT.includes 'VIP' }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+<promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>Free Standard Shipping for VIP</name>
+    <displayName>
+        <value language="en">Free Standard Shipping</value>
+    </displayName>
+    <code>5125a45f-9d7d-4097-a209-e1898deb4dfe</code>
+    <description>As a VIP customer, you are entitled for free standard shipping!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>UPS_Standard</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>CanadaPost_Standard</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>dbe34554-fca2-4f51-bea2-baa441f869ff</guid>
+        <name>Free Standard Shipping for VIP</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>5c4f6261-ef91-4b39-999d-673082379f14</guid>
+                <name>3428286819951</name>
+                <condition_string> { AND { AND { CUSTOMER_SEGMENT.includes 'VIP' }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>britney</store_code>
+    <name>New York Runway Collection</name>
+    <displayName>
+        <value language="en">New York Runway Collection</value>
+    </displayName>
+    <code>814e57b3-ce4b-4a78-ab29-c50e10b9ffa0</code>
+    <description>You are getting the New York Runway Collection (Diamond Clutch and New York Dress) at VIP prices!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartProductPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>productCode</key>
+                    <value>BBEP111</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>10</value>
+                </parameter>
+                <parameter>
+                    <key>numItems</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="cartProductPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>productCode</key>
+                    <value>BBEP132</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>10</value>
+                </parameter>
+                <parameter>
+                    <key>numItems</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>1fc198cb-4fc2-4cb2-b2aa-544674ff846d</guid>
+        <name>New York Runway Collection</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>bac1b49f-89bc-42e2-85ff-1fd34601545e</guid>
+                <name>111390485460512</name>
+                <condition_string> { AND { AND { CUSTOMER_SEGMENT.includes 'VIP' }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+</promotions>

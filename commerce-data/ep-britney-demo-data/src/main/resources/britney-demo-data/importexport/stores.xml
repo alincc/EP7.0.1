@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stores>
+<store code="britney" enabled="true">
+    <globalization timeZone="Europe/London" country="US" sub_country="CA" content_encoding="UTF-8" default_locale="en" default_currency="USD"/>
+    <url>http://britneybroden.com</url>
+    <name>Britney Broden</name>
+    <state>200</state>
+    <type>B2B</type>
+    <description></description>
+    <catalog>BritneytBrodenUS</catalog>
+    <display_out_of_stock>true</display_out_of_stock>
+    <email_sender_name>admin@britneybroden.com</email_sender_name>
+    <email_sender_address>admin@britneybroden.com</email_sender_address>
+    <store_admin_email>admin@britneybroden.com</store_admin_email>
+    <credit_card_cvv2_enabled>true</credit_card_cvv2_enabled>
+    <store_full_credit_cards>false</store_full_credit_cards>
+    <locales>
+        <locale>en</locale>
+    </locales>
+    <currencies>
+        <currency>USD</currency>
+    </currencies>
+    <warehouses>
+        <warehouse>BritneyBrodenWarehouse</warehouse>
+    </warehouses>
+    <tax_codes>
+        <guid>502</guid>
+        <guid>500</guid>
+    </tax_codes>
+    <tax_jurisdictions>
+        <jurisdiction>CATaxJurisdiction</jurisdiction>
+        <jurisdiction>USTaxJurisdiction</jurisdiction>
+    </tax_jurisdictions>
+    <payment_gateways>
+        <gateway>DemoTokenPaymentProcessor</gateway>
+    </payment_gateways>
+    <credit_card_types>
+        <type>American Express</type>
+        <type>Visa</type>
+        <type>MasterCard</type>
+    </credit_card_types>
+</store>
+<store code="britney-espanol" enabled="true">
+    <globalization timeZone="Europe/London" country="ES" sub_country="" content_encoding="UTF-8" default_locale="es_ES" default_currency="EUR"/>
+    <url>http://britneybroden.sp</url>
+    <name>Britney Broden Spain</name>
+    <state>200</state>
+    <type>B2B</type>
+    <description></description>
+    <catalog>BritneyBrodenSpain</catalog>
+    <display_out_of_stock>true</display_out_of_stock>
+    <email_sender_name>admin@britneybroden.sp</email_sender_name>
+    <email_sender_address>admin@britneybroden.sp</email_sender_address>
+    <store_admin_email>admin@britneybroden.sp</store_admin_email>
+    <credit_card_cvv2_enabled>true</credit_card_cvv2_enabled>
+    <store_full_credit_cards>false</store_full_credit_cards>
+    <locales>
+        <locale>es_ES</locale>
+        <locale>es</locale>
+    </locales>
+    <currencies>
+        <currency>EUR</currency>
+    </currencies>
+    <warehouses>
+        <warehouse>BritneyBrodenWarehouse</warehouse>
+    </warehouses>
+    <tax_codes/>
+    <tax_jurisdictions/>
+    <payment_gateways>
+        <gateway>DemoTokenPaymentProcessor</gateway>
+    </payment_gateways>
+    <credit_card_types>
+        <type>Visa</type>
+    </credit_card_types>
+</store>
+
+</stores>

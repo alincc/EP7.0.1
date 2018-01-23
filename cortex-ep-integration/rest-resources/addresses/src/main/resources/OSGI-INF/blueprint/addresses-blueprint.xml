@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="resourceKernel"
+			interface="com.elasticpath.rest.resource.ResourceServerKernel"/>
+
+	<reference id="resourceOperationDispatcher"
+			interface="com.elasticpath.rest.resource.dispatch.operator.MethodDispatcher"
+			filter="(name=resourceOperationDispatcher)"/>
+
+	<reference id="resourceIdentifierRegistry"
+			interface="com.elasticpath.rest.id.registry.ResourceIdentifierRegistry"/>
+
+	<reference
+			id="addressWriterStrategy"
+			interface="com.elasticpath.rest.resource.addresses.integration.addresses.AddressWriterStrategy"/>
+
+	<reference
+			id="addressLookupStrategy"
+			interface="com.elasticpath.rest.resource.addresses.integration.addresses.AddressLookupStrategy"/>
+
+	<reference
+			id="defaultShippingAddressLookupStrategy"
+			component-name="defaultShippingAddressLookupStrategy"
+			interface="com.elasticpath.rest.resource.addresses.integration.addresses.alias.DefaultAddressLookupStrategy"/>
+
+	<reference
+			id="defaultBillingAddressLookupStrategy"
+			component-name="defaultBillingAddressLookupStrategy"
+			interface="com.elasticpath.rest.resource.addresses.integration.addresses.alias.DefaultAddressLookupStrategy"/>
+
+	<service ref="billingAddressListUriBuilderFactory"
+			 interface="com.elasticpath.rest.schema.uri.BillingAddressListUriBuilderFactory"/>
+
+	<service ref="shippingAddressListUriBuilderFactory"
+			 interface="com.elasticpath.rest.schema.uri.ShippingAddressListUriBuilderFactory"/>
+
+	<service ref="addressUriBuilderFactory"
+			 interface="com.elasticpath.rest.schema.uri.AddressUriBuilderFactory"/>
+
+	<service ref="addressFormUriBuilderFactory"
+			 interface="com.elasticpath.rest.schema.uri.AddressFormUriBuilderFactory"/>
+
+	<reference id="profilesUriBuilderFactory"
+			   interface="com.elasticpath.rest.schema.uri.ProfilesUriBuilderFactory"/>
+
+	<reference id="mediaTypeRepository"
+			   interface="com.elasticpath.rest.resource.mediatype.MediaTypeRepository"/>
+
+
+	<!-- export services -->
+	<service ref="resourceServer"
+			 interface="com.elasticpath.rest.resource.ResourceServer">
+		<service-properties>
+			<entry key="resourceServerName">
+				<ref component-id="resourceServerName"/>
+			</entry>
+		</service-properties>
+	</service>
+
+	<service ref="permissionLookup"
+			 interface="com.elasticpath.rest.authorization.PermissionLookup">
+		<service-properties>
+			<entry key="resourceServerNames">
+				<array>
+					<ref component-id="resourceServerName"/>
+				</array>
+			</entry>
+		</service-properties>
+	</service>
+
+	<service auto-export="interfaces">
+		<bean class="com.elasticpath.rest.resource.dispatch.family.FamilyImpl">
+			<argument ref="resourceServerName"/>
+		</bean>
+	</service>
+</blueprint>

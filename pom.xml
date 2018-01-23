@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+ 
+    <parent>
+        <groupId>com.elasticpath</groupId>
+        <artifactId>grandparent</artifactId>
+        <version>100</version>
+    </parent>
+ 
+    <groupId>com.elasticpath</groupId>
+    <artifactId>commerce-build</artifactId>
+    <packaging>pom</packaging>
+ 
+    <name>Commerce Global Build POM</name>
+    <version>0.0.0-SNAPSHOT</version>
+ 
+    <!-- Reactor for development builds -->
+    <modules>
+        <module>commerce-engine</module>
+        <module>cortex-ep-integration</module>
+        <module>commerce-manager/cm-invoker</module>
+        <module>extensions</module>
+    </modules>
+	
+    <profiles>
+        <!-- Profile to build deployment package at end of reactor -->
+        <profile>
+            <id>deployment-package</id>
+                <modules>
+                    <module>extensions/packager/ext-deployment-package</module>
+                </modules>
+        </profile>
+		
+        <!-- Profile to be activated in IDE so that CM plugins are recognized -->
+        <profile>
+            <id>ide-cm-plugins</id>
+                 <modules>
+                     <module>commerce-manager</module>
+                     <module>extensions/cm</module>
+                 </modules>
+       </profile>		
+    </profiles>
+ 
+</project>

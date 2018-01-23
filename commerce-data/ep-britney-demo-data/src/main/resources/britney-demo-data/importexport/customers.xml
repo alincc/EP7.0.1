@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+<customer guid="f668e68f-672d-4009-a322-441e15174b45" user_id="mercedes@ep.com" store_code="britney">
+    <status>1</status>
+    <first_time_buyer>false</first_time_buyer>
+    <creationDate>2014-10-31T07:09:13-07:00</creationDate>
+    <last_edited>2015-05-01T15:51:09.233-07:00</last_edited>
+    <password>4fb768681e258fc1d29323b4e93b1ec2928824c0bc94cbfd82ec683eaf3f941f</password>
+    <salt>b7b0aa1bd900eb6630741ef1ebfcf701976f6ff7dcc33d71a2269223db8e2a4e</salt>
+    <addresses>
+        <address guid="b53b5c06-6b3d-4208-964d-fe30f1a4b1bf">
+            <last_name>Voight</last_name>
+            <first_name>Mercedes</first_name>
+            <street1>Suite 1230</street1>
+            <street2>50 Central Park South</street2>
+            <city>New York</city>
+            <subCountry>NY</subCountry>
+            <zip_postal_code>10019</zip_postal_code>
+            <country>US</country>
+            <commercial>false</commercial>
+        </address>
+        <address guid="831c31a7-dbf6-4634-ae46-b8af01eae686">
+            <last_name>Voight</last_name>
+            <first_name>Mercedes</first_name>
+            <street1>33 Liberty Street</street1>
+            <street2></street2>
+            <city>New York</city>
+            <subCountry>NY</subCountry>
+            <zip_postal_code>10045</zip_postal_code>
+            <country>US</country>
+            <commercial>false</commercial>
+        </address>
+    </addresses>
+    <payment_methods/>
+    <groups>
+        <group>400</group>
+        <group>2b448e78-3744-4508-ba98-5bc521709d6c</group>
+    </groups>
+    <preferred_shipping_address>b53b5c06-6b3d-4208-964d-fe30f1a4b1bf</preferred_shipping_address>
+    <preferred_billing_address>b53b5c06-6b3d-4208-964d-fe30f1a4b1bf</preferred_billing_address>
+    <customer_profile>
+        <profile_value key="CP_FIRST_NAME" type="AttributeType_ShortText">Mercedes</profile_value>
+        <profile_value key="CP_EMAIL" type="AttributeType_ShortText">mercedes@ep.com</profile_value>
+        <profile_value key="CP_LAST_NAME" type="AttributeType_ShortText">Voight</profile_value>
+        <profile_value key="CP_ANONYMOUS_CUST" type="AttributeType_Boolean">false</profile_value>
+    </customer_profile>
+</customer>
+<customer guid="d5eee3fe-1941-49a7-8be3-4d2d4b19c04a" user_id="dana@ep.com" store_code="britney">
+    <status>1</status>
+    <first_time_buyer>false</first_time_buyer>
+    <creationDate>2015-05-01T15:40:23.244-07:00</creationDate>
+    <last_edited>2015-05-06T15:24:50.790-07:00</last_edited>
+    <password>37ddef377c9944bb1ed5532ce2e5836851e05038c2639571e100b97c76e5774d</password>
+    <salt>4ddb27e65b4ab614a41e12007102133dd9715f2e9d9fed5a6bd94a8f8c3863bb</salt>
+    <addresses/>
+    <payment_methods/>
+    <groups>
+        <group>400</group>
+        <group>b0890053-8050-4c49-b62d-82b670cf925d</group>
+    </groups>
+    <customer_profile>
+        <profile_value key="CP_FIRST_NAME" type="AttributeType_ShortText">Dana</profile_value>
+        <profile_value key="CP_EMAIL" type="AttributeType_ShortText">dana@ep.com</profile_value>
+        <profile_value key="CP_LAST_NAME" type="AttributeType_ShortText">Rushbrook</profile_value>
+        <profile_value key="CP_ANONYMOUS_CUST" type="AttributeType_Boolean">false</profile_value>
+    </customer_profile>
+</customer>
+</customers>

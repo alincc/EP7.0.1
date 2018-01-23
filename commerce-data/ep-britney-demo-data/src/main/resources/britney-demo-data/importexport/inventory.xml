@@ -1,0 +1,2632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inventory>
+<sku code="BBEP130.Blush-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Lily-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Lily-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.White-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Blush-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Black-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Blue-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Stripes-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Stripes-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Stripes-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Stripes-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Blue-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Lily-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Blush-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Candle-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Candle-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Candle-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Midnight-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Midnight-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Midnight-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Midnight-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Berry-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>2</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Lily-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Blush-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.Black-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.White-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.White-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP130.White-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Berry-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Berry-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Clementine-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Jade-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Clementine-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Jade-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Lily-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Lily-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Jade-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Lily-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP123.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP123.Mauve-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Candle-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP129.Berry-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Clementine-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Jade-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP123.Yellow-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Clementine-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Flamingo-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Flamingo-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Dove-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Dove-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Lagoon-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Flamingo-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Lagoon-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Flamingo-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Graphite-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Graphite-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Graphite-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Lily-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Lagoon-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Lagoon-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Dove-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP105.Graphite-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Chestnut-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Chestnut-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Chestnut-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Chestnut-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.White-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.White-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.White-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP108.White-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP128.Dove-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP121.Mauve-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP121.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP121.LightBlue-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Brown-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Brown-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Forest-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Forest-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Forest-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Forest-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Lipstick-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Lipstick-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Lipstick-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP103.Lipstick-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.ArticWhite-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Red-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.ArticWhite-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Red-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Mauve-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP112.Mauve-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP116.BeigeBB-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP116.BeigeBB-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP117.BlueWhiteLeather-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP117.BlueWhiteLeather-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Brown-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Brown-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP102.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP119.LightBlue-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP119.Mauve-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP126.Multi-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP127.Blackweb-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>2</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Red-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Gold-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Red-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Red-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Red-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Gold-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.BloodOrange-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.BloodOrange-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Gold-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.BloodOrange-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.Gold-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP106.BloodOrange-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP118.BlueBB-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP119.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP115.BlueBB-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP115.BlueBB-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP109.forestgreen-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP109.forestgreen-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP109.forestgreen-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP109.forestgreen-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Blue-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Blue-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Blue-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP107.Blue-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP120.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP120.Mauve-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP120.LightBlue-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Fuchsia-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>3</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Biege-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Fuchsia-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP110.Biege-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Green-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Green-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Green-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Clementine-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Clementine-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Clementine-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Red-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Clementine-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Green-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Red-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Red-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP124.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP125.Brown-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP125.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP101.Red-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP122.Beige-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP122.Black-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP122.Fuchsia-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP124.Ebony-28">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP113.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP113.Beige-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP114.BlackGold-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP113.Silver-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Black-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Black-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Black-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Black-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Red-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Violet-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Red-8">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Red-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Violet-6">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Violet-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>2</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Red-7">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP104.Violet-9">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+
+<sku code="BBEP132.Petunia-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Petunia-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Cornyellow-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>2</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Blue-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Cornyellow-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>0</onhand>
+        <available>0</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Petunia-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Blue-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Blue-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Petunia-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Cornyellow-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Blue-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP132.Cornyellow-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Blue-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP131.Blue-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Grey-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Black-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Grey-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Grey-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Grey-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Grey-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Black-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP133.Black-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP134.Grey-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>1</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP133.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP133.Black-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP111.White-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP133.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Blush-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Black-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Blush-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.White-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.White-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Blush-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Blush-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.White-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Black-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Black-S">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.Black-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Black-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Black-XS">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Grey-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP135.Grey-L">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+
+<sku code="BBEP136.White-M">
+    <warehouse code="BritneyBrodenWarehouse">
+        <onhand>10000</onhand>
+        <available>10000</available>
+        <allocated>0</allocated>
+        <reserved>0</reserved>
+        <reordermin>0</reordermin>
+        <reorderqty>1</reorderqty>
+    </warehouse>
+</sku>
+</inventory>

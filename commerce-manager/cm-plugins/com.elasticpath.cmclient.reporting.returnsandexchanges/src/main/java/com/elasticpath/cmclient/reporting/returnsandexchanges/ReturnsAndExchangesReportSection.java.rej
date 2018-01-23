@@ -1,0 +1,9 @@
+diff a/com.elasticpath.cmclient.reporting.returnsandexchanges/src/main/java/com/elasticpath/cmclient/reporting/returnsandexchanges/ReturnsAndExchangesReportSection.java b/com.elasticpath.cmclient.reporting.returnsandexchanges/src/main/java/com/elasticpath/cmclient/reporting/returnsandexchanges/ReturnsAndExchangesReportSection.java	(rejected hunks)
+@@ -379,2 +379,7 @@
+ 
++	/**
++	 * Gets the title of the report.
++	 * 
++	 * @return String the title of the report
++	 */
+ 	@Override

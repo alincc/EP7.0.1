@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="resourceKernel"
+			interface="com.elasticpath.rest.resource.ResourceServerKernel"/>
+
+	<reference id="resourceIdentifierRegistry"
+			interface="com.elasticpath.rest.id.registry.ResourceIdentifierRegistry"/>
+
+	<reference id="mediaTypeRepository"
+			interface="com.elasticpath.rest.resource.mediatype.MediaTypeRepository" />
+
+	<reference id="shipmentLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipments.integration.ShipmentLookupStrategy"/>
+
+	<reference id="shippingOptionLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipments.shippingoption.integration.ShippingOptionLookupStrategy"/>
+
+	<reference
+			id="shipmentLineItemsLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipments.lineitems.integration.ShipmentLineItemsLookupStrategy"/>
+
+	<reference
+			id="shipmentLineItemOptionsLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipments.lineitems.option.integration.ShipmentLineItemOptionsLookupStrategy"/>
+
+	<reference
+			id="purchaseUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.PurchaseUriBuilderFactory"/>
+
+	<reference
+			id="shippingAddressLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipments.addresses.integration.ShippingAddressLookupStrategy"/>
+
+	<!-- export services -->
+	<service ref="permissionLookup"
+			interface="com.elasticpath.rest.authorization.PermissionLookup">
+		<service-properties>
+			<entry key="resourceServerNames">
+				<array>
+					<ref component-id="resourceServerName"/>
+				</array>
+			</entry>
+		</service-properties>
+	</service>
+
+	<service auto-export="interfaces">
+		<bean class="com.elasticpath.rest.resource.dispatch.family.FamilyImpl">
+			<argument ref="resourceServerName"/>
+		</bean>
+	</service>
+
+	<service ref="shipmentsUriBuilderFactory" interface="com.elasticpath.rest.schema.uri.ShipmentsUriBuilderFactory"/>
+	<service ref="shippingOptionUriBuilderFactory" interface="com.elasticpath.rest.schema.uri.ShippingOptionUriBuilderFactory"/>
+	<service ref="shipmentLineItemUriBuilderFactory" interface="com.elasticpath.rest.schema.uri.ShipmentLineItemUriBuilderFactory"/>
+</blueprint>

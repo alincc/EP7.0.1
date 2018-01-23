@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coupon_sets>
+<coupon_set>
+    <coupon_config>
+        <rule_code>0c100949-5ce1-47ef-8722-9eafb683472d</rule_code>
+        <coupon_config_code>7dcb97af-85d4-4e73-86d1-fa4a76fb6964</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>2147483647</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>VIPONLY123</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+
+<coupon_set>
+    <coupon_config>
+        <rule_code>9e51ebb3-1ebc-4cb8-a860-1e8773f5aa22</rule_code>
+        <coupon_config_code>d8318cfa-c221-42f5-8063-7b17bbb01eb5</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>1</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>LIMITED1</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+
+<coupon_set>
+    <coupon_config>
+        <rule_code>7184e03a-bc27-40db-9a40-80239c073882</rule_code>
+        <coupon_config_code>a37233c0-e383-45e9-bc73-7fe20e9386a5</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>2147483647</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>NEWYEAR2013</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+
+<coupon_set>
+    <coupon_config>
+        <rule_code>a352e6ee-e299-499f-ae2d-293a321e2422</rule_code>
+        <coupon_config_code>f8362478-92c8-43ec-9d1a-dc58e94380af</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>2147483647</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>SUMMERTRAIN</coupon_code>
+        <coupon_code>GIRLSKI</coupon_code>
+        <coupon_code>LAYER</coupon_code>
+        <coupon_code>ENDUROLIFE</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+<coupon_set>
+    <coupon_config>
+        <rule_code>c458bdc5-8ff3-49e3-8cb0-b3b042c0d614</rule_code>
+        <coupon_config_code>07c8ba28-3659-459f-9a4f-33157c9de383</coupon_config_code>
+        <coupon_usage_type>limitPerCoupon</coupon_usage_type>
+        <usage_limit>2147483647</usage_limit>
+        <duration_days>60</duration_days>
+        <limited_duration>false</limited_duration>
+        <multi_use_per_order>false</multi_use_per_order>
+    </coupon_config>
+    <coupons>
+        <coupon_code>CUZCOSPECIAL</coupon_code>
+    </coupons>
+    <coupon_usages/>
+</coupon_set>
+</coupon_sets>

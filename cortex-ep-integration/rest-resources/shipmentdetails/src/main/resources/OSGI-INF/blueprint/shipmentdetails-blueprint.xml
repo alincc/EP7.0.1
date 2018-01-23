@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="resourceKernel"
+			interface="com.elasticpath.rest.resource.ResourceServerKernel"/>
+
+	<reference id="shipmentDetailsLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipmentdetails.integration.ShipmentDetailsLookupStrategy"/>
+
+	<reference id="resourceIdentifierRegistry"
+			   interface="com.elasticpath.rest.id.registry.ResourceIdentifierRegistry"/>
+
+	<reference id="destinationInfoLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipmentdetails.destinationinfo.integration.DestinationInfoLookupStrategy"/>
+
+	<reference id="destinationInfoWriterStrategy"
+			interface="com.elasticpath.rest.resource.shipmentdetails.destinationinfo.integration.DestinationInfoWriterStrategy"/>
+
+	<reference id="addressUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.AddressUriBuilderFactory"/>
+
+	<reference id="addressFormUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.AddressFormUriBuilderFactory"/>
+
+	<reference id="shippingAddressesListUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.ShippingAddressListUriBuilderFactory"/>
+
+	<reference id="deliveryUriBuilderFactory"
+			interface="com.elasticpath.rest.schema.uri.DeliveryUriBuilderFactory"/>
+
+	<reference id="shippingOptionLookupStrategy"
+			interface="com.elasticpath.rest.resource.shipmentdetails.shippingoption.integration.ShippingOptionLookupStrategy"/>
+
+	<reference id="shippingOptionWriterStrategy"
+			interface="com.elasticpath.rest.resource.shipmentdetails.shippingoption.integration.ShippingOptionWriterStrategy"/>
+
+	<!-- export services -->
+	<service auto-export="interfaces">
+		<bean class="com.elasticpath.rest.resource.dispatch.family.FamilyImpl">
+			<argument ref="resourceServerName"/>
+		</bean>
+	</service>
+
+	<service ref="permissionLookup"
+			interface="com.elasticpath.rest.authorization.PermissionLookup">
+		<service-properties>
+			<entry key="resourceServerNames">
+				<array>
+					<ref component-id="resourceServerName"/>
+				</array>
+			</entry>
+		</service-properties>
+	</service>
+
+</blueprint>

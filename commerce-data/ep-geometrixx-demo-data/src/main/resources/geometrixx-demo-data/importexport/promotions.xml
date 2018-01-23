@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<promotions>
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>10-bucks-off</name>
+    <displayName>
+        <value language="en">$10 off your order!</value>
+    </displayName>
+    <code>a352e6ee-e299-499f-ae2d-293a321e2422</code>
+    <description>Discount of $10 on your order.</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartSubtotalAmountDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountAmount</key>
+                    <value>10</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>20% off</name>
+    <displayName>
+        <value language="en">20% off for your order!</value>
+    </displayName>
+    <code>7184e03a-bc27-40db-9a40-80239c073882</code>
+    <description>20% off to celebrate new year 2013!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartSubtotalPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>7daf653b-3e71-4232-935e-5a4b4de79d97</guid>
+        <name>20% off</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>60ae35bd-99ad-4cdc-82ff-3dec0f904f8a</guid>
+                <name>461996068871009</name>
+                <condition_string> { AND { SHOPPING_START_TIME.greaterThan (1409586360000L) }  { SHOPPING_START_TIME.lessThan (1409589960000L) }  } </condition_string>
+                <dictionary_guid>TIME</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>20-bucks-off</name>
+    <displayName>
+        <value language="en">20-bucks-off</value>
+    </displayName>
+    <code>9e51ebb3-1ebc-4cb8-a860-1e8773f5aa22</code>
+    <description>Check out now as the first customer with coupon code LIMITED1 and you will get $20 off!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartSubtotalAmountDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountAmount</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>5-bucks-off</name>
+    <displayName>
+        <value language="en">5-bucks-off</value>
+    </displayName>
+    <code>0c100949-5ce1-47ef-8722-9eafb683472d</code>
+    <description>$5 off for our valuable returning customers</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartSubtotalAmountDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountAmount</key>
+                    <value>5</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+    <selling_context>
+        <guid>713e1f3c-b9b8-4598-95f0-de2df2d37873</guid>
+        <name>$30 off</name>
+        <priority>0</priority>
+        <conditions>
+            <condition>
+                <guid>7b5017bc-a924-41e5-9b17-9464988d4a28</guid>
+                <name>462831375667391</name>
+                <condition_string> { AND { AND { REGISTERED_CUSTOMER.equalTo true }  }  } </condition_string>
+                <dictionary_guid>PROMOTIONS_SHOPPER</dictionary_guid>
+            </condition>
+        </conditions>
+    </selling_context>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>Free Shipping</name>
+    <displayName>
+        <value language="en">Free Shipping</value>
+    </displayName>
+    <code>f1b88518-c507-45b9-bdeb-3bd10efe464f</code>
+    <description>Your order qualifies for free shipping!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>Canada_post</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="shippingPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>shippingServiceLevelCode</key>
+                    <value>USAFEDEX01</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>100</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>Free Davos Trek Water Bottle</name>
+    <displayName>
+        <value language="en">Free Davos Trek Water Bottle</value>
+    </displayName>
+    <code>fb9dec08-66d7-4a0c-beb7-2f65bfb56db8</code>
+    <description>You got a free Davos Trek water bottle for spending over $200</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartNFreeSkusAction">
+            <parameters>
+                <parameter>
+                    <key>numItems</key>
+                    <value>1</value>
+                </parameter>
+                <parameter>
+                    <key>skuCode</key>
+                    <value>eqsmdv</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>5-bucks-off Cuzco</name>
+    <displayName>
+        <value language="en">5-bucks-off Cuzco</value>
+    </displayName>
+    <code>c458bdc5-8ff3-49e3-8cb0-b3b042c0d614</code>
+    <description>You have gotten $5 discount for buying Cuzco!</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartProductAmountDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>numItems</key>
+                    <value>1</value>
+                </parameter>
+                <parameter>
+                    <key>productCode</key>
+                    <value>eqsmcz</value>
+                </parameter>
+                <parameter>
+                    <key>discountAmount</key>
+                    <value>5</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+
+<promotion type="Cart">
+    <store_code>geometrixx</store_code>
+    <name>Jola Summer and Ashanti Nomad Perfect Partner promotion</name>
+    <displayName>
+        <value language="en">Jola Summer and Ashanti Nomad with 10% discount</value>
+    </displayName>
+    <code>1d593366-cfc2-41c0-ad14-6a395b1c5212</code>
+    <description>Got Ashanti Nomad and Jola Summer together with 10% discount.</description>
+    <availability>
+        <enabled>true</enabled>
+    </availability>
+    <actions>
+        <action type="cartProductPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>numItems</key>
+                    <value>20</value>
+                </parameter>
+                <parameter>
+                    <key>productCode</key>
+                    <value>mnapjs</value>
+                </parameter>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>10</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+        <action type="cartProductPercentDiscountAction">
+            <parameters>
+                <parameter>
+                    <key>discountPercent</key>
+                    <value>10</value>
+                </parameter>
+                <parameter>
+                    <key>productCode</key>
+                    <value>mnapan</value>
+                </parameter>
+                <parameter>
+                    <key>numItems</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+            <exceptions/>
+        </action>
+    </actions>
+</promotion>
+</promotions>

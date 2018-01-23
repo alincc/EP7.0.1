@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Catalog xmlns="http://com.elasticpath/repo/catalog">
+	<Code>SHAW_WEB_CATALOG</Code>
+	<Attributes>
+		<Attribute key="Dimensions">
+			<name language="en">Dimensions</name>
+		</Attribute>
+	</Attributes>
+	<Products>
+		<Product>
+			<Code>BBL910_USC</Code>
+			<Name>
+				<Value language="en">the Boss™</Value>
+			</Name>
+			<Type>PRODUCT</Type>
+			<BrandCode>SHAW</BrandCode>
+			<TaxCode>GOODS</TaxCode>
+			<Availability region="CA">
+				<AvailabilityRule>AVAILABLE_WHEN_IN_STOCK</AvailabilityRule>
+				<Displayable>true</Displayable>
+				<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+				<MinimumOrderQty>1</MinimumOrderQty>
+			</Availability>
+			<AttributeValues>
+				<AttributeValue key="PRODATTR1">
+					<value language="en">Yes</value>
+					<value language="fr">Oui</value>
+				</AttributeValue>
+			</AttributeValues>
+			<Categories>
+				<Category>
+					<Code>BEVERAGE</Code>
+					<DisplayName>Beverages</DisplayName>
+				</Category>
+			</Categories>
+			<Associations/>
+			<Skus>
+				<Sku>
+					<Code>BBL910BKS_USC</Code>
+					<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="LCDDisplay">
+							<value language="en-US">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+							<value language="en-CA">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+							<value language="fr-CA">Écran ACL affichant le compte progressif pour réglages de vitesse, et le compte à rebours pour
+								réglages préprogrammés, pour un parfait contrôle.
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="fr-CA">Socle robuste en métal moulé
+
+								Récipient en Tritan sans BPA
+
+								Couvercle très performant conçu pour libérer la vapeur et prévenir les éclaboussures
+							</value>
+							<value language="en-US">NSF Certified
+								Heavy Duty Die-cast Metal Base
+								BPA-Free Tritan jug
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+							<value language="en-CA">NSF Certified
+
+								Heavy Duty Die-cast Metal Base
+
+								BPA-Free Tritan jug
+
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="JugCapacity">
+							<value language="en-US">Large 68oz (2.0 liter) shatterproof jug</value>
+							<value language="en-CA">Large 68oz (2.0 liter) shatterproof jug</value>
+							<value language="fr-CA">Récipient 2,0 l. en Tritan™ sans BPA</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="fr-CA">7 Year Limited Product Warranty</value>
+							<value language="en-US">7 Year Limited Product Warranty</value>
+							<value language="en-CA">7 Year Limited Product Warranty</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="fr-CA">Programmes à touche unique:
+
+								*Smoothie | *Smoothie vert | *Dessert glacé | *Soupe | *Impulsion/Glace broyée
+
+								Sélecteur de vitesse manuel: contrôle maximal à 12 vitesses allant de ‘remuer lentement’ à ‘moudre rapidement’
+
+								Fonction spécifique d’autonettoyage : nettoyage facile autour des lames
+
+								Minuterie avec compte progressif et à rebours
+
+								Touche Pause pour un contrôle maximal : Pause, Reprise ou Redémarrage d’un programme
+
+								Couvercle hermétique avec évents permettant de libérer la vapeur lors de la préparation des soupes
+
+								Rangement pour cordon rétractable
+							</value>
+							<value language="en-US">One Touch Programs:
+								*Smoothie | *Green Smoothie | *Frozen Dessert | *Soup | *Pulse/Ice Crush
+
+								Manual speed selector: Maximum control with 12 speeds from super slow up to high speed milling
+								Dedicated auto clean function: To easily clean around blades
+								Timer with count-up and count-down modes
+								Pause button for maximum control to pause, resume or restart program
+								Tight fitting vented lid which allows steam to escape during soup program
+								Push-in cord storage
+							</value>
+							<value language="en-CA">Shaw Assist™ Lid
+								LCD timer
+								Illuminated buttons
+								Cord Storage
+								jug made of BPA Free materials
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en-US">Blending with the Boss™ Appliance Science &amp; Recipes Book
+								Cook’n Recipe Organizer App
+								Flexible Spatula to assist with removal of ingredients after blending.
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+							<value language="en-CA">Blending with the Boss™ Appliance Science &amp; Recipes Book
+
+								Cook’n Recipe Organizer App
+
+								Flexible Spatula to assist with removal of ingredients after blending.
+
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+							<value language="fr-CA">Accessoires Inclus
+
+								Livre de recettes Blending with the Boss™ et science entourant l’appareil
+
+								Application d’organisation de recettes Cook’n
+
+								Spatule flexible pour faciliter le retrait des ingrédients après le mélange
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="fr-CA">110 - 120 Volts</value>
+							<value language="en-US">110 - 120 Volts</value>
+							<value language="en-CA">110 - 120 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="fr-CA">2.0 Horsepower motor
+								1500W
+							</value>
+							<value language="en-US">2.0 Horsepower motor
+								1500W
+							</value>
+							<value language="en-CA">2.0 Horsepower motor
+								1500W
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="fr-CA">7.5" (W) x 9.5" (D) x 18" (H)</value>
+							<value language="en-US">7 ¾" (W) x 9 ½" (D) x 18" (H)</value>
+							<value language="en-CA">7.5" (W) x 9.5" (D) x 18" (H)</value>
+						</AttributeValue>
+						<AttributeValue key="SpeedSettings">
+							<value language="fr-CA">Contrôle de vitesse manuel à 12 réglages allant de ‘remuer lentement’ à ‘moudre rapidement’
+							</value>
+							<value language="en-US">Manual speed control with12 speeds from super slow up to high speed milling</value>
+							<value language="en-CA">Manual speed control with12 speeds from super slow up to high speed milling</value>
+						</AttributeValue>
+						<AttributeValue key="ShawAssistLid">
+							<value language="fr-CA">Design unique du couvercle avec anneau Assist MC assurant un retrait facile et une étanchéité
+								durant le mélange
+							</value>
+							<value language="en-US">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+							<value language="en-CA">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+						</AttributeValue>
+						<AttributeValue key="BladeSystem">
+							<value language="en-US">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+							<value language="en-CA">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+							<value language="fr-CA">Système de bol et lames ProKinetix® avec 3 lames puissantes en acier inoxydable profilées à la
+								base du récipient, pour une puissance maximale et de meilleurs résultats
+							</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>BKS</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+				<Sku>
+					<Code>BBL910CRN_USC</Code>
+					<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="LCDDisplay">
+							<value language="en-US">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+							<value language="en-CA">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+							<value language="fr-CA">Écran ACL affichant le compte progressif pour réglages de vitesse, et le compte à rebours pour
+								réglages préprogrammés, pour un parfait contrôle.
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="fr-CA">Socle robuste en métal moulé
+
+								Récipient en Tritan sans BPA
+
+								Couvercle très performant conçu pour libérer la vapeur et prévenir les éclaboussures
+							</value>
+							<value language="en-US">NSF Certified
+								Heavy Duty Die-cast Metal Base
+								BPA-Free Tritan jug
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+							<value language="en-CA">NSF Certified
+
+								Heavy Duty Die-cast Metal Base
+
+								BPA-Free Tritan jug
+
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="JugCapacity">
+							<value language="en-US">Large 68oz (2.0 liter) shatterproof jug</value>
+							<value language="en-CA">Large 68oz (2.0 liter) shatterproof jug</value>
+							<value language="fr-CA">Récipient 2,0 l. en Tritan™ sans BPA</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="fr-CA">7 Year Limited Product Warranty</value>
+							<value language="en-US">7 Year Limited Product Warranty</value>
+							<value language="en-CA">7 Year Limited Product Warranty</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="fr-CA">Programmes à touche unique:
+
+								*Smoothie | *Smoothie vert | *Dessert glacé | *Soupe | *Impulsion/Glace broyée
+
+								Sélecteur de vitesse manuel: contrôle maximal à 12 vitesses allant de ‘remuer lentement’ à ‘moudre rapidement’
+
+								Fonction spécifique d’autonettoyage : nettoyage facile autour des lames
+
+								Minuterie avec compte progressif et à rebours
+
+								Touche Pause pour un contrôle maximal : Pause, Reprise ou Redémarrage d’un programme
+
+								Couvercle hermétique avec évents permettant de libérer la vapeur lors de la préparation des soupes
+
+								Rangement pour cordon rétractable
+							</value>
+							<value language="en-US">One Touch Programs:
+								*Smoothie | *Green Smoothie | *Frozen Dessert | *Soup | *Pulse/Ice Crush
+
+								Manual speed selector: Maximum control with 12 speeds from super slow up to high speed milling
+								Dedicated auto clean function: To easily clean around blades
+								Timer with count-up and count-down modes
+								Pause button for maximum control to pause, resume or restart program
+								Tight fitting vented lid which allows steam to escape during soup program
+								Push-in cord storage
+							</value>
+							<value language="en-CA">Shaw Assist™ Lid
+								LCD timer
+								Illuminated buttons
+								Cord Storage
+								jug made of BPA Free materials
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en-US">Blending with the Boss™ Appliance Science &amp; Recipes Book
+								Cook’n Recipe Organizer App
+								Flexible Spatula to assist with removal of ingredients after blending.
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+							<value language="en-CA">Blending with the Boss™ Appliance Science &amp; Recipes Book
+
+								Cook’n Recipe Organizer App
+
+								Flexible Spatula to assist with removal of ingredients after blending.
+
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+							<value language="fr-CA">Accessoires Inclus
+
+								Livre de recettes Blending with the Boss™ et science entourant l’appareil
+
+								Application d’organisation de recettes Cook’n
+
+								Spatule flexible pour faciliter le retrait des ingrédients après le mélange
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="fr-CA">110 - 120 Volts</value>
+							<value language="en-US">110 - 120 Volts</value>
+							<value language="en-CA">110 - 120 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="fr-CA">2.0 Horsepower motor
+								1500W
+							</value>
+							<value language="en-US">2.0 Horsepower motor
+								1500W
+							</value>
+							<value language="en-CA">2.0 Horsepower motor
+								1500W
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="fr-CA">7.5" (W) x 9.5" (D) x 18" (H)</value>
+							<value language="en-US">7 ¾" (W) x 9 ½" (D) x 18" (H)</value>
+							<value language="en-CA">7.5" (W) x 9.5" (D) x 18" (H)</value>
+						</AttributeValue>
+						<AttributeValue key="SpeedSettings">
+							<value language="fr-CA">Contrôle de vitesse manuel à 12 réglages allant de ‘remuer lentement’ à ‘moudre rapidement’
+							</value>
+							<value language="en-US">Manual speed control with12 speeds from super slow up to high speed milling</value>
+							<value language="en-CA">Manual speed control with12 speeds from super slow up to high speed milling</value>
+						</AttributeValue>
+						<AttributeValue key="ShawAssistLid">
+							<value language="fr-CA">Design unique du couvercle avec anneau Assist MC assurant un retrait facile et une étanchéité
+								durant le mélange
+							</value>
+							<value language="en-US">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+							<value language="en-CA">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+						</AttributeValue>
+						<AttributeValue key="BladeSystem">
+							<value language="en-US">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+							<value language="en-CA">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+							<value language="fr-CA">Système de bol et lames ProKinetix® avec 3 lames puissantes en acier inoxydable profilées à la
+								base du récipient, pour une puissance maximale et de meilleurs résultats
+							</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>CRN</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+			</Skus>
+		</Product>
+		<Product>
+			<Code>BBL910_ANZ</Code>
+			<Name>
+				<Value language="en">the Boss™</Value>
+			</Name>
+			<Type>PRODUCT</Type>
+			<BrandCode>SHAW</BrandCode>
+			<TaxCode>GOODS</TaxCode>
+			<Availability region="NZ">
+				<AvailabilityRule>AVAILABLE_WHEN_IN_STOCK</AvailabilityRule>
+				<Displayable>true</Displayable>
+				<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+				<MinimumOrderQty>1</MinimumOrderQty>
+			</Availability>
+			<AttributeValues>
+				<AttributeValue key="PRODATTR1">
+					<value language="en">Yes</value>
+					<value language="fr">Oui</value>
+				</AttributeValue>
+			</AttributeValues>
+			<Categories>
+				<Category>
+					<Code>BEVERAGE</Code>
+					<DisplayName>Beverages</DisplayName>
+				</Category>
+				<Category>
+					<Code>BREAKFAST</Code>
+					<DisplayName>Breakfast</DisplayName>
+				</Category>
+			</Categories>
+			<Associations/>
+			<Skus>
+				<Sku>
+					<Code>BBL910BKS_ANZ</Code>
+					<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="LCDDisplay">
+							<value language="en">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="en">NSF Certified
+
+								Heavy Duty Die-cast Metal Base
+
+								BPA-Free Tritan jug
+
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="JugCapacity">
+							<value language="en">Large 68oz (2.0 liter) shatterproof jug</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="en">7 Year Limited Product Warranty</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="en">Shaw Assist™ Lid
+								LCD timer
+								Illuminated buttons
+								Cord Storage
+								jug made of BPA Free materials
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en">Blending with the Boss™ Appliance Science &amp; Recipes Book
+
+								Cook’n Recipe Organizer App
+
+								Flexible Spatula to assist with removal of ingredients after blending.
+
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="en">240 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="en">2.0 Horsepower motor
+								1500W
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="en-CA">19cm (W) x 24cm (D) x 46cm (H)</value>
+						</AttributeValue>
+						<AttributeValue key="SpeedSettings">
+							<value language="en">Manual speed control with12 speeds from super slow up to high speed milling</value>
+						</AttributeValue>
+						<AttributeValue key="ShawAssistLid">
+							<value language="en">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+						</AttributeValue>
+						<AttributeValue key="BladeSystem">
+							<value language="en">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>BKS</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+				<Sku>
+					<Code>BBL910CRN_ANZ</Code>
+					<EnableDateTime>2016-01-01T14:47:00-06:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="LCDDisplay">
+							<value language="en">LCD display counts up on speed settings and down for pre-programmed settings for complete control
+								when blending
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="en">NSF Certified
+
+								Heavy Duty Die-cast Metal Base
+
+								BPA-Free Tritan jug
+
+								High Performance Lid designed to vent steam and prevent splatter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="JugCapacity">
+							<value language="en">Large 68oz (2.0 liter) shatterproof jug</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="en">7 Year Limited Product Warranty</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="en">Shaw Assist™ Lid
+								LCD timer
+								Illuminated buttons
+								Cord Storage
+								jug made of BPA Free materials
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en">Blending with the Boss™ Appliance Science &amp; Recipes Book
+
+								Cook’n Recipe Organizer App
+
+								Flexible Spatula to assist with removal of ingredients after blending.
+
+								Frozen Dessert Tamper helps push down frozen food into the blades.
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="en">240 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="en">2.0 Horsepower motor
+								1500W
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="en-CA">19cm (W) x 24cm (D) x 46cm (H)</value>
+						</AttributeValue>
+						<AttributeValue key="SpeedSettings">
+							<value language="en">Manual speed control with12 speeds from super slow up to high speed milling</value>
+						</AttributeValue>
+						<AttributeValue key="ShawAssistLid">
+							<value language="en">Shaw Assist™ Lid unique ring pull design ensures the lid is easy to remove yet sealed tight
+								during operation
+							</value>
+						</AttributeValue>
+						<AttributeValue key="BladeSystem">
+							<value language="en">ProKinetix® Blade and Bowl System designed with 3 powerful stainless steel blades contoured to the
+								base of the jug for maximum cutting power and processing results
+							</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>CRN</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+			</Skus>
+		</Product>
+		<Product>
+			<Code>BES980_USC</Code>
+			<Name>
+				<Value language="en">the Oracle™</Value>
+			</Name>
+			<Type>PRODUCT</Type>
+			<BrandCode>SHAW</BrandCode>
+			<Availability region="US">
+				<AvailabilityRule>AVAILABLE_WHEN_IN_STOCK</AvailabilityRule>
+				<Displayable>true</Displayable>
+				<EnableDateTime>2016-05-20T14:18:00-07:00</EnableDateTime>
+				<MinimumOrderQty>1</MinimumOrderQty>
+			</Availability>
+			<AttributeValues/>
+			<Categories>
+				<Category>
+					<Code>BEVERAGE</Code>
+					<DisplayName>Beverages</DisplayName>
+				</Category>
+			</Categories>
+			<Associations></Associations>
+			<Skus>
+				<Sku>
+					<Code>BES980BKS_USC</Code>
+					<EnableDateTime>2016-05-20T00:00:00-07:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="OnboardStorage">
+							<value language="fr-CA">Pour ranger les accessoires (trousse de nettoyage) non utilisés</value>
+							<value language="en-US">Houses accessories (cleaning kit) when not in use</value>
+							<value language="en-CA">Houses accessories (cleaning kit) when not in use</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="fr-CA">Acier inoxydable</value>
+							<value language="en-US">Stainless Steel</value>
+							<value language="en-CA">Stainless Steel</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="fr-CA">2 Year Repair</value>
+							<value language="en-US">2 Year Repair</value>
+							<value language="en-CA">2 Year Repair</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="fr-CA">Moud, dose et tasse sans gâchis la quantité requise de café
+
+								Moussage du lait mains libres programmable et purge automatique
+
+								La touche unique pour Americano distribue l’eau directement dans la tasse après l’extraction. 3 réglages prédéfinis et
+								6 réglages personnalisés
+
+								Deux chaudières en acier inoxydable et deux pompes italiennes. Les chaudières peuvent être détartrées par
+								l’utilisateur
+
+								Écrans ACL (3) rétroéclairés affichant les réglages en cours et les fonctions programmables
+
+								Éclairage encastré
+
+								Plateau chauffe-tasse
+
+								Température de l’espresso programmable à 88°- 96°C (190°-205°F). Affichage en degrés °C ou °F
+
+								Sortie dédiée à l’eau chaude pour Americano et préchauffage des tasses
+
+								Alerte de remplissage du réservoir (‘Fill Tank’) qui prévient l’extraction de l’espresso s’il n’y a pas suffisamment
+								d’eau dans le réservoir
+
+								Plateau d’égouttage amovible avec indicateur de trop plein (‘Empty Me!’)
+
+								Pied pivotant rétractable qui soulève la machine pour faciliter la manœuvrabilité
+
+								Sans BPA - toutes les pièces qui entrent en contact avec le café et l’eau
+							</value>
+							<value language="en-US">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+								Programmable hands-free milk texturing with automatic purge
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+								½lb removable bean hopper
+								Integrated conical burr grinder (stainless steel)
+								Backlit LCD's (3) display current settings &amp; programmable features
+								Work area down lights
+								Heated cup warming tray
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+								Removable drip tray with Empty Me! tray full indicator
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+							<value language="en-CA">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+
+								Programmable hands-free milk texturing with automatic purge
+
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+
+								½lb removable bean hopper
+
+								Integrated conical burr grinder (stainless steel)
+
+								Backlit LCD's (3) display current settings &amp; programmable features
+
+								Work area down lights
+
+								Heated cup warming tray
+
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+
+								Removable drip tray with Empty Me! tray full indicator
+
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="fr-CA">1800W</value>
+							<value language="en-US">1800W</value>
+							<value language="en-CA">1800W</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="fr-CA">15" (D) X 18" (H) X 16.25"(W)</value>
+							<value language="en-CA">15" (D) X 18" (H) X 16.25"(W)</value>
+						</AttributeValue>
+						<AttributeValue key="PumpPressure">
+							<value language="fr-CA">La soupape de surpression (OPV) limite la pression maximale durant l’extraction</value>
+							<value language="en-US">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+							<value language="en-CA">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+						</AttributeValue>
+						<AttributeValue key="WaterTankCapacity">
+							<value language="fr-CA">Réservoir amovible de 2,5 L (84 oz) avec filtre intégré et indicateur de niveau d’eau
+								rétroéclairé
+							</value>
+							<value language="en-US">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+							<value language="en-CA">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Timer">
+							<value language="fr-CA">Le chronomètre affiche la durée d’extraction de l’espresso et vous guide pour obtenir la
+								consistance désirée.
+
+								Le démarrage automatique (‘Auto Start’) programmable préchauffe la machine à une heure déterminée.
+
+								L’arrêt automatique (‘Auto Off’) éteint la machine après une durée déterminée.
+							</value>
+							<value language="en-US">Espresso shot clock displays shot duration as a guide to extraction consistency
+								Programmable 'Auto Start' preheats the machine at a specified time
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+							<value language="en-CA">Espresso shot clock displays shot duration as a guide to extraction consistency
+
+								Programmable 'Auto Start' preheats the machine at a specified time
+
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+						</AttributeValue>
+						<AttributeValue key="HeatingSystem">
+							<value language="fr-CA">Triple système de chauffage (en attente de brevet)
+
+								1. Chaudière dédiée à la vapeur avec échangeur de chaleur intégré qui facilite la stabilité thermique
+
+								2. Chaudière dédiée à l’espresso avec régulation thermique électronique PID qui assure une précision de température de
+								l’eau
+
+								3. Groupe d’infusion chauffé - élément intégré contrôlé PID qui maintient la stabilité thermique
+							</value>
+							<value language="en-US">Patent Pending Triple Heat System
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+							<value language="en-CA">Patent Pending Triple Heat System
+
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en-US">Mini grinds bin
+								58mm full stainless steel portafilter
+								58mm single wall filter basket
+								10oz stainless steel dual wall cup
+								16oz (480ml) stainless steel milk jug
+								Steam wand spare parts
+								Cleaning kit
+								Water hardness test strip
+								Water filter holder and water filter
+							</value>
+							<value language="en-CA">Mini grinds bin
+
+								58mm full stainless steel portafilter
+
+								58mm single wall filter basket
+
+								10oz stainless steel dual wall cup
+
+								16oz (480ml) stainless steel milk jug
+
+								Steam wand spare parts
+
+								Cleaning kit
+
+								Water hardness test strip
+
+								Water filter holder and water filter
+							</value>
+							<value language="fr-CA">Mini-récipient à mouture usée
+
+								Porte-filtre de 58 mm en acier inoxydable
+
+								Panier filtre à simple paroi de 58 mm
+
+								Tasse à double paroi de 285ml (10oz) en acier inoxydable
+
+								Pichet à lait de 480 ml (16oz) en acier inoxydable
+
+								Pièces de rechange pour buse vapeur
+
+								Trousse de nettoyage
+
+								Bandelette-test pour dureté de l’eau
+
+								Filtre à eau et support du filtre
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="fr-CA">110 - 120 Volts</value>
+							<value language="en-US">110 - 120 Volts</value>
+							<value language="en-CA">110 - 120 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="PreInfusionFunction">
+							<value language="fr-CA">Augmente graduellement la pression de l’eau et gonfle délicatement la mouture, pour une extraction
+								uniforme
+							</value>
+							<value language="en-US">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+							<value language="en-CA">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>BKS</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+				<Sku>
+					<Code>BES980CRN_USC</Code>
+					<EnableDateTime>2016-05-20T00:00:00-07:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="OnboardStorage">
+							<value language="fr-CA">Pour ranger les accessoires (trousse de nettoyage) non utilisés</value>
+							<value language="en-US">Houses accessories (cleaning kit) when not in use</value>
+							<value language="en-CA">Houses accessories (cleaning kit) when not in use</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="fr-CA">Acier inoxydable</value>
+							<value language="en-US">Stainless Steel</value>
+							<value language="en-CA">Stainless Steel</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="fr-CA">2 Year Repair</value>
+							<value language="en-US">2 Year Repair</value>
+							<value language="en-CA">2 Year Repair</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="fr-CA">Moud, dose et tasse sans gâchis la quantité requise de café
+
+								Moussage du lait mains libres programmable et purge automatique
+
+								La touche unique pour Americano distribue l’eau directement dans la tasse après l’extraction. 3 réglages prédéfinis et
+								6 réglages personnalisés
+
+								Deux chaudières en acier inoxydable et deux pompes italiennes. Les chaudières peuvent être détartrées par
+								l’utilisateur
+
+								Écrans ACL (3) rétroéclairés affichant les réglages en cours et les fonctions programmables
+
+								Éclairage encastré
+
+								Plateau chauffe-tasse
+
+								Température de l’espresso programmable à 88°- 96°C (190°-205°F). Affichage en degrés °C ou °F
+
+								Sortie dédiée à l’eau chaude pour Americano et préchauffage des tasses
+
+								Alerte de remplissage du réservoir (‘Fill Tank’) qui prévient l’extraction de l’espresso s’il n’y a pas suffisamment
+								d’eau dans le réservoir
+
+								Plateau d’égouttage amovible avec indicateur de trop plein (‘Empty Me!’)
+
+								Pied pivotant rétractable qui soulève la machine pour faciliter la manœuvrabilité
+
+								Sans BPA - toutes les pièces qui entrent en contact avec le café et l’eau
+							</value>
+							<value language="en-US">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+								Programmable hands-free milk texturing with automatic purge
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+								½lb removable bean hopper
+								Integrated conical burr grinder (stainless steel)
+								Backlit LCD's (3) display current settings &amp; programmable features
+								Work area down lights
+								Heated cup warming tray
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+								Removable drip tray with Empty Me! tray full indicator
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+							<value language="en-CA">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+
+								Programmable hands-free milk texturing with automatic purge
+
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+
+								½lb removable bean hopper
+
+								Integrated conical burr grinder (stainless steel)
+
+								Backlit LCD's (3) display current settings &amp; programmable features
+
+								Work area down lights
+
+								Heated cup warming tray
+
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+
+								Removable drip tray with Empty Me! tray full indicator
+
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="fr-CA">1800W</value>
+							<value language="en-US">1800W</value>
+							<value language="en-CA">1800W</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="fr-CA">15" (D) X 18" (H) X 16.25"(W)</value>
+							<value language="en-CA">15" (D) X 18" (H) X 16.25"(W)</value>
+						</AttributeValue>
+						<AttributeValue key="PumpPressure">
+							<value language="fr-CA">La soupape de surpression (OPV) limite la pression maximale durant l’extraction</value>
+							<value language="en-US">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+							<value language="en-CA">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+						</AttributeValue>
+						<AttributeValue key="WaterTankCapacity">
+							<value language="fr-CA">Réservoir amovible de 2,5 L (84 oz) avec filtre intégré et indicateur de niveau d’eau
+								rétroéclairé
+							</value>
+							<value language="en-US">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+							<value language="en-CA">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Timer">
+							<value language="fr-CA">Le chronomètre affiche la durée d’extraction de l’espresso et vous guide pour obtenir la
+								consistance désirée.
+
+								Le démarrage automatique (‘Auto Start’) programmable préchauffe la machine à une heure déterminée.
+
+								L’arrêt automatique (‘Auto Off’) éteint la machine après une durée déterminée.
+							</value>
+							<value language="en-US">Espresso shot clock displays shot duration as a guide to extraction consistency
+								Programmable 'Auto Start' preheats the machine at a specified time
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+							<value language="en-CA">Espresso shot clock displays shot duration as a guide to extraction consistency
+
+								Programmable 'Auto Start' preheats the machine at a specified time
+
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+						</AttributeValue>
+						<AttributeValue key="HeatingSystem">
+							<value language="fr-CA">Triple système de chauffage (en attente de brevet)
+
+								1. Chaudière dédiée à la vapeur avec échangeur de chaleur intégré qui facilite la stabilité thermique
+
+								2. Chaudière dédiée à l’espresso avec régulation thermique électronique PID qui assure une précision de température de
+								l’eau
+
+								3. Groupe d’infusion chauffé - élément intégré contrôlé PID qui maintient la stabilité thermique
+							</value>
+							<value language="en-US">Patent Pending Triple Heat System
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+							<value language="en-CA">Patent Pending Triple Heat System
+
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en-US">Mini grinds bin
+								58mm full stainless steel portafilter
+								58mm single wall filter basket
+								10oz stainless steel dual wall cup
+								16oz (480ml) stainless steel milk jug
+								Steam wand spare parts
+								Cleaning kit
+								Water hardness test strip
+								Water filter holder and water filter
+							</value>
+							<value language="en-CA">Mini grinds bin
+
+								58mm full stainless steel portafilter
+
+								58mm single wall filter basket
+
+								10oz stainless steel dual wall cup
+
+								16oz (480ml) stainless steel milk jug
+
+								Steam wand spare parts
+
+								Cleaning kit
+
+								Water hardness test strip
+
+								Water filter holder and water filter
+							</value>
+							<value language="fr-CA">Mini-récipient à mouture usée
+
+								Porte-filtre de 58 mm en acier inoxydable
+
+								Panier filtre à simple paroi de 58 mm
+
+								Tasse à double paroi de 285ml (10oz) en acier inoxydable
+
+								Pichet à lait de 480 ml (16oz) en acier inoxydable
+
+								Pièces de rechange pour buse vapeur
+
+								Trousse de nettoyage
+
+								Bandelette-test pour dureté de l’eau
+
+								Filtre à eau et support du filtre
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="fr-CA">110 - 120 Volts</value>
+							<value language="en-US">110 - 120 Volts</value>
+							<value language="en-CA">110 - 120 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="PreInfusionFunction">
+							<value language="fr-CA">Augmente graduellement la pression de l’eau et gonfle délicatement la mouture, pour une extraction
+								uniforme
+							</value>
+							<value language="en-US">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+							<value language="en-CA">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>CRN</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+			</Skus>
+		</Product>
+		<Product>
+			<Code>BES980_ANZ</Code>
+			<Name>
+				<Value language="en">the Oracle™</Value>
+			</Name>
+			<Type>PRODUCT</Type>
+			<BrandCode>SHAW</BrandCode>
+			<Availability region="NZ">
+				<AvailabilityRule>AVAILABLE_WHEN_IN_STOCK</AvailabilityRule>
+				<Displayable>true</Displayable>
+				<EnableDateTime>2016-05-20T14:18:00-07:00</EnableDateTime>
+				<MinimumOrderQty>1</MinimumOrderQty>
+			</Availability>
+			<AttributeValues/>
+			<Categories>
+				<Category>
+					<Code>BEVERAGE</Code>
+					<DisplayName>Beverages</DisplayName>
+				</Category>
+			</Categories>
+			<Associations></Associations>
+			<Skus>
+				<Sku>
+					<Code>BES980BKS_ANZ</Code>
+					<EnableDateTime>2016-05-20T00:00:00-07:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="OnboardStorage">
+							<value language="en">Houses accessories (cleaning kit) when not in use</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="en">Stainless Steel</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="en">2 Year Repair</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="en">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+
+								Programmable hands-free milk texturing with automatic purge
+
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+
+								½lb removable bean hopper
+
+								Integrated conical burr grinder (stainless steel)
+
+								Backlit LCD's (3) display current settings &amp; programmable features
+
+								Work area down lights
+
+								Heated cup warming tray
+
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+
+								Removable drip tray with Empty Me! tray full indicator
+
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="en">1800W</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="en">15" (D) X 18" (H) X 16.25"(W)</value>
+						</AttributeValue>
+						<AttributeValue key="PumpPressure">
+							<value language="en">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+						</AttributeValue>
+						<AttributeValue key="WaterTankCapacity">
+							<value language="en">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Timer">
+							<value language="en">Espresso shot clock displays shot duration as a guide to extraction consistency
+
+								Programmable 'Auto Start' preheats the machine at a specified time
+
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+						</AttributeValue>
+						<AttributeValue key="HeatingSystem">
+							<value language="en">Patent Pending Triple Heat System
+
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en">Mini grinds bin
+
+								58mm full stainless steel portafilter
+
+								58mm single wall filter basket
+
+								10oz stainless steel dual wall cup
+
+								16oz (480ml) stainless steel milk jug
+
+								Steam wand spare parts
+
+								Cleaning kit
+
+								Water hardness test strip
+
+								Water filter holder and water filter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="en">240 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="PreInfusionFunction">
+							<value language="en">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>BKS</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+				<Sku>
+					<Code>BES980CRN_ANZ</Code>
+					<EnableDateTime>2016-05-20T00:00:00-07:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="OnboardStorage">
+							<value language="en">Houses accessories (cleaning kit) when not in use</value>
+						</AttributeValue>
+						<AttributeValue key="Construction">
+							<value language="en">Stainless Steel</value>
+						</AttributeValue>
+						<AttributeValue key="Warranty">
+							<value language="en">2 Year Repair</value>
+						</AttributeValue>
+						<AttributeValue key="AdditionalFeatures">
+							<value language="en">Automatically grinds, doses &amp; tamps the required amount of coffee, mess free
+
+								Programmable hands-free milk texturing with automatic purge
+
+								One Touch Americano delivers water directly into the cup after extraction. 3 preset &amp; 6 customizable settings
+
+								Dual stainless steel boilers &amp; dual Italian pumps. Boilers can be descaled by user
+
+								½lb removable bean hopper
+
+								Integrated conical burr grinder (stainless steel)
+
+								Backlit LCD's (3) display current settings &amp; programmable features
+
+								Work area down lights
+
+								Heated cup warming tray
+
+								Programmable shot temperature from 190°-205°F. Displays in either °F or °C
+
+								Dedicated hot water outlet for Americanos &amp; pre-heating cups
+
+								'Fill Tank' alert prevents a shot from being pulled without sufficient water in the tank
+
+								Removable drip tray with Empty Me! tray full indicator
+
+								Drop Down Swivel Foot lifts machine upwards for easy maneuverability
+
+								BPA Free - all parts that come into contact with coffee &amp; water
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Wattage">
+							<value language="en">1800W</value>
+						</AttributeValue>
+						<AttributeValue key="Dimensions">
+							<value language="en">15" (D) X 18" (H) X 16.25"(W)</value>
+						</AttributeValue>
+						<AttributeValue key="PumpPressure">
+							<value language="en">Over Pressure Valve (OPV) limits maximum extraction pressure</value>
+						</AttributeValue>
+						<AttributeValue key="WaterTankCapacity">
+							<value language="en">Removable 84oz (2.5L) water tank with integrated water filter &amp; backlit level indicator
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Timer">
+							<value language="en">Espresso shot clock displays shot duration as a guide to extraction consistency
+
+								Programmable 'Auto Start' preheats the machine at a specified time
+
+								Programmable 'Auto Off' turns the machine off after a specified duration
+							</value>
+						</AttributeValue>
+						<AttributeValue key="HeatingSystem">
+							<value language="en">Patent Pending Triple Heat System
+
+								1. Dedicated steam boiler with integrated Heat Exchanger aids thermal stability
+
+								2. Dedicated espresso boiler with electronic PID delivers precise water temperature
+
+								3. Heated group head – PID controlled embedded element maintains thermal stability
+							</value>
+						</AttributeValue>
+						<AttributeValue key="IncludedAccessories">
+							<value language="en">Mini grinds bin
+
+								58mm full stainless steel portafilter
+
+								58mm single wall filter basket
+
+								10oz stainless steel dual wall cup
+
+								16oz (480ml) stainless steel milk jug
+
+								Steam wand spare parts
+
+								Cleaning kit
+
+								Water hardness test strip
+
+								Water filter holder and water filter
+							</value>
+						</AttributeValue>
+						<AttributeValue key="Voltage">
+							<value language="en">240 Volts</value>
+						</AttributeValue>
+						<AttributeValue key="PreInfusionFunction">
+							<value language="en">Gradually increases water pressure to gently expand grinds for an even extraction</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>CRN</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+			</Skus>
+		</Product>
+		<Product>
+			<Code>BES001_USC</Code>
+			<Name>
+				<Value language="en">the Knock Box Mini</Value>
+			</Name>
+			<Type>ACCESSORY</Type>
+			<BrandCode>SHAW</BrandCode>
+			<Availability region="CA">
+				<AvailabilityRule>AVAILABLE_WHEN_IN_STOCK</AvailabilityRule>
+				<Displayable>true</Displayable>
+				<EnableDateTime>2016-05-20T14:03:00-07:00</EnableDateTime>
+				<MinimumOrderQty>1</MinimumOrderQty>
+			</Availability>
+			<AttributeValues/>
+			<Categories>
+				<Category>
+					<Code>ACCESSORIES</Code>
+					<DisplayName>Accessories</DisplayName>
+				</Category>
+			</Categories>
+			<Associations/>
+			<Skus>
+				<Sku>
+					<Code>BES001_USC</Code>
+					<EnableDateTime>2016-05-20T13:28:00-07:00</EnableDateTime>
+					<AttributeValues/>
+					<Specifications>
+						<AttributeValue key="Description">
+							<value language="fr-CA">Strike the portafilter against the knock bar for quick, easy and mess-free disposal of the coffee puck. The durable knock bar is designed for aggressive use and is removable for easy cleaning of the inner vessel. Anti-slip rubber grip for increased stability on the countertop. Compact size (L) 4" x (D) 4" x (H) 4½</value>
+							<value language="en-US">Strike the portafilter against the knock bar for quick, easy and mess-free disposal of the coffee puck. The durable knock bar is designed for aggressive use and is removable for easy cleaning of the inner vessel. Anti-slip rubber grip for increased stability on the countertop.
+
+								Compact size (L) 4" x (D) 4" x (H) 4½</value>
+							<value language="en-CA">Strike the portafilter against the knock bar for quick, easy and mess-free disposal of the coffee puck. The durable knock bar is designed for aggressive use and is removable for easy cleaning of the inner vessel. Anti-slip rubber grip for increased stability on the countertop. Compact size (L) 4" x (D) 4" x (H) 4½</value>
+						</AttributeValue>
+					</Specifications>
+					<SkuOptions>
+						<SkuOption code="COLOUR">
+							<SkuOptionValue>NA</SkuOptionValue>
+						</SkuOption>
+					</SkuOptions>
+				</Sku>
+			</Skus>
+		</Product>
+	</Products>
+</Catalog>

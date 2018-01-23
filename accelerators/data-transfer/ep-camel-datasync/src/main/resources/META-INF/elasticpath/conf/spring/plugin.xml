@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:camel="http://camel.apache.org/schema/spring"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+		http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+		
+	<import resource="classpath:spring/service/changeset-services.xml" />
+	
+	<!-- Camel wiring -->
+	<import resource="../../../../camel/context.xml" />
+	<import resource="../../../../camel/processors.xml" />
+	<import resource="../../../../camel/routes.xml" />
+	<import resource="../../../../camel/endpoints.xml" />
+
+
+	<bean id="datasyncExecuter" class="com.elasticpath.repo.datasync.tools.launcher.DatasyncExecuter">		
+		<property name="scriptPath" value="${camel.datasync.client.script.path}" />
+		<property name="workingDir" value="${camel.datasync.client.working.dir}" />						
+	</bean>
+</beans>

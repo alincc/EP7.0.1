@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/util
+		http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+	<util:constant id="CHANGE_SET_FINALIZED" static-field="com.elasticpath.domain.changeset.ChangeSetStateCode.FINALIZED" />
+	<util:constant id="CHANGE_SET_OPEN" static-field="com.elasticpath.domain.changeset.ChangeSetStateCode.OPEN" />
+		
+	<bean id="publishChangeSetProcessor" class="com.elasticpath.repo.datasync.processors.PublishChangeSetProcessor">
+		<property name="datasyncExecuter" ref="datasyncExecuter" />
+	</bean>
+
+	<bean id="retrieveChangeSetGuidProcessor"
+		class="com.elasticpath.repo.datasync.processors.RetrieveChangeSetGuidProcessor" />
+
+	<bean id="finalizeChangeSetStateProcessor"
+		class="com.elasticpath.repo.datasync.processors.UpdateChangeSetStateProcessor">
+		<property name="changeSetManagementService" ref="changeSetManagementService" />
+		<property name="beanFactory" ref="coreBeanFactory" />
+		<property name="updateChangeSetState" ref="CHANGE_SET_FINALIZED" />
+	</bean>
+	
+	<bean id="changeSetPublishEmailProcessor"
+		class="com.elasticpath.repo.datasync.processors.ChangeSetPublishEmailProcessor">
+		<property name="changeSetManagementService" ref="changeSetManagementService" />
+		<property name="beanFactory" ref="coreBeanFactory" />
+		<property name="cmUserService" ref="cmUserService" />
+		<property name="mailFrom" value="${camel.datasync.emailFrom}" />
+	</bean>
+		
+	<bean id="openChangeSetStateProcessor"
+		class="com.elasticpath.repo.datasync.processors.UpdateChangeSetStateProcessor">
+		<property name="changeSetManagementService" ref="changeSetManagementService" />
+		<property name="beanFactory" ref="coreBeanFactory" />
+		<property name="updateChangeSetState" ref="CHANGE_SET_OPEN" />
+	</bean>
+</beans>

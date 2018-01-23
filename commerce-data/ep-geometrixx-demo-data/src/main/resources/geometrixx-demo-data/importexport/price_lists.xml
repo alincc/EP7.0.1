@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<price_lists>
+<price_list>
+    <guid>713763d6-13ac-402d-9d1a-13213086896f</guid>
+    <description></description>
+    <currency_code>USD</currency_code>
+    <name>Geometrixx Price List</name>
+    <hidden>false</hidden>
+</price_list>
+</price_lists>

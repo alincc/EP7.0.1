@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.elasticpath.repo</groupId>
+		<artifactId>accelerators-parent</artifactId>
+		<version>0.0.0-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>data-transfer</artifactId>
+	<!-- <version>1.2.0</version> -->
+	<packaging>pom</packaging>
+
+	<name>Data Transfer Accelerator Kit</name>
+	<description>Parent project for Camel data transfer accelerators</description>
+
+	<properties>
+		<epLicense.failOnError>false</epLicense.failOnError>
+		<org.mockito.version>1.9.5</org.mockito.version>
+	</properties>
+
+	<modules>
+		<module>ep-camel-import</module>
+		<module>ep-camel-datasync</module>
+	</modules>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.apache.camel</groupId>
+				<artifactId>camel-mail</artifactId>
+				<version>${org.apache.camel.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.mockito</groupId>
+				<artifactId>mockito-all</artifactId>
+				<version>${org.mockito.version}</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<profiles>
+		<!-- Package entire project as a ZIP -->
+		<profile>
+			<id>with-source</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-assembly-plugin</artifactId>
+						<version>2.4</version>
+						<inherited>false</inherited>
+						<executions>
+							<execution>
+								<id>package-project</id>
+								<goals>
+									<goal>single</goal>
+								</goals>
+								<phase>package</phase>
+								<configuration>
+									<descriptor>assembly.xml</descriptor>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+
+</project>

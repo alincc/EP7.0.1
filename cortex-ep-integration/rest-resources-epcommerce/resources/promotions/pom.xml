@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.elasticpath.rest.integration.epcommerce</groupId>
+		<artifactId>ep-commerce-engine-integrations-parent</artifactId>
+		<version>0.0.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>ep-resource-promotions-epcommerce</artifactId>
+	<packaging>bundle</packaging>
+	<name>EP ∷ / Promotions ʃ EpCommerce</name>
+	<description>Elastic Path REST - Promotions Resource EpCommerce Integration</description>
+
+	<properties>
+		<!-- Coverage defaults not met, setting bar at current for this module. Should be revised upwards only -->
+		<jacoco.instruction.covered-ratio>0.45</jacoco.instruction.covered-ratio>
+		<jacoco.line.covered-ratio>0.26</jacoco.line.covered-ratio>
+		<jacoco.complexity.covered-ratio>0.11</jacoco.complexity.covered-ratio>
+		<jacoco.method.covered-ratio>0.11</jacoco.method.covered-ratio>
+		<jacoco.class.covered-ratio>0.20</jacoco.class.covered-ratio>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.elasticpath.rest.resource.cortex</groupId>
+			<artifactId>ep-resource-promotions</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.elasticpath.rest.resource.cortex</groupId>
+			<artifactId>ep-resource-uribuilder-apis</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.elasticpath.rest.tests</groupId>
+			<artifactId>ep-rest-test-utils</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.elasticpath.rest.integration.epcommerce</groupId>
+			<artifactId>ep-rest-repositories-epcommerce</artifactId>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<configuration>
+					<instructions>
+						<Import-Package>
+							org.springframework.context.annotation,
+							*
+						</Import-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-checkstyle-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-pmd-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+</project>

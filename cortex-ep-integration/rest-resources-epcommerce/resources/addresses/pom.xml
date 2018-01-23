@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.elasticpath.rest.integration.epcommerce</groupId>
+		<artifactId>ep-commerce-engine-integrations-parent</artifactId>
+		<version>0.0.0-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>ep-resource-addresses-epcommerce</artifactId>
+	<packaging>bundle</packaging>
+	<name>EP ∷ / Addresses ʃ Commerce Engine</name>
+	<description>Elastic Path REST - Addresses Resource Commerce Engine Integration</description>
+
+	<properties>
+		<!-- Coverage defaults not met, setting bar at current for this module. Should be revised upwards only -->
+		<jacoco.branch.covered-ratio>0.80</jacoco.branch.covered-ratio>
+		<jacoco.instruction.covered-ratio>0.87</jacoco.instruction.covered-ratio>
+		<jacoco.line.covered-ratio>0.86</jacoco.line.covered-ratio>
+		<jacoco.complexity.covered-ratio>0.76</jacoco.complexity.covered-ratio>
+		<jacoco.method.covered-ratio>0.75</jacoco.method.covered-ratio>
+		<jacoco.class.covered-ratio>0.64</jacoco.class.covered-ratio>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.elasticpath.rest.integration.epcommerce</groupId>
+			<artifactId>ep-rest-commons-epcommerce</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.elasticpath.rest.integration.epcommerce</groupId>
+			<artifactId>ep-rest-repositories-epcommerce</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.elasticpath.rest.resource.cortex</groupId>
+			<artifactId>ep-resource-addresses</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<configuration>
+					<instructions>
+						<Import-Package>
+							org.springframework.context.annotation,
+							*
+						</Import-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-checkstyle-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-pmd-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+</project>

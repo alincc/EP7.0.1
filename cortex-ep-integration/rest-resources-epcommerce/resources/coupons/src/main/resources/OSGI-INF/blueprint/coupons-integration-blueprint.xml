@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="cartOrderRepository"
+		interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.CartOrderRepository" />
+
+	<reference id="storeRepository"
+		interface="com.elasticpath.rest.resource.integration.epcommerce.repository.store.StoreRepository" />
+
+	<reference id="shoppingCartRepository"
+		interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.ShoppingCartRepository" />
+
+	<reference id="couponRepository"
+		interface="com.elasticpath.rest.resource.integration.epcommerce.repository.coupon.CouponRepository" />
+
+	<reference id="orderRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.order.OrderRepository"/>
+
+
+	<!-- export services -->
+	<service ref="orderCouponsLookupStrategy"
+		interface="com.elasticpath.rest.resource.coupons.integration.OrderCouponsLookupStrategy" />
+
+	<service ref="orderCouponWriterStrategy"
+		interface="com.elasticpath.rest.resource.coupons.integration.OrderCouponWriterStrategy" />
+
+	<service ref="purchaseCouponsLookupStrategy"
+		interface="com.elasticpath.rest.resource.coupons.integration.PurchaseCouponsLookupStrategy" />
+
+</blueprint>

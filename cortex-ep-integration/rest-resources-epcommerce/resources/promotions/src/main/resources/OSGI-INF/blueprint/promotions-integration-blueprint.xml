@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="promotionRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.promotion.PromotionRepository" />
+	<reference id="couponRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.coupon.CouponRepository" />
+	<reference id="shoppingCartRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.ShoppingCartRepository" />
+	<reference id="resourceOperationContext"
+			   interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="cartOrderRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.CartOrderRepository"/>
+
+	<reference id="shippingServiceLevelRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.shipping.ShippingServiceLevelRepository"/>
+
+	<reference id="orderRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.order.OrderRepository"/>
+
+	<reference id="pricingSnapshotRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.PricingSnapshotRepository"/>
+
+	<!-- export services -->
+	<service ref="promotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.PromotionsLookupStrategy"/>
+
+	<service ref="appliedCartPromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.AppliedCartPromotionsLookupStrategy"/>
+
+	<service ref="possibleCartPromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.PossibleCartPromotionsLookupStrategy"/>
+
+	<service ref="appliedItemPromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.AppliedItemPromotionsLookupStrategy"/>
+
+	<service ref="possibleItemPromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.PossibleItemPromotionsLookupStrategy"/>
+
+	<service ref="appliedShippingOptionPromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.AppliedShippingOptionPromotionsLookupStrategy"/>
+
+	<service ref="appliedPurchasePromotionsLookupStrategy"
+		interface="com.elasticpath.rest.resource.promotions.integration.AppliedPurchasePromotionsLookupStrategy"/>
+
+	<service ref="appliedPurchaseCouponPromotionsLookupStrategy"
+			 interface="com.elasticpath.rest.resource.promotions.integration.AppliedPurchaseCouponPromotionsLookupStrategy"/>
+
+	<service ref="appliedOrderCouponPromotionsLookupStrategy"
+			 interface="com.elasticpath.rest.resource.promotions.integration.AppliedOrderCouponPromotionsLookupStrategy"/>
+
+</blueprint>

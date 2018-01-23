@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint
+		xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<!-- import services -->
+	<reference id="resourceOperationContext"
+			interface="com.elasticpath.rest.resource.ResourceOperationContext"/>
+
+	<reference id="moneyTransformer"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.transform.MoneyTransformer"/>
+
+	<reference id="totalsCalculator"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.calc.TotalsCalculator"/>
+		
+	<reference id="shipmentTotalsCalculator"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.calc.ShipmentTotalsCalculator"/>	
+			
+	<reference id="shippingCostTotalCalculator"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.calc.ShippingCostTotalCalculator"/>
+
+	<reference id="shipmentRepository"
+			interface="com.elasticpath.rest.resource.integration.epcommerce.repository.shipment.ShipmentRepository"/>
+
+	<reference id="pricingSnapshotRepository"
+			   interface="com.elasticpath.rest.resource.integration.epcommerce.repository.cartorder.PricingSnapshotRepository"/>
+
+	<!-- export services -->
+	<service ref="totalLookupStrategy"
+			interface="com.elasticpath.rest.resource.totals.integration.TotalLookupStrategy"/>
+
+	<service ref="shipmentTotalLookupStrategy"
+			interface="com.elasticpath.rest.resource.totals.integration.ShipmentTotalLookupStrategy"/>
+
+	<service ref="shipmentLineItemTotalLookupStrategy"
+			interface="com.elasticpath.rest.resource.totals.integration.ShipmentLineItemTotalLookupStrategy"/>
+
+
+</blueprint>

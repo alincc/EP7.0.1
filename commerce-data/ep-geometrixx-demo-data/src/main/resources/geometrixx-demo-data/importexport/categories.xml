@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+<category mastercatalog="geometrixx">
+    <guid>seasonal|geometrixx</guid>
+    <parentcategory></parentcategory>
+    <code>seasonal</code>
+    <name>
+        <value language="en">seasonal</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>summer|geometrixx</guid>
+    <parentcategory>seasonal</parentcategory>
+    <code>summer</code>
+    <name>
+        <value language="en">summer</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>winter|geometrixx</guid>
+    <parentcategory>seasonal</parentcategory>
+    <code>winter</code>
+    <name>
+        <value language="en">winter</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>apparels|geometrixx</guid>
+    <parentcategory>summer</parentcategory>
+    <code>apparels</code>
+    <name>
+        <value language="en">apparel</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>apparelw|geometrixx</guid>
+    <parentcategory>winter</parentcategory>
+    <code>apparelw</code>
+    <name>
+        <value language="en">apparel</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>equipment|geometrixx</guid>
+    <parentcategory></parentcategory>
+    <code>equipment</code>
+    <name>
+        <value language="en">equipment</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:49-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>men|geometrixx</guid>
+    <parentcategory></parentcategory>
+    <code>men</code>
+    <name>
+        <value language="en">men</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:50-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>women|geometrixx</guid>
+    <parentcategory></parentcategory>
+    <code>women</code>
+    <name>
+        <value language="en">women</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>swimming|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>swimming</code>
+    <name>
+        <value language="en">swimming</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>coatsm|geometrixx</guid>
+    <parentcategory>men</parentcategory>
+    <code>coatsm</code>
+    <name>
+        <value language="en">coats</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>shortsm|geometrixx</guid>
+    <parentcategory>men</parentcategory>
+    <code>shortsm</code>
+    <name>
+        <value language="en">shorts</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>pantsm|geometrixx</guid>
+    <parentcategory>men</parentcategory>
+    <code>pantsm</code>
+    <name>
+        <value language="en">pants</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>running|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>running</code>
+    <name>
+        <value language="en">running</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>skiing|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>skiing</code>
+    <name>
+        <value language="en">skiing</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>pantsw|geometrixx</guid>
+    <parentcategory>women</parentcategory>
+    <code>pantsw</code>
+    <name>
+        <value language="en">pants</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>coatsw|geometrixx</guid>
+    <parentcategory>women</parentcategory>
+    <code>coatsw</code>
+    <name>
+        <value language="en">coats</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>biking|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>biking</code>
+    <name>
+        <value language="en">biking</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>hiking|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>hiking</code>
+    <name>
+        <value language="en">hiking</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>shirtsw|geometrixx</guid>
+    <parentcategory>women</parentcategory>
+    <code>shirtsw</code>
+    <name>
+        <value language="en">shirts</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>shortsw|geometrixx</guid>
+    <parentcategory>women</parentcategory>
+    <code>shortsw</code>
+    <name>
+        <value language="en">shorts</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>sunglasses|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>sunglasses</code>
+    <name>
+        <value language="en">sunglasses</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>surfing|geometrixx</guid>
+    <parentcategory>equipment</parentcategory>
+    <code>surfing</code>
+    <name>
+        <value language="en">surfing</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:51-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>hatsw|geometrixx</guid>
+    <parentcategory>apparelw</parentcategory>
+    <code>hatsw</code>
+    <name>
+        <value language="en">hats</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>scarves|geometrixx</guid>
+    <parentcategory>apparelw</parentcategory>
+    <code>scarves</code>
+    <name>
+        <value language="en">scarves</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:53-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>hatss|geometrixx</guid>
+    <parentcategory>apparels</parentcategory>
+    <code>hatss</code>
+    <name>
+        <value language="en">hats</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+
+<category mastercatalog="geometrixx">
+    <guid>shirtsm|geometrixx</guid>
+    <parentcategory>men</parentcategory>
+    <code>shirtsm</code>
+    <name>
+        <value language="en">shirts</value>
+    </name>
+    <type>geometrixx_category</type>
+    <order>0</order>
+    <availability>
+        <storevisible>true</storevisible>
+        <enabledate>2013-11-28T03:28:52-08:00</enabledate>
+    </availability>
+    <attributes/>
+    <seo>
+        <url>
+            <value language="en"></value>
+        </url>
+        <title>
+            <value language="en"></value>
+        </title>
+        <keywords>
+            <value language="en"></value>
+        </keywords>
+        <description>
+            <value language="en"></value>
+        </description>
+    </seo>
+</category>
+</categories>

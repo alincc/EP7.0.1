@@ -1,0 +1,28 @@
+
+### STS/Eclipse ###
+.settings
+.apt_generated
+.factorypath
+.springBeans
+.classpath
+.project
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Ansible ###
+*.retry
+/uibuild/
+~*.xlsx
